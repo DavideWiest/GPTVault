@@ -11,12 +11,8 @@
             "id": "a521d69bfe53d2bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rival.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rival.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +150,13 @@
   },
   "active": "a521d69bfe53d2bb",
   "lastOpenFiles": [
+    "Intrinsic Value.md",
+    "Rival.md",
     "Foe.md",
     "Normal Distribution.md",
     "Proficiency.md",
     "Expertise.md",
     "Skill.md",
-    "Rival.md",
     "Object-Oriented Programming.md",
     "Waterfall Model.md",
     "Agile Development.md",
@@ -181,7 +175,6 @@
     "Topic.md",
     "Subdomain.md",
     "Southern Renaissance.md",
-    "Angle.md",
-    "Categorical Proposition.md"
+    "Angle.md"
   ]
 }
