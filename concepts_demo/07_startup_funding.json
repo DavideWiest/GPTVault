@@ -1,0 +1,16 @@
+{
+    "title": "Startup Funding",
+    "definition": "The process of raising capital to finance a new business venture or idea.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Seed Funding",
+        "Venture Capital",
+        "Angel Investors"
+    ],
+    "concept_fields": [
+        "Entrepreneurship",
+        "Finance",
+        "Investment"
+    ],
+    "depth": 7
+}

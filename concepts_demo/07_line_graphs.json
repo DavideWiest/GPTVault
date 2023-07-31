@@ -1,0 +1,14 @@
+{
+    "title": "Line Graphs",
+    "definition": "Line graphs are a type of chart used to display data trends over time.",
+    "known_since": "17",
+    "child_concepts": [
+        "Data Visualization",
+        "Graphs"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 7
+}

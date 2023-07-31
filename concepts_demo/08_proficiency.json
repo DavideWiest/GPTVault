@@ -1,0 +1,16 @@
+{
+    "title": "Proficiency",
+    "definition": "Proficiency refers to the level of skill or expertise that a person has in a particular area or subject.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+    ],
+    "concept_fields": [
+        "Education",
+        "Work Experience",
+        "Training"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Voiced fricatives",
+    "definition": "Voiced fricatives are consonant sounds produced by forcing air through a narrow channel in the vocal tract, creating friction and vibration.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Voiced dental fricatives",
+        "Voiced alveolar fricatives",
+        "Voiced palatal fricatives",
+        "Voiced velar fricatives",
+        "Voiced uvular fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

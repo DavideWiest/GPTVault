@@ -1,0 +1,14 @@
+{
+    "title": "Mean",
+    "definition": "The average value of a set of numbers.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Median",
+        "Mode"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Mathematics"
+    ],
+    "depth": 6
+}

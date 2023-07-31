@@ -1,0 +1,14 @@
+{
+    "title": "Local Variable",
+    "definition": "A local variable is a variable that is declared and used within a specific block of code or function.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Global Variable",
+        "Instance Variable"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Programming"
+    ],
+    "depth": 7
+}

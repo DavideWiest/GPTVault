@@ -1,0 +1,15 @@
+{
+    "title": "Vertex form",
+    "definition": "The vertex form of a quadratic function is a way to express the function in the form f(x) = a(x - h)^2 + k, where (h, k) represents the coordinates of the vertex.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Quadratic functions",
+        "Vertex",
+        "Parabola"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Calculus"
+    ],
+    "depth": 8
+}

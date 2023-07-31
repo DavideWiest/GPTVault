@@ -1,0 +1,14 @@
+{
+    "title": "Marginal Product",
+    "definition": "The additional output produced by using one more unit of input, while keeping all other inputs constant.",
+    "known_since": "1871",
+    "child_concepts": [
+        "Total Product",
+        "Average Product"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Production Theory"
+    ],
+    "depth": 7
+}

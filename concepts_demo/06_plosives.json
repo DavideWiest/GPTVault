@@ -1,0 +1,14 @@
+{
+    "title": "Plosives",
+    "definition": "Plosives are a type of consonant sound produced by completely blocking the airflow and then releasing it abruptly.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiceless plosives",
+        "Voiced plosives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 6
+}

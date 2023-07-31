@@ -1,0 +1,16 @@
+{
+    "title": "Supernatural",
+    "definition": "Supernatural refers to phenomena that are beyond the scope of scientific understanding or the laws of nature.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Ghosts",
+        "Demons",
+        "Angels"
+    ],
+    "concept_fields": [
+        "Paranormal",
+        "Occult",
+        "Mythology"
+    ],
+    "depth": 8
+}

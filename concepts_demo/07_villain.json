@@ -1,0 +1,15 @@
+{
+    "title": "Villain",
+    "definition": "A character in a story or movie who opposes the protagonist and creates conflict",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Henchman",
+        "Mastermind"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Comics"
+    ],
+    "depth": 7
+}

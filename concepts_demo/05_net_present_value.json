@@ -1,0 +1,16 @@
+{
+    "title": "Net Present Value",
+    "definition": "Net Present Value (NPV) is a financial metric that calculates the difference between the present value of cash inflows and outflows over a specific period of time.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Discount Rate",
+        "Cash Flow",
+        "Time Value of Money"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment",
+        "Accounting"
+    ],
+    "depth": 5
+}

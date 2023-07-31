@@ -1,0 +1,14 @@
+{
+    "title": "Tangent Spaces",
+    "definition": "In mathematics, a tangent space is the vector space that approximates the behavior of a manifold near a particular point on the manifold.",
+    "known_since": "1870",
+    "child_concepts": [
+        "Tangent vectors",
+        "Tangent bundle"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Manifolds"
+    ],
+    "depth": 7
+}

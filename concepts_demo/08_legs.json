@@ -1,0 +1,18 @@
+{
+    "title": "Legs",
+    "definition": "The limbs of an animal or human that support the body and allow for movement.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Thighs",
+        "Knees",
+        "Shins",
+        "Ankles",
+        "Feet"
+    ],
+    "concept_fields": [
+        "Anatomy",
+        "Biology",
+        "Physiology"
+    ],
+    "depth": 8
+}

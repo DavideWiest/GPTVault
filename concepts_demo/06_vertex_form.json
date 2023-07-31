@@ -1,0 +1,15 @@
+{
+    "title": "Vertex Form",
+    "definition": "A way to express a quadratic function in the form f(x) = a(x-h)^2 + k, where (h, k) represents the vertex of the parabola.",
+    "known_since": "9th century",
+    "child_concepts": [
+        "Quadratic Function",
+        "Vertex",
+        "Parabola"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 6
+}

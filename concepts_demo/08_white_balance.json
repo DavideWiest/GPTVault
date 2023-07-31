@@ -1,0 +1,14 @@
+{
+    "title": "White Balance",
+    "definition": "White balance is the process of adjusting the colors in an image to make them appear more natural by removing any color casts caused by the lighting conditions.",
+    "known_since": "1880",
+    "child_concepts": [
+        "Color Temperature",
+        "Gray Card"
+    ],
+    "concept_fields": [
+        "Photography",
+        "Image Processing"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,18 @@
+{
+    "title": "DBSCAN",
+    "definition": "Density-Based Spatial Clustering of Applications with Noise",
+    "known_since": "1996",
+    "child_concepts": [
+        "Epsilon",
+        "MinPts",
+        "Core Points",
+        "Border Points",
+        "Noise Points"
+    ],
+    "concept_fields": [
+        "Data Mining",
+        "Machine Learning",
+        "Clustering"
+    ],
+    "depth": 7
+}

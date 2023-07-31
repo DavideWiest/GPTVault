@@ -1,0 +1,15 @@
+{
+    "title": "Fisher's Linear Discriminant",
+    "definition": "Fisher's Linear Discriminant is a dimensionality reduction technique used for feature extraction in pattern recognition and machine learning.",
+    "known_since": "1936",
+    "child_concepts": [
+        "Linear Discriminant Analysis",
+        "Principal Component Analysis"
+    ],
+    "concept_fields": [
+        "Pattern Recognition",
+        "Machine Learning",
+        "Statistics"
+    ],
+    "depth": 7
+}

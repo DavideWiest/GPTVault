@@ -1,0 +1,14 @@
+{
+    "title": "Fingerprint matching",
+    "definition": "The process of comparing two or more fingerprints to determine if they belong to the same individual.",
+    "known_since": "1892",
+    "child_concepts": [
+        "Fingerprint analysis",
+        "Fingerprint identification"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Biometrics"
+    ],
+    "depth": 7
+}

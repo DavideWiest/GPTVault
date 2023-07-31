@@ -1,0 +1,15 @@
+{
+    "title": "Articulatory Phonetics",
+    "definition": "The study of how speech sounds are produced by the articulatory organs.",
+    "known_since": "1877",
+    "child_concepts": [
+        "Place of Articulation",
+        "Manner of Articulation",
+        "Voicing"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Speech Science"
+    ],
+    "depth": 7
+}

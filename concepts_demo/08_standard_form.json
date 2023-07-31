@@ -1,0 +1,14 @@
+{
+    "title": "Standard Form",
+    "definition": "Standard form is a way of writing down very large or very small numbers easily. It is also known as scientific notation.",
+    "known_since": "1947",
+    "child_concepts": [
+        "Scientific Notation",
+        "Exponential Notation"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Segmentation",
+    "definition": "The process of dividing a larger market into smaller segments based on certain characteristics or criteria.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Demographic Segmentation",
+        "Psychographic Segmentation",
+        "Geographic Segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Market Research"
+    ],
+    "depth": 6
+}

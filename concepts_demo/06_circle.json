@@ -1,0 +1,16 @@
+{
+    "title": "Circle",
+    "definition": "A closed curve where all points are equidistant from a fixed center point.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Diameter",
+        "Radius",
+        "Circumference",
+        "Area"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 6
+}

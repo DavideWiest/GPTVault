@@ -1,0 +1,15 @@
+{
+    "title": "Algebraic surfaces",
+    "definition": "In mathematics, algebraic surfaces are two-dimensional surfaces defined by polynomial equations. They are a fundamental object of study in algebraic geometry.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Riemann surfaces",
+        "Elliptic surfaces",
+        "K3 surfaces"
+    ],
+    "concept_fields": [
+        "Algebraic geometry",
+        "Polynomial equations"
+    ],
+    "depth": 8
+}

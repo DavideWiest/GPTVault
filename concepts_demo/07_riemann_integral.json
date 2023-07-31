@@ -1,0 +1,14 @@
+{
+    "title": "Riemann Integral",
+    "definition": "The Riemann integral is a method of calculating the area under a curve by dividing the region into small rectangles and summing their areas.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Definite Integral",
+        "Upper and Lower Sums"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 7
+}

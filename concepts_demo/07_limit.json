@@ -1,0 +1,14 @@
+{
+    "title": "Limit",
+    "definition": "The value that a function or sequence approaches as the input or index approaches a certain value.",
+    "known_since": "17",
+    "child_concepts": [
+        "Continuity",
+        "Derivative"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Calculus"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "V-substitution",
+    "definition": "V-substitution is a concept in mathematics that involves replacing a variable with a specific value or expression.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Variable substitution",
+        "Symbol substitution"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Calculus"
+    ],
+    "depth": 7
+}

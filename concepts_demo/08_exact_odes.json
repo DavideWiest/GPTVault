@@ -1,0 +1,14 @@
+{
+    "title": "Exact ODEs",
+    "definition": "Exact ordinary differential equations (ODEs) are a type of differential equation where the solution can be obtained by finding a function whose derivative satisfies a given equation.",
+    "known_since": "1670",
+    "child_concepts": [
+        "First-order exact ODEs",
+        "Second-order exact ODEs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

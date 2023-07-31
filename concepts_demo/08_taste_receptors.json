@@ -1,0 +1,14 @@
+{
+    "title": "Taste receptors",
+    "definition": "Taste receptors are sensory receptors that detect the basic tastes of sweet, sour, salty, bitter, and umami.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Taste buds",
+        "Gustatory system"
+    ],
+    "concept_fields": [
+        "Neuroscience",
+        "Physiology"
+    ],
+    "depth": 8
+}

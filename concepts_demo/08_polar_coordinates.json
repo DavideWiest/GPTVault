@@ -1,0 +1,14 @@
+{
+    "title": "Polar Coordinates",
+    "definition": "Polar coordinates are a two-dimensional coordinate system in which each point is determined by its distance from a reference point (usually the origin) and its angle from a reference direction (usually the positive x-axis).",
+    "known_since": "1670",
+    "child_concepts": [
+        "Polar Form of Complex Numbers",
+        "Polar Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 8
+}

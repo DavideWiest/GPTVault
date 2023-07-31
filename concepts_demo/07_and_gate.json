@@ -1,0 +1,14 @@
+{
+    "title": "AND gate",
+    "definition": "A logic gate that outputs true only when all of its inputs are true.",
+    "known_since": "1954",
+    "child_concepts": [
+        "Logic gate",
+        "Boolean algebra"
+    ],
+    "concept_fields": [
+        "Digital logic",
+        "Computer science"
+    ],
+    "depth": 7
+}

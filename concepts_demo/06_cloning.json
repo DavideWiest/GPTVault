@@ -1,0 +1,14 @@
+{
+    "title": "Cloning",
+    "definition": "The process of creating an identical copy of an organism or cell.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Reproductive Cloning",
+        "Therapeutic Cloning"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Genetics"
+    ],
+    "depth": 6
+}

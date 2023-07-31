@@ -1,0 +1,16 @@
+{
+    "title": "Wisdom",
+    "definition": "The ability to apply knowledge and experience to make good judgments and decisions.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Intelligence",
+        "Experience",
+        "Judgment"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Psychology",
+        "Education"
+    ],
+    "depth": 1
+}

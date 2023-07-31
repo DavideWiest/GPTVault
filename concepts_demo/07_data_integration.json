@@ -1,0 +1,14 @@
+{
+    "title": "Data Integration",
+    "definition": "Data integration is the process of combining data from different sources into a unified view.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Data Transformation",
+        "Data Federation"
+    ],
+    "concept_fields": [
+        "Data Management",
+        "Data Warehousing"
+    ],
+    "depth": 7
+}

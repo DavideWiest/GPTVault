@@ -1,0 +1,15 @@
+{
+    "title": "Tool",
+    "definition": "A device or implement used to carry out a particular function or task.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Hand tool",
+        "Power tool"
+    ],
+    "concept_fields": [
+        "Construction",
+        "Woodworking",
+        "Automotive"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "RNA sequencing",
+    "definition": "A technique used to determine the sequence of RNA molecules.",
+    "known_since": "1977",
+    "child_concepts": [
+        "Transcriptomics",
+        "Gene expression analysis"
+    ],
+    "concept_fields": [
+        "Genomics",
+        "Molecular biology"
+    ],
+    "depth": 7
+}

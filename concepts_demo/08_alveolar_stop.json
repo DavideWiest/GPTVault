@@ -1,0 +1,15 @@
+{
+    "title": "Alveolar stop",
+    "definition": "A consonant sound produced by blocking the airflow in the vocal tract at the alveolar ridge.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Alveolar plosive",
+        "Alveolar nasal",
+        "Alveolar lateral"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

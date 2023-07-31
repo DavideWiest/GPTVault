@@ -1,0 +1,14 @@
+{
+    "title": "Focus",
+    "definition": "The ability to concentrate attention or energy on a particular object or task.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Attention",
+        "Concentration"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Productivity"
+    ],
+    "depth": 8
+}

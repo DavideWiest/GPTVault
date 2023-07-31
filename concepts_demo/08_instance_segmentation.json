@@ -1,0 +1,14 @@
+{
+    "title": "Instance Segmentation",
+    "definition": "Instance segmentation is a computer vision task that involves identifying and delineating each object instance within an image.",
+    "known_since": "2014",
+    "child_concepts": [
+        "Semantic Segmentation",
+        "Object Detection"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Processing"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "VPN servers",
+    "definition": "A VPN server is a computer or server that allows users to connect to a virtual private network (VPN) and access the internet securely and privately.",
+    "known_since": "1996",
+    "child_concepts": [
+        "VPN protocols",
+        "VPN clients"
+    ],
+    "concept_fields": [
+        "IP address",
+        "Encryption",
+        "Tunneling"
+    ],
+    "depth": 8
+}

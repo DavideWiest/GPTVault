@@ -1,0 +1,14 @@
+{
+    "title": "Sales bonuses",
+    "definition": "Sales bonuses are additional monetary rewards given to individuals or teams based on their performance in achieving sales targets or exceeding expectations.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Commission-based bonuses",
+        "Performance-based bonuses"
+    ],
+    "concept_fields": [
+        "Sales targets",
+        "Performance metrics"
+    ],
+    "depth": 8
+}

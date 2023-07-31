@@ -1,0 +1,14 @@
+{
+    "title": "Image processing",
+    "definition": "Image processing is a method to perform operations on an image to enhance it or extract useful information from it.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Image filtering",
+        "Image segmentation"
+    ],
+    "concept_fields": [
+        "Computer vision",
+        "Digital signal processing"
+    ],
+    "depth": 8
+}

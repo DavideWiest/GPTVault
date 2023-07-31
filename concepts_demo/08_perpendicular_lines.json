@@ -1,0 +1,14 @@
+{
+    "title": "Perpendicular lines",
+    "definition": "Perpendicular lines are two lines that intersect at a right angle (90 degrees).",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Parallel lines",
+        "Intersecting lines"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 8
+}

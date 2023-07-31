@@ -1,0 +1,14 @@
+{
+    "title": "Palatal affricate",
+    "definition": "A consonant sound that begins as a stop and releases as a fricative, produced with the tongue against the hard palate.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Palatal stop",
+        "Palatal fricative"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

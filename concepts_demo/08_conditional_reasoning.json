@@ -1,0 +1,15 @@
+{
+    "title": "Conditional Reasoning",
+    "definition": "Conditional reasoning is a type of logical reasoning that involves making inferences or drawing conclusions based on conditional statements or premises.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Modus Ponens",
+        "Modus Tollens",
+        "Hypothetical Syllogism"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Reasoning"
+    ],
+    "depth": 8
+}

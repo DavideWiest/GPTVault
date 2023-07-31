@@ -1,0 +1,15 @@
+{
+    "title": "Expanded Form",
+    "definition": "A way of representing a number as the sum of its individual place values.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Place Value",
+        "Addition",
+        "Subtraction"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Arithmetic"
+    ],
+    "depth": 7
+}

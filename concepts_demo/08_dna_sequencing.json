@@ -1,0 +1,14 @@
+{
+    "title": "DNA sequencing",
+    "definition": "DNA sequencing is the process of determining the precise order of nucleotides within a DNA molecule.",
+    "known_since": "1977",
+    "child_concepts": [
+        "Next-generation sequencing",
+        "Sanger sequencing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular biology"
+    ],
+    "depth": 8
+}

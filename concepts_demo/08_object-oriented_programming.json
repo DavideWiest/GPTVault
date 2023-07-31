@@ -1,0 +1,18 @@
+{
+    "title": "Object-Oriented Programming",
+    "definition": "Object-oriented programming (OOP) is a programming paradigm that organizes data and behavior into reusable structures called objects. It emphasizes the concept of classes, which serve as blueprints for creating objects with defined properties (attributes) and behaviors (methods). OOP promotes modularity, encapsulation, inheritance, and polymorphism.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Abstraction"
+    ],
+    "concept_fields": [
+        "Class",
+        "Object",
+        "Method",
+        "Attribute"
+    ],
+    "depth": 8
+}

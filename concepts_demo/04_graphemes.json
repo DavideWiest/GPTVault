@@ -1,0 +1,15 @@
+{
+    "title": "Graphemes",
+    "definition": "Graphemes are the smallest units of written language that represent a phoneme in a specific writing system.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Alphabets",
+        "Syllabaries",
+        "Logograms"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 4
+}

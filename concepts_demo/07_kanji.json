@@ -1,0 +1,14 @@
+{
+    "title": "Kanji",
+    "definition": "Chinese characters used in the Japanese writing system",
+    "known_since": "5th century AD",
+    "child_concepts": [
+        "Radicals",
+        "Stroke Order"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 7
+}

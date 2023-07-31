@@ -1,0 +1,14 @@
+{
+    "title": "Discriminant",
+    "definition": "In algebra, the discriminant is a mathematical expression that is used to determine the nature of the roots of a quadratic equation.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Roots of a quadratic equation",
+        "Quadratic formula"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 6
+}

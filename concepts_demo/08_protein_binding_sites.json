@@ -1,0 +1,14 @@
+{
+    "title": "Protein binding sites",
+    "definition": "Protein binding sites are specific regions on a protein molecule where other molecules, such as ligands or substrates, can bind.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Active sites",
+        "Binding motifs"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Molecular biology"
+    ],
+    "depth": 8
+}

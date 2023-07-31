@@ -1,0 +1,16 @@
+{
+    "title": "Genomics",
+    "definition": "The study of genomes, including the sequencing, mapping, and analysis of DNA.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Genome Sequencing",
+        "Genomic Variation",
+        "Functional Genomics"
+    ],
+    "concept_fields": [
+        "Biotechnology",
+        "Bioinformatics",
+        "Medicine"
+    ],
+    "depth": 6
+}

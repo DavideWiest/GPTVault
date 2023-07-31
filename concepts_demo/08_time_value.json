@@ -1,0 +1,14 @@
+{
+    "title": "Time Value",
+    "definition": "Time value is the concept that states that the value of money changes over time due to factors such as inflation, interest rates, and opportunity cost.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Present Value",
+        "Future Value"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Economics"
+    ],
+    "depth": 8
+}

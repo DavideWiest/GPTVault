@@ -1,0 +1,14 @@
+{
+    "title": "Temperature",
+    "definition": "A measure of the average kinetic energy of the particles in a substance or system.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Heat",
+        "Thermodynamics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Meteorology"
+    ],
+    "depth": 7
+}

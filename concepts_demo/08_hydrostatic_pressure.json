@@ -1,0 +1,14 @@
+{
+    "title": "Hydrostatic pressure",
+    "definition": "Hydrostatic pressure is the pressure exerted by a fluid at equilibrium due to the force of gravity acting on the fluid.",
+    "known_since": "Archimedes, in the 3rd century BC",
+    "child_concepts": [
+        "Pascal's law",
+        "Buoyancy"
+    ],
+    "concept_fields": [
+        "Fluid mechanics",
+        "Physics"
+    ],
+    "depth": 8
+}

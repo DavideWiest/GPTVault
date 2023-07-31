@@ -1,0 +1,16 @@
+{
+    "title": "Network Security",
+    "definition": "Network security refers to the practice of protecting computer networks and their data from unauthorized access, misuse, or any other malicious activity.",
+    "known_since": "1972",
+    "child_concepts": [
+        "Firewalls",
+        "Intrusion Detection Systems",
+        "Virtual Private Networks"
+    ],
+    "concept_fields": [
+        "Cryptography",
+        "Access Control",
+        "Network Monitoring"
+    ],
+    "depth": 6
+}

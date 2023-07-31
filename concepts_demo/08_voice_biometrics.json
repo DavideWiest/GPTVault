@@ -1,0 +1,14 @@
+{
+    "title": "Voice Biometrics",
+    "definition": "Voice biometrics is a technology that uses the unique characteristics of an individual's voice to verify their identity.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Speaker Recognition",
+        "Speaker Verification"
+    ],
+    "concept_fields": [
+        "Speech Recognition",
+        "Biometrics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Angel Investors",
+    "definition": "Angel investors are individuals who provide financial support to startups or early-stage companies in exchange for equity ownership.",
+    "known_since": "The concept of angel investors has been known since the early 20th century.",
+    "child_concepts": [
+        "Venture Capitalists",
+        "Seed Funding"
+    ],
+    "concept_fields": [
+        "Entrepreneurship",
+        "Investment",
+        "Startups"
+    ],
+    "depth": 7
+}

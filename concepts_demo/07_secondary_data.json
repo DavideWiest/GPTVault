@@ -1,0 +1,16 @@
+{
+    "title": "Secondary data",
+    "definition": "Data that has been collected by someone else for a different purpose",
+    "known_since": "1950",
+    "child_concepts": [
+        "Primary data",
+        "Quantitative data",
+        "Qualitative data"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research",
+        "Data analysis"
+    ],
+    "depth": 7
+}

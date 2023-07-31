@@ -1,0 +1,14 @@
+{
+    "title": "OR gate",
+    "definition": "A logic gate that outputs true if at least one of its inputs is true.",
+    "known_since": "1873",
+    "child_concepts": [
+        "AND gate",
+        "NOT gate"
+    ],
+    "concept_fields": [
+        "Logic gates",
+        "Digital electronics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Hypothetical Syllogism",
+    "definition": "A logical rule that states if the first premise implies the second premise, and the second premise implies the conclusion, then the first premise implies the conclusion.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Modus Ponens",
+        "Modus Tollens"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy"
+    ],
+    "depth": 7
+}

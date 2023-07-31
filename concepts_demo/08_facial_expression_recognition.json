@@ -1,0 +1,14 @@
+{
+    "title": "Facial Expression Recognition",
+    "definition": "Facial expression recognition is the process of identifying and classifying the emotions conveyed by a person's facial expressions.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Emotion Detection",
+        "Facial Analysis"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Longitude",
+    "definition": "Longitude is a geographic coordinate that specifies the east-west position of a point on the Earth's surface.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Prime Meridian",
+        "Meridians"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Navigation"
+    ],
+    "depth": 8
+}

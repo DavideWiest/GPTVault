@@ -1,0 +1,16 @@
+{
+    "title": "Push",
+    "definition": "Push is a concept in computer science and programming that refers to the action of adding an element to the top of a stack or inserting an element at the beginning of an array or list.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Pop",
+        "Stack",
+        "Array",
+        "List"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Programming"
+    ],
+    "depth": 8
+}

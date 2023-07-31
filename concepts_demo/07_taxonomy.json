@@ -1,0 +1,21 @@
+{
+    "title": "Taxonomy",
+    "definition": "The science of classification and categorization of organisms or objects based on their characteristics and relationships.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Kingdom",
+        "Phylum",
+        "Class",
+        "Order",
+        "Family",
+        "Genus",
+        "Species"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Botany",
+        "Zoology",
+        "Anthropology"
+    ],
+    "depth": 7
+}

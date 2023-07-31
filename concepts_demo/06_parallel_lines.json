@@ -1,0 +1,15 @@
+{
+    "title": "Parallel lines",
+    "definition": "Lines in a plane that never intersect.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Transversal lines",
+        "Corresponding angles",
+        "Alternate interior angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 6
+}

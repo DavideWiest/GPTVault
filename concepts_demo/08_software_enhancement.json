@@ -1,0 +1,14 @@
+{
+    "title": "Software Enhancement",
+    "definition": "Software enhancement refers to the process of improving or adding new features to existing software to meet the evolving needs of users or to fix bugs and issues.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Software Maintenance",
+        "Software Upgrades"
+    ],
+    "concept_fields": [
+        "Software Development",
+        "Software Engineering"
+    ],
+    "depth": 8
+}

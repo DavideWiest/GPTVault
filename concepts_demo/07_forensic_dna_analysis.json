@@ -1,0 +1,14 @@
+{
+    "title": "Forensic DNA analysis",
+    "definition": "The scientific examination of DNA samples for the purpose of identifying individuals or establishing relationships between individuals.",
+    "known_since": "1984",
+    "child_concepts": [
+        "DNA profiling",
+        "DNA sequencing"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Genetics"
+    ],
+    "depth": 7
+}

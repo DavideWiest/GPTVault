@@ -1,0 +1,14 @@
+{
+    "title": "Motor Skills",
+    "definition": "Motor skills refer to the ability to coordinate and control movements of the body.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Gross Motor Skills",
+        "Fine Motor Skills"
+    ],
+    "concept_fields": [
+        "Physical Education",
+        "Occupational Therapy"
+    ],
+    "depth": 7
+}

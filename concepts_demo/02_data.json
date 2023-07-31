@@ -1,0 +1,16 @@
+{
+    "title": "Data",
+    "definition": "Data refers to a collection of facts, statistics, or information that is represented in a structured or unstructured form.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Data Types",
+        "Data Analysis",
+        "Data Visualization"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Statistics",
+        "Information Technology"
+    ],
+    "depth": 2
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Future Value",
+    "definition": "Future value is the value of an asset or investment at a specified date in the future, based on the assumption of compound interest or growth.",
+    "known_since": "17",
+    "child_concepts": [
+        "Present Value",
+        "Compound Interest"
+    ],
+    "concept_fields": [
+        "Time",
+        "Interest Rate",
+        "Principal Amount"
+    ],
+    "depth": 8
+}

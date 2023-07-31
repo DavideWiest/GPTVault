@@ -1,0 +1,15 @@
+{
+    "title": "Call options",
+    "definition": "A call option is a financial contract that gives the holder the right, but not the obligation, to buy an underlying asset at a specified price within a specific time period.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Put options",
+        "Strike price",
+        "Expiration date"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Options trading"
+    ],
+    "depth": 7
+}

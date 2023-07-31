@@ -1,0 +1,14 @@
+{
+    "title": "Futures",
+    "definition": "Futures are financial contracts that obligate the parties involved to buy or sell an asset at a predetermined price and date in the future.",
+    "known_since": "1848",
+    "child_concepts": [
+        "Options",
+        "Forwards"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 6
+}

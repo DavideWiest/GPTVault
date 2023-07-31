@@ -1,0 +1,14 @@
+{
+    "title": "Allophones",
+    "definition": "Allophones are variant pronunciations of a phoneme that do not change the meaning of a word.",
+    "known_since": "1877",
+    "child_concepts": [
+        "Phonemes",
+        "Phonology"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Speech Science"
+    ],
+    "depth": 5
+}

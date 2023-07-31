@@ -1,0 +1,14 @@
+{
+    "title": "Confidence intervals",
+    "definition": "In statistics, a confidence interval is a range of values that is likely to contain the true value of an unknown population parameter. It is often used to estimate the precision of sample statistics.",
+    "known_since": "1937",
+    "child_concepts": [
+        "Margin of error",
+        "Standard error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability"
+    ],
+    "depth": 8
+}

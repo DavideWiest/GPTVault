@@ -1,0 +1,14 @@
+{
+    "title": "Extrinsic Value",
+    "definition": "The value of an asset that is not inherent to the asset itself, but rather arises from external factors such as market conditions, investor sentiment, or other variables.",
+    "known_since": "1930",
+    "child_concepts": [
+        "Intrinsic Value",
+        "Time Value"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 7
+}

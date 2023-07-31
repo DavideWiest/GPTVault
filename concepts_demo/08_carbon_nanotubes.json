@@ -1,0 +1,15 @@
+{
+    "title": "Carbon nanotubes",
+    "definition": "Carbon nanotubes are cylindrical structures made of carbon atoms arranged in a hexagonal lattice. They have unique properties such as high strength, electrical conductivity, and thermal conductivity.",
+    "known_since": "1991",
+    "child_concepts": [
+        "Single-walled carbon nanotubes",
+        "Multi-walled carbon nanotubes"
+    ],
+    "concept_fields": [
+        "Materials Science",
+        "Nanotechnology",
+        "Chemistry"
+    ],
+    "depth": 8
+}

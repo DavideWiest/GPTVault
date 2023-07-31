@@ -1,0 +1,14 @@
+{
+    "title": "Compounding",
+    "definition": "The process of combining two or more substances to create a new substance with different properties.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Chemical reactions",
+        "Mixtures"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Pharmacy"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Type II Error",
+    "definition": "Type II error is a statistical term that refers to the failure to reject a false null hypothesis.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Type I Error",
+        "Statistical Power"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Hypothesis Testing"
+    ],
+    "depth": 7
+}

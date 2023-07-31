@@ -1,0 +1,15 @@
+{
+    "title": "Aluminum foil",
+    "definition": "Aluminum foil is a thin, pliable sheet of aluminum metal that is commonly used in cooking, packaging, and insulation.",
+    "known_since": "1910",
+    "child_concepts": [
+        "Aluminum",
+        "Foil"
+    ],
+    "concept_fields": [
+        "Cooking",
+        "Packaging",
+        "Insulation"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Place",
+    "definition": "A specific location or area",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "City",
+        "Country",
+        "Continent"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Architecture",
+        "Urban Planning"
+    ],
+    "depth": 8
+}

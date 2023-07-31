@@ -1,0 +1,15 @@
+{
+    "title": "Age targeting",
+    "definition": "Age targeting is a marketing strategy that involves tailoring advertisements and content to specific age groups. It aims to reach the target audience more effectively by considering their age-related preferences, interests, and behaviors.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Demographic targeting",
+        "Behavioral targeting"
+    ],
+    "concept_fields": [
+        "Age range",
+        "Age-related preferences",
+        "Age-related behaviors"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Global Thresholding",
+    "definition": "Global thresholding is a technique used in image processing to separate objects from the background by selecting a threshold value that separates the two based on pixel intensity.",
+    "known_since": "1979",
+    "child_concepts": [
+        "Otsu's Method",
+        "Adaptive Thresholding"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "depth": 8
+}

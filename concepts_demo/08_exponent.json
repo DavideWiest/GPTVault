@@ -1,0 +1,14 @@
+{
+    "title": "Exponent",
+    "definition": "An exponent is a mathematical notation that indicates the number of times a base number is multiplied by itself.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Power",
+        "Exponential Function"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Algebra"
+    ],
+    "depth": 8
+}

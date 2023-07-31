@@ -1,0 +1,16 @@
+{
+    "title": "Computer Science",
+    "definition": "The study of computers and computational systems.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Algorithms",
+        "Data Structures",
+        "Artificial Intelligence"
+    ],
+    "concept_fields": [
+        "Programming",
+        "Data Analysis",
+        "Networks"
+    ],
+    "depth": 6
+}

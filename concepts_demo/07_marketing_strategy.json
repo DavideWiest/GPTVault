@@ -1,0 +1,16 @@
+{
+    "title": "Marketing Strategy",
+    "definition": "A marketing strategy is a plan of action designed to promote and sell a product or service.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Target Audience",
+        "Market Segmentation",
+        "Positioning"
+    ],
+    "concept_fields": [
+        "Market Research",
+        "Advertising",
+        "Promotions"
+    ],
+    "depth": 7
+}

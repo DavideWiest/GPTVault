@@ -1,0 +1,15 @@
+{
+    "title": "CRISPR-Cas9",
+    "definition": "A revolutionary gene-editing technology that allows scientists to selectively modify genes within an organism.",
+    "known_since": "2012",
+    "child_concepts": [
+        "CRISPR-Cas12a",
+        "CRISPR-Cpf1"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Biotechnology",
+        "Molecular Biology"
+    ],
+    "depth": 7
+}

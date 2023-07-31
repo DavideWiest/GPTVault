@@ -1,0 +1,14 @@
+{
+    "title": "Sustained attention",
+    "definition": "Sustained attention refers to the ability to maintain focus and concentration on a task or stimulus over an extended period of time.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Selective attention",
+        "Divided attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Working Memory",
+    "definition": "Working memory is a cognitive system responsible for the temporary storage and manipulation of information needed for complex cognitive tasks.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Short-term memory",
+        "Long-term memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science",
+        "Neuroscience"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Total Product",
+    "definition": "Total product refers to the total output produced by a firm using all of its inputs during a given period of time.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Marginal Product",
+        "Average Product"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Production Theory"
+    ],
+    "depth": 8
+}

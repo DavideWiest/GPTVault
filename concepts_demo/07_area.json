@@ -1,0 +1,14 @@
+{
+    "title": "Area",
+    "definition": "The extent or measurement of a surface or piece of land.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Perimeter",
+        "Volume"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Artificial Intelligence",
+    "definition": "The simulation of human intelligence in machines that are programmed to think and learn.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Machine Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Robotics",
+        "Cognitive Science"
+    ],
+    "depth": 7
+}

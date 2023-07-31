@@ -1,0 +1,14 @@
+{
+    "title": "Linear Regression",
+    "definition": "A statistical method used to model the relationship between a dependent variable and one or more independent variables.",
+    "known_since": "1805",
+    "child_concepts": [
+        "Multiple Linear Regression",
+        "Polynomial Regression"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Cherokee art",
+    "definition": "The art created by the Cherokee people, including pottery, basketry, beadwork, and woodcarving.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Cherokee pottery",
+        "Cherokee basketry",
+        "Cherokee beadwork",
+        "Cherokee woodcarving"
+    ],
+    "concept_fields": [
+        "History",
+        "Techniques",
+        "Materials",
+        "Symbolism"
+    ],
+    "depth": 8
+}

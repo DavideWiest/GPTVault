@@ -1,0 +1,15 @@
+{
+    "title": "Virtual Private Networks",
+    "definition": "A Virtual Private Network (VPN) is a secure and private connection between two or more networks over a public network, such as the internet.",
+    "known_since": "1996",
+    "child_concepts": [
+        "VPN protocols",
+        "VPN clients",
+        "VPN servers"
+    ],
+    "concept_fields": [
+        "Computer Networking",
+        "Information Security"
+    ],
+    "depth": 7
+}

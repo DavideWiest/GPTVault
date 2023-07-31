@@ -1,0 +1,14 @@
+{
+    "title": "Nanomedicine",
+    "definition": "The application of nanotechnology for medical purposes.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Nanoparticles",
+        "Drug delivery systems"
+    ],
+    "concept_fields": [
+        "Medicine",
+        "Nanotechnology"
+    ],
+    "depth": 6
+}

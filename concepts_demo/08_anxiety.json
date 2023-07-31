@@ -1,0 +1,15 @@
+{
+    "title": "Anxiety",
+    "definition": "Anxiety is a feeling of unease, such as worry or fear, that can be mild or severe.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Generalized Anxiety Disorder",
+        "Social Anxiety Disorder",
+        "Panic Disorder"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Mental Health"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Definite Integral",
+    "definition": "In mathematics, a definite integral is the limit of a sum of areas of rectangles, called a Riemann sum. It is used to calculate the exact area under a curve between two points on the x-axis.",
+    "known_since": "17th century",
+    "child_concepts": [
+        "Indefinite Integral",
+        "Riemann Sum"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Second-order ODEs",
+    "definition": "Second-order ordinary differential equations (ODEs) are differential equations that involve the second derivative of an unknown function.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Homogeneous Second-order ODEs",
+        "Non-homogeneous Second-order ODEs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 7
+}

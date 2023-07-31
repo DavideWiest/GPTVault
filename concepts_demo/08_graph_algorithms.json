@@ -1,0 +1,16 @@
+{
+    "title": "Graph algorithms",
+    "definition": "Graph algorithms are a set of procedures or methods used to solve problems related to graphs, which are mathematical structures consisting of nodes (vertices) and edges.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Shortest path algorithms",
+        "Minimum spanning tree algorithms",
+        "Graph traversal algorithms"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Data structures"
+    ],
+    "depth": 8
+}

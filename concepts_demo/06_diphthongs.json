@@ -1,0 +1,14 @@
+{
+    "title": "Diphthongs",
+    "definition": "A diphthong is a combination of two vowel sounds in a single syllable, where the sound begins as one vowel and glides into another.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Monophthongs",
+        "Triphthongs"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 6
+}

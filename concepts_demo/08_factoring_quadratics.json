@@ -1,0 +1,14 @@
+{
+    "title": "Factoring quadratics",
+    "definition": "Factoring quadratics is the process of breaking down a quadratic expression into its factors.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Factoring by grouping",
+        "Factoring trinomials"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

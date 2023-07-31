@@ -1,0 +1,15 @@
+{
+    "title": "Right Join",
+    "definition": "A right join is a type of join operation in relational databases that returns all the rows from the right table and the matching rows from the left table. If there is no match, NULL values are returned for the left table columns.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Inner Join",
+        "Left Join"
+    ],
+    "concept_fields": [
+        "Table",
+        "Column",
+        "Join Condition"
+    ],
+    "depth": 8
+}

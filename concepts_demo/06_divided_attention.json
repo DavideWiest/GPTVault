@@ -1,0 +1,14 @@
+{
+    "title": "Divided attention",
+    "definition": "The ability to allocate cognitive resources to multiple tasks or stimuli simultaneously.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Selective attention",
+        "Sustained attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Cherokee language",
+    "definition": "The Cherokee language is an Iroquoian language spoken by the Cherokee people. It is one of the few Native American languages that is still spoken today.",
+    "known_since": "1500",
+    "child_concepts": [
+        "Cherokee syllabary",
+        "Cherokee grammar"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Native American Studies"
+    ],
+    "depth": 8
+}

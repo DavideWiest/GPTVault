@@ -1,0 +1,16 @@
+{
+    "title": "Social skills",
+    "definition": "The ability to interact and communicate effectively with others.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Empathy",
+        "Active listening",
+        "Conflict resolution"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Education",
+        "Communication"
+    ],
+    "depth": 4
+}

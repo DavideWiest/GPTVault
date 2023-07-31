@@ -1,0 +1,16 @@
+{
+    "title": "Hypothesis Testing",
+    "definition": "A statistical method used to make inferences or draw conclusions about a population based on sample data.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Null Hypothesis",
+        "Alternative Hypothesis",
+        "Type I Error",
+        "Type II Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research Methodology"
+    ],
+    "depth": 5
+}

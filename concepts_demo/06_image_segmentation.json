@@ -1,0 +1,15 @@
+{
+    "title": "Image Segmentation",
+    "definition": "Image segmentation is the process of partitioning an image into multiple segments to simplify the representation of an image into meaningful parts.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Region-based segmentation",
+        "Edge-based segmentation",
+        "Thresholding"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Processing"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Voiced palato-alveolar fricatives",
+    "definition": "Voiced palato-alveolar fricatives are consonant sounds produced by narrowing the vocal tract between the blade of the tongue and the alveolar ridge, while allowing air to pass through and creating friction.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiced alveolo-palatal fricatives",
+        "Voiced postalveolar fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

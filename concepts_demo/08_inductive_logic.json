@@ -1,0 +1,14 @@
+{
+    "title": "Inductive logic",
+    "definition": "Inductive logic is a type of reasoning that involves making generalizations based on specific observations or evidence. It is used to draw conclusions about the likelihood of future events or the characteristics of a population based on a sample.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Inductive reasoning",
+        "Inductive fallacy"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Logic"
+    ],
+    "depth": 8
+}

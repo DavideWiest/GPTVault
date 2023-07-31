@@ -1,0 +1,16 @@
+{
+    "title": "Qualitative data",
+    "definition": "Data that is descriptive in nature and cannot be measured numerically.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Quantitative data",
+        "Primary data",
+        "Secondary data"
+    ],
+    "concept_fields": [
+        "Social sciences",
+        "Market research",
+        "Qualitative research"
+    ],
+    "depth": 6
+}

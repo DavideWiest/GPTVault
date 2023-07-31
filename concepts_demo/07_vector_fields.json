@@ -1,0 +1,15 @@
+{
+    "title": "Vector Fields",
+    "definition": "Vector fields are mathematical objects that associate a vector to every point in a space.",
+    "known_since": "1827",
+    "child_concepts": [
+        "Gradient Fields",
+        "Curl Fields",
+        "Divergence Fields"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Mathematics"
+    ],
+    "depth": 7
+}

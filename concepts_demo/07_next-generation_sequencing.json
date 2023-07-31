@@ -1,0 +1,14 @@
+{
+    "title": "Next-generation sequencing",
+    "definition": "A high-throughput DNA sequencing technology that allows for the rapid sequencing of large amounts of DNA or RNA in a single run.",
+    "known_since": "2005",
+    "child_concepts": [
+        "DNA sequencing",
+        "RNA sequencing"
+    ],
+    "concept_fields": [
+        "Genomics",
+        "Bioinformatics"
+    ],
+    "depth": 7
+}

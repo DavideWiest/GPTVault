@@ -1,0 +1,15 @@
+{
+    "title": "Boolean",
+    "definition": "A data type that represents one of two possible values: true or false.",
+    "known_since": "1847",
+    "child_concepts": [
+        "Boolean algebra",
+        "Boolean logic"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 5
+}

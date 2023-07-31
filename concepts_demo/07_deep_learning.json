@@ -1,0 +1,17 @@
+{
+    "title": "Deep Learning",
+    "definition": "A subfield of machine learning that focuses on artificial neural networks and algorithms inspired by the structure and function of the human brain.",
+    "known_since": "1986",
+    "child_concepts": [
+        "Neural Networks",
+        "Convolutional Neural Networks",
+        "Recurrent Neural Networks"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "Natural Language Processing"
+    ],
+    "depth": 7
+}

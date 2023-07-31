@@ -1,0 +1,14 @@
+{
+    "title": "Nuclear fusion",
+    "definition": "Nuclear fusion is a process in which two or more atomic nuclei come close enough to form one or more different atomic nuclei and subatomic particles (neutrons or protons).",
+    "known_since": "1950",
+    "child_concepts": [
+        "Fusion reactions",
+        "Plasma physics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Energy"
+    ],
+    "depth": 8
+}

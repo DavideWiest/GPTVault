@@ -1,0 +1,14 @@
+{
+    "title": "Box Blur",
+    "definition": "Box blur is a type of image blurring technique that involves averaging the color values of pixels within a defined neighborhood.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Gaussian Blur",
+        "Motion Blur"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "depth": 8
+}

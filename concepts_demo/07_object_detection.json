@@ -1,0 +1,14 @@
+{
+    "title": "Object Detection",
+    "definition": "Object detection is a computer vision task that involves identifying and localizing objects in an image or video.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Object Recognition",
+        "Object Localization"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

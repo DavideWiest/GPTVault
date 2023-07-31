@@ -1,0 +1,14 @@
+{
+    "title": "Emotional regulation",
+    "definition": "The ability to manage and control one's emotions.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Emotional intelligence",
+        "Self-control"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Factoring binomials",
+    "definition": "Factoring binomials is the process of finding the common factors of a binomial expression and expressing it as a product of two binomial factors.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Greatest Common Factor (GCF)",
+        "Difference of Squares",
+        "Perfect Square Trinomials"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Information Visualization",
+    "definition": "Information Visualization is the study of visual representations of data and information. It involves the creation and interpretation of visualizations to help people understand complex data and communicate insights.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Data Visualization",
+        "Interactive Visualization"
+    ],
+    "concept_fields": [
+        "Data Science",
+        "User Experience Design"
+    ],
+    "depth": 8
+}

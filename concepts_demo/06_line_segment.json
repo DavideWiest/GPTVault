@@ -1,0 +1,14 @@
+{
+    "title": "Line segment",
+    "definition": "A line segment is a part of a line that is bounded by two distinct endpoints.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Line",
+        "Segment"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 6
+}

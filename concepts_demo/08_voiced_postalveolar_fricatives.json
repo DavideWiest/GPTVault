@@ -1,0 +1,14 @@
+{
+    "title": "Voiced postalveolar fricatives",
+    "definition": "Voiced postalveolar fricatives are consonant sounds produced by forcing air through a narrow channel formed by the tongue against the back of the alveolar ridge, creating friction.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Voiced alveolo-palatal fricatives",
+        "Voiced retroflex fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

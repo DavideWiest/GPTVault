@@ -1,0 +1,14 @@
+{
+    "title": "Alternative Hypothesis",
+    "definition": "In statistics, the alternative hypothesis is a statement that contradicts or negates the null hypothesis.",
+    "known_since": "1933",
+    "child_concepts": [
+        "Null Hypothesis",
+        "Statistical Hypothesis Testing"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research Methodology"
+    ],
+    "depth": 6
+}

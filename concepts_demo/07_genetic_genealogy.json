@@ -1,0 +1,15 @@
+{
+    "title": "Genetic genealogy",
+    "definition": "Genetic genealogy is the use of DNA testing in combination with traditional genealogical methods to infer relationships between individuals and determine ancestral origins.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Y-DNA testing",
+        "mtDNA testing",
+        "Autosomal DNA testing"
+    ],
+    "concept_fields": [
+        "Genealogy",
+        "Genetics"
+    ],
+    "depth": 7
+}

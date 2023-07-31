@@ -1,0 +1,20 @@
+{
+    "title": "Data Structures",
+    "definition": "Data structures are a way of organizing and storing data in a computer so that it can be accessed and used efficiently.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Arrays",
+        "Linked Lists",
+        "Stacks",
+        "Queues",
+        "Trees",
+        "Graphs",
+        "Hash Tables"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Management",
+        "Algorithms"
+    ],
+    "depth": 6
+}

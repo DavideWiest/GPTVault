@@ -1,0 +1,16 @@
+{
+    "title": "Matrix Operations",
+    "definition": "Matrix operations refer to a set of mathematical operations that can be performed on matrices, which are rectangular arrays of numbers or symbols. These operations include addition, subtraction, multiplication, and division of matrices.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Matrix Addition",
+        "Matrix Subtraction",
+        "Matrix Multiplication",
+        "Matrix Division"
+    ],
+    "concept_fields": [
+        "Linear Algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

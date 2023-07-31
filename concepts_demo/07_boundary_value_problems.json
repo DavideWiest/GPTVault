@@ -1,0 +1,15 @@
+{
+    "title": "Boundary Value Problems",
+    "definition": "Boundary value problems are mathematical problems that involve finding a solution to a differential equation subject to specified boundary conditions.",
+    "known_since": "17th century",
+    "child_concepts": [
+        "Initial Value Problems",
+        "Sturm-Liouville Theory"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 7
+}

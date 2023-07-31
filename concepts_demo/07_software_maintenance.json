@@ -1,0 +1,16 @@
+{
+    "title": "Software Maintenance",
+    "definition": "The process of modifying, updating, and improving software after its initial release to ensure its continued effectiveness and usability.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Software Bug Fixing",
+        "Software Enhancement",
+        "Software Patching"
+    ],
+    "concept_fields": [
+        "Software Development",
+        "Quality Assurance",
+        "Change Management"
+    ],
+    "depth": 7
+}

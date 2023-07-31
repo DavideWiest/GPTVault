@@ -1,0 +1,14 @@
+{
+    "title": "Rational Number",
+    "definition": "A rational number is a number that can be expressed as the quotient or fraction p/q of two integers, where q is not zero.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Integer",
+        "Fraction"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 7
+}

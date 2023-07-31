@@ -1,0 +1,14 @@
+{
+    "title": "Voiced alveolar affricate",
+    "definition": "A consonant sound that begins as a stop and releases as a fricative, produced by bringing the tongue tip or blade into contact with the alveolar ridge.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Alveolar stop",
+        "Alveolar fricative"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

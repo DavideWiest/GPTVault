@@ -1,0 +1,15 @@
+{
+    "title": "Two-dimensional Arrays",
+    "definition": "A two-dimensional array is an array of arrays, where each element of the main array is itself an array. It represents a table-like structure with rows and columns.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Multidimensional Arrays",
+        "Matrix Operations"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures",
+        "Algorithms"
+    ],
+    "depth": 7
+}

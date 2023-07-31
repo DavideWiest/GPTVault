@@ -1,0 +1,14 @@
+{
+    "title": "Lossless Compression",
+    "definition": "A data compression algorithm that allows the original data to be perfectly reconstructed from the compressed data.",
+    "known_since": "1948",
+    "child_concepts": [
+        "Huffman Coding",
+        "Arithmetic Coding"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Information Theory"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Arrays",
+    "definition": "Arrays are data structures that store a collection of elements of the same type.",
+    "known_since": "300",
+    "child_concepts": [
+        "Indexing",
+        "Multidimensional Arrays"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures"
+    ],
+    "depth": 5
+}

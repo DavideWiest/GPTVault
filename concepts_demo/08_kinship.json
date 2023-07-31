@@ -1,0 +1,14 @@
+{
+    "title": "Kinship",
+    "definition": "Kinship refers to the social relationships that are based on blood ties or marriage.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Family",
+        "Lineage"
+    ],
+    "concept_fields": [
+        "Anthropology",
+        "Sociology"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Creativity",
+    "definition": "The ability to generate new ideas, concepts, or solutions.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Imagination",
+        "Innovation"
+    ],
+    "concept_fields": [
+        "Art",
+        "Science",
+        "Problem-solving"
+    ],
+    "depth": 3
+}

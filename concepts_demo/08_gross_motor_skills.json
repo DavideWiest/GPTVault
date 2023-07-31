@@ -1,0 +1,16 @@
+{
+    "title": "Gross Motor Skills",
+    "definition": "Gross motor skills are the abilities required to control the large muscles of the body for activities such as walking, running, jumping, and throwing.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Walking",
+        "Running",
+        "Jumping",
+        "Throwing"
+    ],
+    "concept_fields": [
+        "Physical Education",
+        "Child Development"
+    ],
+    "depth": 8
+}

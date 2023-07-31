@@ -1,0 +1,16 @@
+{
+    "title": "Posting List",
+    "definition": "A posting list is a data structure used in information retrieval systems to store the list of documents that contain a specific term or keyword.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Inverted Index",
+        "Term Frequency",
+        "Document Frequency"
+    ],
+    "concept_fields": [
+        "Document ID",
+        "Term Frequency",
+        "Document Frequency"
+    ],
+    "depth": 8
+}

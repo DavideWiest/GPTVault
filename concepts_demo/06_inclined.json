@@ -1,0 +1,14 @@
+{
+    "title": "Inclined",
+    "definition": "Having a slope or slant",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Slope",
+        "Slant"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Geometry"
+    ],
+    "depth": 6
+}

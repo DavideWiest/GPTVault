@@ -1,0 +1,14 @@
+{
+    "title": "Type II Error",
+    "definition": "Type II error, also known as a false negative, occurs when a null hypothesis is incorrectly accepted, indicating that there is no effect or relationship when in fact there is.",
+    "known_since": "1908",
+    "child_concepts": [
+        "Type I Error",
+        "Statistical Power"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Hypothesis Testing"
+    ],
+    "depth": 8
+}

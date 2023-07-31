@@ -1,0 +1,14 @@
+{
+    "title": "Loop pattern",
+    "definition": "A loop pattern is a programming construct that allows a set of instructions to be repeated multiple times until a certain condition is met.",
+    "known_since": "1951",
+    "child_concepts": [
+        "Nested loops",
+        "Infinite loops"
+    ],
+    "concept_fields": [
+        "Iteration",
+        "Condition"
+    ],
+    "depth": 8
+}

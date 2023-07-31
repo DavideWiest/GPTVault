@@ -1,0 +1,14 @@
+{
+    "title": "Double precision",
+    "definition": "Double precision refers to a floating-point data type that can represent a wider range of values with higher precision compared to single precision.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Single precision",
+        "Floating-point arithmetic"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Numerical analysis"
+    ],
+    "depth": 7
+}

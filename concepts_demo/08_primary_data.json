@@ -1,0 +1,15 @@
+{
+    "title": "Primary data",
+    "definition": "Primary data refers to original data that is collected firsthand by the researcher for a specific purpose or study.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Secondary data",
+        "Quantitative data",
+        "Qualitative data"
+    ],
+    "concept_fields": [
+        "Data collection",
+        "Research methods"
+    ],
+    "depth": 8
+}

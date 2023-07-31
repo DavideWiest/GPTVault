@@ -1,0 +1,14 @@
+{
+    "title": "Parallelogram",
+    "definition": "A parallelogram is a quadrilateral with opposite sides that are parallel and equal in length.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Rectangle",
+        "Rhombus"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Quadrilateral"
+    ],
+    "depth": 8
+}

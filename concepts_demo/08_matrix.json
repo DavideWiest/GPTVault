@@ -1,0 +1,15 @@
+{
+    "title": "Matrix",
+    "definition": "A matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns.",
+    "known_since": "1850",
+    "child_concepts": [
+        "Matrix multiplication",
+        "Matrix addition",
+        "Determinant"
+    ],
+    "concept_fields": [
+        "Linear algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

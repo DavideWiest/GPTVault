@@ -1,0 +1,14 @@
+{
+    "title": "Undirected Graphs",
+    "definition": "Undirected graphs are a type of graph where edges have no direction. In other words, the relationship between nodes is symmetric.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Connected Components",
+        "Minimum Spanning Trees"
+    ],
+    "concept_fields": [
+        "Graph Theory",
+        "Computer Science"
+    ],
+    "depth": 7
+}

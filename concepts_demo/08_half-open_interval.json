@@ -1,0 +1,14 @@
+{
+    "title": "Half-Open Interval",
+    "definition": "In mathematics, a half-open interval is a set of real numbers that includes one endpoint but not the other. It is denoted by [a, b) or (a, b].",
+    "known_since": "19",
+    "child_concepts": [
+        "Open Interval",
+        "Closed Interval"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Set Theory"
+    ],
+    "depth": 8
+}

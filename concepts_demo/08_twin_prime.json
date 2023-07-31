@@ -1,0 +1,12 @@
+{
+    "title": "Twin Prime",
+    "definition": "A pair of prime numbers that differ by 2.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Prime Numbers"
+    ],
+    "concept_fields": [
+        "Mathematics"
+    ],
+    "depth": 8
+}

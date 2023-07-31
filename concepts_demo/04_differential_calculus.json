@@ -1,0 +1,14 @@
+{
+    "title": "Differential Calculus",
+    "definition": "The branch of calculus that deals with the study of rates of change and slopes of curves.",
+    "known_since": "1668",
+    "child_concepts": [
+        "Derivatives",
+        "Limits"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 4
+}

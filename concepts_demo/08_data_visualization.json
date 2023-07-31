@@ -1,0 +1,16 @@
+{
+    "title": "Data Visualization",
+    "definition": "Data visualization is the graphical representation of data and information using visual elements such as charts, graphs, and maps. It helps to communicate complex data in a clear and concise manner, enabling users to understand patterns, trends, and insights.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Bar Charts",
+        "Line Charts",
+        "Pie Charts"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Information Design",
+        "User Interface Design"
+    ],
+    "depth": 8
+}

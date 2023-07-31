@@ -1,0 +1,14 @@
+{
+    "title": "Listening comprehension",
+    "definition": "The ability to understand spoken language and extract meaning from it.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Active listening",
+        "Passive listening"
+    ],
+    "concept_fields": [
+        "Language learning",
+        "Communication"
+    ],
+    "depth": 4
+}

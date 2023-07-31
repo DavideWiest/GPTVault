@@ -1,0 +1,14 @@
+{
+    "title": "Object Recognition",
+    "definition": "The ability of a computer system to identify and classify objects in images or videos.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Image Classification",
+        "Object Detection"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 5
+}

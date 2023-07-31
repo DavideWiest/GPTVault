@@ -1,0 +1,14 @@
+{
+    "title": "Edge Detection",
+    "definition": "Edge detection is a process used in image processing to identify the boundaries of objects within an image.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Canny Edge Detection",
+        "Sobel Operator"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Processing"
+    ],
+    "depth": 7
+}

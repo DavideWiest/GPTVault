@@ -1,0 +1,15 @@
+{
+    "title": "Joining Tables",
+    "definition": "Joining tables is a database operation that combines rows from two or more tables based on a related column between them.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Inner Join",
+        "Left Join",
+        "Right Join"
+    ],
+    "concept_fields": [
+        "Database Management",
+        "SQL"
+    ],
+    "depth": 7
+}

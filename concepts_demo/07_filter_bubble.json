@@ -1,0 +1,15 @@
+{
+    "title": "Filter bubble",
+    "definition": "A filter bubble is a state of intellectual isolation that can result from personalized searches when a website algorithm selectively guesses what information a user would like to see based on information about the user, such as location, past click-behavior, and search history.",
+    "known_since": "2011",
+    "child_concepts": [
+        "Personalization",
+        "Algorithmic Bias"
+    ],
+    "concept_fields": [
+        "Internet",
+        "Search Engines",
+        "Information Retrieval"
+    ],
+    "depth": 7
+}

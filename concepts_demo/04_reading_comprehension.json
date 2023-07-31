@@ -1,0 +1,16 @@
+{
+    "title": "Reading comprehension",
+    "definition": "The ability to understand and interpret written text.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Literal comprehension",
+        "Inferential comprehension",
+        "Evaluative comprehension"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology",
+        "Linguistics"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Nanotechnology",
+    "definition": "The study and application of extremely small things and can be used across all the other science fields, such as chemistry, biology, physics, materials science, and engineering.",
+    "known_since": "1959",
+    "child_concepts": [
+        "Nanomaterials",
+        "Nanomedicine",
+        "Nanoelectronics"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Materials Science",
+        "Engineering"
+    ],
+    "depth": 5
+}

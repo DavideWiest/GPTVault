@@ -1,0 +1,14 @@
+{
+    "title": "Speed Reading",
+    "definition": "A technique used to increase reading speed and comprehension.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Rapid Serial Visual Presentation",
+        "Chunking"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology"
+    ],
+    "depth": 7
+}

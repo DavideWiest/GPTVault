@@ -1,0 +1,17 @@
+{
+    "title": "Parabola",
+    "definition": "A parabola is a U-shaped curve that is symmetric about its vertex. It is a conic section formed by the intersection of a right circular cone and a plane parallel to a generating straight line of that cone.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Focus",
+        "Directrix",
+        "Vertex",
+        "Axis of Symmetry"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Algebra"
+    ],
+    "depth": 7
+}

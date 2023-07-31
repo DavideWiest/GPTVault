@@ -1,0 +1,14 @@
+{
+    "title": "Mixing",
+    "definition": "Combining two or more substances to create a homogeneous mixture.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Stirring",
+        "Blending"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Cooking"
+    ],
+    "depth": 5
+}

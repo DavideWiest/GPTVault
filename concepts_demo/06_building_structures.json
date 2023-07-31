@@ -1,0 +1,14 @@
+{
+    "title": "Building Structures",
+    "definition": "The process of creating physical structures such as buildings, bridges, and towers.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Architectural Design",
+        "Structural Engineering"
+    ],
+    "concept_fields": [
+        "Civil Engineering",
+        "Architecture"
+    ],
+    "depth": 6
+}

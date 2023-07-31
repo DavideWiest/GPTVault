@@ -1,0 +1,16 @@
+{
+    "title": "Visual perception",
+    "definition": "Visual perception is the ability to interpret and understand visual information received by the eyes. It involves the processes of detecting, recognizing, and interpreting visual stimuli.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Color perception",
+        "Depth perception",
+        "Object recognition"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience",
+        "Cognitive science"
+    ],
+    "depth": 8
+}

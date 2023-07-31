@@ -1,0 +1,14 @@
+{
+    "title": "Vowels",
+    "definition": "Vowels are speech sounds produced with an open vocal tract.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Long Vowels",
+        "Short Vowels"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 4
+}

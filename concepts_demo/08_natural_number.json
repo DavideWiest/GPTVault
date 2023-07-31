@@ -1,0 +1,15 @@
+{
+    "title": "Natural Number",
+    "definition": "A natural number is a positive integer greater than zero. It is used to count objects or represent quantities.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Whole Number",
+        "Prime Number",
+        "Composite Number"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 8
+}

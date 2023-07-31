@@ -1,0 +1,14 @@
+{
+    "title": "Eigenspaces",
+    "definition": "In linear algebra, an eigenspace is the set of all eigenvectors corresponding to a specific eigenvalue of a linear transformation or matrix.",
+    "known_since": "1857",
+    "child_concepts": [
+        "Eigenvectors",
+        "Eigenvalues"
+    ],
+    "concept_fields": [
+        "Linear Algebra",
+        "Matrix Theory"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Categorical Proposition",
+    "definition": "A categorical proposition is a type of proposition that asserts or denies something about a class or category of things.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Subject",
+        "Predicate",
+        "Quantity",
+        "Quality"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy"
+    ],
+    "depth": 8
+}

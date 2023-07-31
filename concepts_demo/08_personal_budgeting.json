@@ -1,0 +1,15 @@
+{
+    "title": "Personal Budgeting",
+    "definition": "Personal budgeting is the process of creating and managing a plan for spending and saving money based on an individual's income and expenses.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Income",
+        "Expenses",
+        "Savings"
+    ],
+    "concept_fields": [
+        "Budgeting",
+        "Financial Planning"
+    ],
+    "depth": 8
+}

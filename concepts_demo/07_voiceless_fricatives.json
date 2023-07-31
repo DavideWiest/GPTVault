@@ -1,0 +1,14 @@
+{
+    "title": "Voiceless Fricatives",
+    "definition": "Voiceless fricatives are consonant sounds produced by forcing air through a narrow opening in the vocal tract, resulting in a turbulent airflow and a hissing or buzzing sound.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Sibilants",
+        "Non-sibilants"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

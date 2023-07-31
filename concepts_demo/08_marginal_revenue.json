@@ -1,0 +1,14 @@
+{
+    "title": "Marginal Revenue",
+    "definition": "Marginal revenue is the additional revenue generated from selling one more unit of a product or service.",
+    "known_since": "1871",
+    "child_concepts": [
+        "Total Revenue",
+        "Marginal Cost"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Microeconomics"
+    ],
+    "depth": 8
+}

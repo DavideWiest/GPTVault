@@ -1,0 +1,14 @@
+{
+    "title": "Eigenvalues",
+    "definition": "Eigenvalues are the values that satisfy the equation Av = \u03bbv, where A is a square matrix, v is a non-zero vector, and \u03bb is a scalar.",
+    "known_since": "1901",
+    "child_concepts": [
+        "Eigenvectors",
+        "Eigenfunctions"
+    ],
+    "concept_fields": [
+        "Linear Algebra",
+        "Differential Equations"
+    ],
+    "depth": 7
+}

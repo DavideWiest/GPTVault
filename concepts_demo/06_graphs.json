@@ -1,0 +1,16 @@
+{
+    "title": "Graphs",
+    "definition": "Graphs are mathematical structures used to represent relationships between objects.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Directed Graphs",
+        "Undirected Graphs",
+        "Weighted Graphs"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics",
+        "Data Structures"
+    ],
+    "depth": 6
+}

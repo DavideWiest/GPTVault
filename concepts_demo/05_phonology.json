@@ -1,0 +1,14 @@
+{
+    "title": "Phonology",
+    "definition": "The study of the sounds of human language.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Phonetics",
+        "Phonemes"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Language Studies"
+    ],
+    "depth": 5
+}

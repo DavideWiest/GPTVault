@@ -1,0 +1,16 @@
+{
+    "title": "Next-generation sequencing",
+    "definition": "Next-generation sequencing (NGS) is a high-throughput DNA sequencing technology that allows for the rapid sequencing of millions to billions of DNA fragments simultaneously.",
+    "known_since": "2005",
+    "child_concepts": [
+        "DNA sequencing",
+        "Genomics",
+        "Bioinformatics"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular biology",
+        "Biotechnology"
+    ],
+    "depth": 8
+}

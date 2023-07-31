@@ -1,0 +1,17 @@
+{
+    "title": "SWOT Analysis",
+    "definition": "SWOT Analysis is a strategic planning technique used to evaluate the strengths, weaknesses, opportunities, and threats of a project or business.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Strengths",
+        "Weaknesses",
+        "Opportunities",
+        "Threats"
+    ],
+    "concept_fields": [
+        "Business Strategy",
+        "Marketing",
+        "Risk Management"
+    ],
+    "depth": 8
+}

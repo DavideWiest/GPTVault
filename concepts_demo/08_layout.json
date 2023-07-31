@@ -1,0 +1,16 @@
+{
+    "title": "Layout",
+    "definition": "The arrangement or organization of elements in a design or structure.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Grid",
+        "Hierarchy",
+        "Alignment"
+    ],
+    "concept_fields": [
+        "Graphic Design",
+        "Web Design",
+        "Print Design"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Anchoring and Adjustment Heuristic",
+    "definition": "A cognitive bias where individuals rely too heavily on an initial piece of information when making decisions or judgments.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Confirmation Bias",
+        "Availability Heuristic"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Behavioral Economics"
+    ],
+    "depth": 7
+}

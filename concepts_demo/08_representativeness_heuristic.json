@@ -1,0 +1,14 @@
+{
+    "title": "Representativeness Heuristic",
+    "definition": "A mental shortcut that involves making judgments based on how well an individual or event matches a prototype or stereotype.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Availability Heuristic",
+        "Anchoring and Adjustment Heuristic"
+    ],
+    "concept_fields": [
+        "Cognitive Psychology",
+        "Decision Making"
+    ],
+    "depth": 8
+}

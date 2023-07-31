@@ -1,0 +1,16 @@
+{
+    "title": "Knowledge",
+    "definition": "The understanding, awareness, or familiarity acquired through experience, study, or education.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Wisdom",
+        "Information",
+        "Learning"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Science",
+        "Education"
+    ],
+    "depth": 0
+}

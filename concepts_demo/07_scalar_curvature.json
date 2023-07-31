@@ -1,0 +1,14 @@
+{
+    "title": "Scalar curvature",
+    "definition": "Scalar curvature is a concept in differential geometry that measures the curvature of a Riemannian manifold at a point.",
+    "known_since": "1915",
+    "child_concepts": [
+        "Ricci curvature",
+        "Sectional curvature"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Riemannian manifold"
+    ],
+    "depth": 7
+}

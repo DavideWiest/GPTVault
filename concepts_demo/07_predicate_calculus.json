@@ -1,0 +1,14 @@
+{
+    "title": "Predicate Calculus",
+    "definition": "A formal system for reasoning about relationships between objects using predicates and quantifiers.",
+    "known_since": "1879",
+    "child_concepts": [
+        "First-order Logic",
+        "Higher-order Logic"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 7
+}

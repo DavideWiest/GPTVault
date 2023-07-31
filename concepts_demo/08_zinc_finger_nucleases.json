@@ -1,0 +1,14 @@
+{
+    "title": "Zinc Finger Nucleases",
+    "definition": "Zinc finger nucleases (ZFNs) are engineered proteins that can be used to modify DNA sequences. They consist of a DNA-binding domain, typically derived from zinc finger proteins, and a DNA-cleavage domain, usually derived from the FokI endonuclease. ZFNs can be designed to target specific DNA sequences and induce double-strand breaks, which can then be repaired by the cell's DNA repair machinery to introduce desired genetic modifications.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Gene Editing",
+        "Genome Engineering"
+    ],
+    "concept_fields": [
+        "Molecular Biology",
+        "Genetics"
+    ],
+    "depth": 8
+}

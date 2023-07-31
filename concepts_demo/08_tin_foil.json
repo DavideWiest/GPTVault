@@ -1,0 +1,14 @@
+{
+    "title": "Tin foil",
+    "definition": "Tin foil is a thin metal sheet made from tin. It is commonly used for wrapping food, as it helps to preserve its freshness and prevent contamination.",
+    "known_since": "1910",
+    "child_concepts": [
+        "Aluminum foil",
+        "Kitchen utensils"
+    ],
+    "concept_fields": [
+        "Food preservation",
+        "Packaging"
+    ],
+    "depth": 8
+}

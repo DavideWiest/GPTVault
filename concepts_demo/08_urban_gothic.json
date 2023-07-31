@@ -1,0 +1,16 @@
+{
+    "title": "Urban Gothic",
+    "definition": "Urban Gothic is a subgenre of Gothic fiction that focuses on eerie and supernatural elements in an urban setting. It often explores themes of isolation, decay, and the dark side of city life.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Urban Legends",
+        "Haunted Cities",
+        "Dark Tourism"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Architecture"
+    ],
+    "depth": 8
+}

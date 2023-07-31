@@ -1,0 +1,16 @@
+{
+    "title": "Supporting character",
+    "definition": "A character in a story who is not the main protagonist but plays a significant role in supporting the main plot or main characters.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Sidekick",
+        "Foil",
+        "Love interest"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Theater"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Rewards",
+    "definition": "Benefits or incentives given in recognition of someone's efforts or achievements.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Incentives",
+        "Recognition",
+        "Bonuses"
+    ],
+    "concept_fields": [
+        "Employee Rewards",
+        "Customer Rewards",
+        "Loyalty Programs"
+    ],
+    "depth": 6
+}

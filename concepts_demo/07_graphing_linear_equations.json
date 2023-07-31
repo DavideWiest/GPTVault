@@ -1,0 +1,15 @@
+{
+    "title": "Graphing Linear Equations",
+    "definition": "Graphing linear equations involves plotting points on a coordinate plane and connecting them to form a straight line.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Slope-Intercept Form",
+        "Point-Slope Form",
+        "Standard Form"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Half precision",
+    "definition": "A binary floating-point computer number format that occupies 16 bits (2 bytes) in computer memory.",
+    "known_since": "1985",
+    "child_concepts": [
+        "Single precision",
+        "Double precision"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Computer Engineering"
+    ],
+    "depth": 7
+}

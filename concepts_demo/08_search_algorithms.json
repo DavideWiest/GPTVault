@@ -1,0 +1,14 @@
+{
+    "title": "Search algorithms",
+    "definition": "Search algorithms are a set of techniques used to find specific items or information within a larger collection of data.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Linear search",
+        "Binary search"
+    ],
+    "concept_fields": [
+        "Data structures",
+        "Sorting algorithms"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Salt intake",
+    "definition": "Salt intake refers to the amount of salt consumed by an individual or population in their diet. It is usually measured in grams or milligrams.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "High salt intake",
+        "Low salt intake"
+    ],
+    "concept_fields": [
+        "Nutrition",
+        "Health"
+    ],
+    "depth": 8
+}

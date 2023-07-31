@@ -1,0 +1,15 @@
+{
+    "title": "Cost-Benefit Analysis",
+    "definition": "A systematic process for calculating and comparing the benefits and costs of a project, decision, or policy.",
+    "known_since": "1930",
+    "child_concepts": [
+        "Opportunity Cost",
+        "Net Present Value"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Finance",
+        "Project Management"
+    ],
+    "depth": 5
+}

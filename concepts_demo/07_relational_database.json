@@ -1,0 +1,15 @@
+{
+    "title": "Relational Database",
+    "definition": "A relational database is a type of database that stores and organizes data into tables with predefined relationships between them.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Table",
+        "Primary Key",
+        "Foreign Key"
+    ],
+    "concept_fields": [
+        "Database Management Systems",
+        "SQL"
+    ],
+    "depth": 7
+}

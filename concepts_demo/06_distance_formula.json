@@ -1,0 +1,14 @@
+{
+    "title": "Distance Formula",
+    "definition": "The distance formula is used to find the distance between two points in a coordinate plane.",
+    "known_since": "Pythagoras discovered the distance formula in the 6th century BC.",
+    "child_concepts": [
+        "Pythagorean Theorem",
+        "Coordinate Plane"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 6
+}

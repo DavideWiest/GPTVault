@@ -1,0 +1,15 @@
+{
+    "title": "Bargaining",
+    "definition": "The process of negotiating an agreement or compromise between two or more parties.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Negotiation",
+        "Mediation"
+    ],
+    "concept_fields": [
+        "Business",
+        "Labor Relations",
+        "Psychology"
+    ],
+    "depth": 7
+}

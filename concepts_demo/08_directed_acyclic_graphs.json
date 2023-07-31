@@ -1,0 +1,14 @@
+{
+    "title": "Directed Acyclic Graphs",
+    "definition": "A directed acyclic graph (DAG) is a finite directed graph with no directed cycles.",
+    "known_since": "1962",
+    "child_concepts": [
+        "Topological Sorting",
+        "Shortest Path Algorithms"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Graph Theory"
+    ],
+    "depth": 8
+}

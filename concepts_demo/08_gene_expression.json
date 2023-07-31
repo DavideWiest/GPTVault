@@ -1,0 +1,14 @@
+{
+    "title": "Gene expression",
+    "definition": "Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product, such as a protein or RNA molecule.",
+    "known_since": "1865",
+    "child_concepts": [
+        "Transcription",
+        "Translation"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "depth": 8
+}

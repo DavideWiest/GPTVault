@@ -1,0 +1,14 @@
+{
+    "title": "Indefinite Integral",
+    "definition": "An indefinite integral, also known as an antiderivative, is a fundamental concept in calculus that represents the reverse process of differentiation. It involves finding a function whose derivative is equal to a given function.",
+    "known_since": "17th century",
+    "child_concepts": [
+        "Definite Integral",
+        "Integration Techniques"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 7
+}

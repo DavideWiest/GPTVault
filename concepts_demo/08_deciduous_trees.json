@@ -1,0 +1,14 @@
+{
+    "title": "Deciduous trees",
+    "definition": "Deciduous trees are trees that shed their leaves annually.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Autumn colors",
+        "Leaf litter"
+    ],
+    "concept_fields": [
+        "Botany",
+        "Forestry"
+    ],
+    "depth": 8
+}

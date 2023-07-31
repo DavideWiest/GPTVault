@@ -1,0 +1,14 @@
+{
+    "title": "Speech Recognition",
+    "definition": "The ability of a computer or machine to convert spoken language into written text.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Automatic Speech Recognition",
+        "Speaker Recognition"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Natural Language Processing"
+    ],
+    "depth": 5
+}

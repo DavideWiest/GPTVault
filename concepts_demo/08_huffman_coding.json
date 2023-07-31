@@ -1,0 +1,15 @@
+{
+    "title": "Huffman Coding",
+    "definition": "Huffman coding is a data compression algorithm that is used to reduce the size of data files without losing any information. It is a variable-length prefix coding algorithm that assigns shorter codes to more frequently occurring characters and longer codes to less frequently occurring characters.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Prefix coding",
+        "Data compression",
+        "Entropy coding"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Information Theory"
+    ],
+    "depth": 8
+}

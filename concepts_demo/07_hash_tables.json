@@ -1,0 +1,15 @@
+{
+    "title": "Hash Tables",
+    "definition": "Hash tables are data structures that store key-value pairs. They use a hash function to map keys to indices in an array, allowing for efficient retrieval and insertion of values.",
+    "known_since": "1953",
+    "child_concepts": [
+        "Hash Functions",
+        "Collision Resolution"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures",
+        "Algorithms"
+    ],
+    "depth": 7
+}

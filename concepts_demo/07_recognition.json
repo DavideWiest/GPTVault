@@ -1,0 +1,14 @@
+{
+    "title": "Recognition",
+    "definition": "The act of identifying or acknowledging something or someone.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Facial recognition",
+        "Pattern recognition"
+    ],
+    "concept_fields": [
+        "Cognitive science",
+        "Artificial intelligence"
+    ],
+    "depth": 7
+}

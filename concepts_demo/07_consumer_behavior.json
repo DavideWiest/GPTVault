@@ -1,0 +1,17 @@
+{
+    "title": "Consumer behavior",
+    "definition": "Consumer behavior refers to the study of individuals, groups, or organizations and the processes they use to select, secure, use, and dispose of products, services, experiences, or ideas to satisfy their needs and wants.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Motivation",
+        "Perception",
+        "Attitudes",
+        "Decision-making"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Psychology",
+        "Economics"
+    ],
+    "depth": 7
+}

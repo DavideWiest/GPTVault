@@ -1,0 +1,14 @@
+{
+    "title": "Plane",
+    "definition": "A flat surface that extends infinitely in all directions.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Airplane",
+        "Geometry"
+    ],
+    "concept_fields": [
+        "Aviation",
+        "Mathematics"
+    ],
+    "depth": 6
+}

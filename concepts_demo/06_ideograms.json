@@ -1,0 +1,14 @@
+{
+    "title": "Ideograms",
+    "definition": "Ideograms are graphic symbols or characters used to represent concepts or ideas.",
+    "known_since": "3500 BC",
+    "child_concepts": [
+        "Pictograms",
+        "Logograms"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 6
+}

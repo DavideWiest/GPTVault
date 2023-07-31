@@ -1,0 +1,14 @@
+{
+    "title": "Negative numbers",
+    "definition": "Negative numbers are real numbers that are less than zero. They are used to represent quantities that are below a reference point or origin.",
+    "known_since": "-200",
+    "child_concepts": [
+        "Addition and subtraction of negative numbers",
+        "Multiplication and division of negative numbers"
+    ],
+    "concept_fields": [
+        "Number line",
+        "Absolute value"
+    ],
+    "depth": 8
+}

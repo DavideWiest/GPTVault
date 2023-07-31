@@ -1,0 +1,16 @@
+{
+    "title": "First-order Logic",
+    "definition": "First-order logic, also known as predicate logic or first-order predicate calculus, is a formal system used in mathematics, philosophy, linguistics, and computer science to express statements about objects, their properties, and the relationships between them.",
+    "known_since": "1879",
+    "child_concepts": [
+        "Propositional Logic",
+        "Predicate Calculus"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Philosophy",
+        "Linguistics",
+        "Computer Science"
+    ],
+    "depth": 8
+}

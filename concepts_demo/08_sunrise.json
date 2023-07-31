@@ -1,0 +1,15 @@
+{
+    "title": "Sunrise",
+    "definition": "The daily appearance of the sun above the horizon due to the rotation of the Earth.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Dawn",
+        "Twilight"
+    ],
+    "concept_fields": [
+        "Astronomy",
+        "Earth Science",
+        "Timekeeping"
+    ],
+    "depth": 8
+}

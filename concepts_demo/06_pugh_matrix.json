@@ -1,0 +1,14 @@
+{
+    "title": "Pugh Matrix",
+    "definition": "A decision-making tool used to evaluate and compare multiple options based on a set of criteria.",
+    "known_since": "1955",
+    "child_concepts": [
+        "Decision Matrix",
+        "Weighted Decision Matrix"
+    ],
+    "concept_fields": [
+        "Engineering",
+        "Management"
+    ],
+    "depth": 6
+}

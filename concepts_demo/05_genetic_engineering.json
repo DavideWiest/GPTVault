@@ -1,0 +1,14 @@
+{
+    "title": "Genetic Engineering",
+    "definition": "The manipulation of an organism's genetic material to alter its characteristics.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Gene Editing",
+        "Cloning"
+    ],
+    "concept_fields": [
+        "Biotechnology",
+        "Genetics"
+    ],
+    "depth": 5
+}

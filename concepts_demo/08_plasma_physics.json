@@ -1,0 +1,15 @@
+{
+    "title": "Plasma physics",
+    "definition": "Plasma physics is the study of matter in the plasma state, which is a state of matter similar to gas in which a certain portion of the particles are ionized.",
+    "known_since": "1928",
+    "child_concepts": [
+        "Plasma waves",
+        "Magnetohydrodynamics"
+    ],
+    "concept_fields": [
+        "Electromagnetism",
+        "Quantum mechanics",
+        "Statistical mechanics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Isosceles Triangle",
+    "definition": "A triangle with two sides of equal length.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Equilateral Triangle",
+        "Scalene Triangle"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

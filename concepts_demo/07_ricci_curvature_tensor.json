@@ -1,0 +1,14 @@
+{
+    "title": "Ricci curvature tensor",
+    "definition": "The Ricci curvature tensor is a mathematical object that measures the curvature of a Riemannian manifold at a given point.",
+    "known_since": "1915",
+    "child_concepts": [
+        "Riemann curvature tensor",
+        "Scalar curvature"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "General relativity"
+    ],
+    "depth": 7
+}

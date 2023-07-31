@@ -1,0 +1,14 @@
+{
+    "title": "Parole",
+    "definition": "Parole refers to the supervised release of a prisoner before the completion of their full sentence, subject to certain conditions and restrictions.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Probation",
+        "Early Release"
+    ],
+    "concept_fields": [
+        "Criminal Justice",
+        "Law"
+    ],
+    "depth": 8
+}

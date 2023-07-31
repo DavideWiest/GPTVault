@@ -1,0 +1,14 @@
+{
+    "title": "Interactive Visualization",
+    "definition": "The representation of data or information in a visual format that allows users to interact with and explore the data.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Data Visualization",
+        "Information Visualization"
+    ],
+    "concept_fields": [
+        "Data Science",
+        "User Experience Design"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Agglomerative clustering",
+    "definition": "Agglomerative clustering is a hierarchical clustering algorithm that starts with each data point as a separate cluster and iteratively merges the closest pairs of clusters until a stopping criterion is met. It is a bottom-up approach where the clusters are formed by progressively merging smaller clusters into larger ones.",
+    "known_since": "1954",
+    "child_concepts": [
+        "Single-linkage clustering",
+        "Complete-linkage clustering",
+        "Average-linkage clustering"
+    ],
+    "concept_fields": [
+        "Machine learning",
+        "Data mining",
+        "Pattern recognition"
+    ],
+    "depth": 8
+}

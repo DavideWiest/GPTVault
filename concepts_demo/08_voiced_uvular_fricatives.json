@@ -1,0 +1,14 @@
+{
+    "title": "Voiced uvular fricatives",
+    "definition": "Voiced uvular fricatives are consonant sounds produced by constricting the airflow through the vocal tract using the back of the tongue against the uvula. These sounds are characterized by a vibrating or buzzing sound.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiced uvular approximant",
+        "Voiced uvular trill"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Eigenvectors",
+    "definition": "Eigenvectors are non-zero vectors that only change by a scalar factor when a linear transformation is applied to them.",
+    "known_since": "1844",
+    "child_concepts": [
+        "Eigenvalues",
+        "Eigenspaces"
+    ],
+    "concept_fields": [
+        "Linear Algebra",
+        "Matrix Theory"
+    ],
+    "depth": 7
+}

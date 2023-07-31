@@ -1,0 +1,14 @@
+{
+    "title": "Sentiment Analysis",
+    "definition": "Sentiment analysis is the process of determining the emotional tone behind a series of words, used to understand the attitudes, opinions, and emotions expressed in text.",
+    "known_since": "2001",
+    "child_concepts": [
+        "Sentiment Classification",
+        "Opinion Mining"
+    ],
+    "concept_fields": [
+        "Natural Language Processing",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

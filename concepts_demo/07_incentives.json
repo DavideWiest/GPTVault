@@ -1,0 +1,14 @@
+{
+    "title": "Incentives",
+    "definition": "Incentives are rewards or benefits offered to motivate individuals or groups to take certain actions or behave in a particular way.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Rewards",
+        "Motivation"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Psychology"
+    ],
+    "depth": 7
+}

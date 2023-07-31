@@ -1,0 +1,14 @@
+{
+    "title": "Logograms",
+    "definition": "Logograms are written characters that represent whole words or morphemes.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Ideograms",
+        "Pictograms"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 5
+}

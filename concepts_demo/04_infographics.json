@@ -1,0 +1,14 @@
+{
+    "title": "Infographics",
+    "definition": "Visual representations of information or data designed to make complex concepts more understandable and engaging.",
+    "known_since": "1982",
+    "child_concepts": [
+        "Data visualization",
+        "Information design"
+    ],
+    "concept_fields": [
+        "Graphic design",
+        "Data analysis"
+    ],
+    "depth": 4
+}

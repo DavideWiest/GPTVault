@@ -1,0 +1,13 @@
+{
+    "title": "Type I Error",
+    "definition": "Type I error, also known as a false positive, occurs when a null hypothesis is rejected even though it is true.",
+    "known_since": "1933",
+    "child_concepts": [
+        "Type II Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Hypothesis Testing"
+    ],
+    "depth": 7
+}

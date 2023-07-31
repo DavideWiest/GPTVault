@@ -1,0 +1,14 @@
+{
+    "title": "Whorl pattern",
+    "definition": "A whorl pattern is a type of fingerprint pattern characterized by ridges that spiral around a central point.",
+    "known_since": "1901",
+    "child_concepts": [
+        "Loop pattern",
+        "Arch pattern"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Biometrics"
+    ],
+    "depth": 8
+}

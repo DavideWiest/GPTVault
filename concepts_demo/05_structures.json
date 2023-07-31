@@ -1,0 +1,14 @@
+{
+    "title": "Structures",
+    "definition": "Structures are arrangements or organizations of parts that form a whole.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Building Structures",
+        "Data Structures"
+    ],
+    "concept_fields": [
+        "Civil Engineering",
+        "Computer Science"
+    ],
+    "depth": 5
+}

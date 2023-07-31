@@ -1,0 +1,14 @@
+{
+    "title": "Evergreen trees",
+    "definition": "Evergreen trees are trees that retain their leaves or needles throughout the year, rather than shedding them in the autumn like deciduous trees.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Coniferous trees",
+        "Broadleaf evergreen trees"
+    ],
+    "concept_fields": [
+        "Botany",
+        "Forestry"
+    ],
+    "depth": 8
+}

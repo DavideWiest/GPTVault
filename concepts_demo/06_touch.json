@@ -1,0 +1,16 @@
+{
+    "title": "Touch",
+    "definition": "The sense of physical contact or perception of pressure, temperature, or pain through the skin.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Pressure",
+        "Temperature",
+        "Pain"
+    ],
+    "concept_fields": [
+        "Neuroscience",
+        "Psychology",
+        "Physiology"
+    ],
+    "depth": 6
+}

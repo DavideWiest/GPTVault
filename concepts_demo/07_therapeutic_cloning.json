@@ -1,0 +1,15 @@
+{
+    "title": "Therapeutic Cloning",
+    "definition": "Therapeutic cloning is the process of creating embryonic stem cells for medical research and treatment purposes.",
+    "known_since": "1997",
+    "child_concepts": [
+        "Embryonic Stem Cells",
+        "Somatic Cell Nuclear Transfer"
+    ],
+    "concept_fields": [
+        "Biotechnology",
+        "Genetics",
+        "Medicine"
+    ],
+    "depth": 7
+}

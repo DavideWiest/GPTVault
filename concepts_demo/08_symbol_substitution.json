@@ -1,0 +1,14 @@
+{
+    "title": "Symbol substitution",
+    "definition": "Symbol substitution is a concept in mathematics and computer science where symbols or variables are replaced with other symbols or variables to simplify or solve a problem.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Variable substitution",
+        "Symbolic substitution"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Computer Science"
+    ],
+    "depth": 8
+}

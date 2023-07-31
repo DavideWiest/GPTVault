@@ -1,0 +1,16 @@
+{
+    "title": "Motion Blur",
+    "definition": "Motion blur is the apparent streaking of moving objects in a photograph or a sequence of frames, caused by the relative motion between the camera and the subject.",
+    "known_since": "1882",
+    "child_concepts": [
+        "Long Exposure Photography",
+        "Panning",
+        "Radial Blur"
+    ],
+    "concept_fields": [
+        "Photography",
+        "Computer Graphics",
+        "Animation"
+    ],
+    "depth": 8
+}

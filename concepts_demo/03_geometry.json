@@ -1,0 +1,16 @@
+{
+    "title": "Geometry",
+    "definition": "The branch of mathematics that deals with the properties, measurement, and relationships of points, lines, angles, surfaces, and solids.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Euclidean Geometry",
+        "Analytic Geometry",
+        "Differential Geometry"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 3
+}

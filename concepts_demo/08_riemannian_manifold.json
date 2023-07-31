@@ -1,0 +1,15 @@
+{
+    "title": "Riemannian manifold",
+    "definition": "A Riemannian manifold is a smooth manifold equipped with a Riemannian metric, which allows for the measurement of distances and angles.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Curvature tensor",
+        "Geodesic",
+        "Metric tensor"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Riemannian geometry"
+    ],
+    "depth": 8
+}

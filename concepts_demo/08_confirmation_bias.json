@@ -1,0 +1,14 @@
+{
+    "title": "Confirmation Bias",
+    "definition": "Confirmation bias is the tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less consideration to alternative possibilities.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Selective Perception",
+        "Cognitive Dissonance"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 8
+}

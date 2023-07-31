@@ -1,0 +1,16 @@
+{
+    "title": "Glutamate",
+    "definition": "Glutamate is an amino acid that serves as a neurotransmitter in the central nervous system. It is the most abundant excitatory neurotransmitter in the brain and plays a crucial role in various physiological processes, including learning, memory, and synaptic plasticity.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Glutamic acid",
+        "Glutamate receptors",
+        "Excitatory neurotransmitters"
+    ],
+    "concept_fields": [
+        "Neuroscience",
+        "Biochemistry",
+        "Neurotransmitters"
+    ],
+    "depth": 8
+}

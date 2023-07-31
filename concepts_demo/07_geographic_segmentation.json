@@ -1,0 +1,14 @@
+{
+    "title": "Geographic segmentation",
+    "definition": "Geographic segmentation is the process of dividing a market into different geographical areas based on various factors such as location, climate, population density, and cultural preferences.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Demographic segmentation",
+        "Psychographic segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Market research"
+    ],
+    "depth": 7
+}

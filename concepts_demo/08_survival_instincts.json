@@ -1,0 +1,16 @@
+{
+    "title": "Survival instincts",
+    "definition": "Survival instincts are innate behaviors or responses that organisms possess to ensure their survival and increase their chances of reproducing.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Fight or flight response",
+        "Hunting",
+        "Foraging"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Psychology",
+        "Ethology"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Riemann curvature tensor",
+    "definition": "The Riemann curvature tensor is a mathematical object that describes the curvature of a manifold.",
+    "known_since": "1861",
+    "child_concepts": [
+        "Curvature tensor",
+        "Riemannian geometry"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "General relativity"
+    ],
+    "depth": 8
+}

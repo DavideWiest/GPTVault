@@ -1,0 +1,16 @@
+{
+    "title": "Hypothesis testing",
+    "definition": "Hypothesis testing is a statistical method used to make inferences or draw conclusions about a population based on sample data. It involves formulating a hypothesis about the population parameter, collecting and analyzing data, and making a decision about the hypothesis based on the evidence.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Null hypothesis",
+        "Alternative hypothesis",
+        "Type I error",
+        "Type II error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research methodology"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Imagination",
+    "definition": "The ability to form mental images or concepts that are not present to the senses.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Creativity",
+        "Visualization"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science",
+        "Art"
+    ],
+    "depth": 3
+}

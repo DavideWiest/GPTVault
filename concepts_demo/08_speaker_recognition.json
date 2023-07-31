@@ -1,0 +1,14 @@
+{
+    "title": "Speaker Recognition",
+    "definition": "Speaker recognition is the process of automatically recognizing who is speaking based on individual characteristics of their speech.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Speaker Verification",
+        "Speaker Identification"
+    ],
+    "concept_fields": [
+        "Speech Processing",
+        "Pattern Recognition"
+    ],
+    "depth": 8
+}

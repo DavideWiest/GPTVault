@@ -1,0 +1,17 @@
+{
+    "title": "Statistical Hypothesis Testing",
+    "definition": "Statistical hypothesis testing is a method used to make inferences or draw conclusions about a population based on sample data.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Null Hypothesis",
+        "Alternative Hypothesis",
+        "Type I Error",
+        "Type II Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability",
+        "Research Methodology"
+    ],
+    "depth": 7
+}

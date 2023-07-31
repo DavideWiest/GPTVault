@@ -1,0 +1,15 @@
+{
+    "title": "Boolean algebra",
+    "definition": "A mathematical structure that deals with binary variables and logical operations.",
+    "known_since": "1847",
+    "child_concepts": [
+        "Logic gates",
+        "Boolean functions"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 5
+}

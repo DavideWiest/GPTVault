@@ -1,0 +1,15 @@
+{
+    "title": "Goal Setting",
+    "definition": "Goal setting is the process of identifying specific objectives or targets that a person or organization wants to achieve. It involves determining what needs to be accomplished, setting measurable and realistic goals, and creating a plan of action to reach those goals.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Short-term Goals",
+        "Long-term Goals"
+    ],
+    "concept_fields": [
+        "Motivation",
+        "Planning",
+        "Time Management"
+    ],
+    "depth": 8
+}

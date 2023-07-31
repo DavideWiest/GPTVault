@@ -1,0 +1,16 @@
+{
+    "title": "Thermonuclear fusion",
+    "definition": "The process in which two atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Nuclear fusion",
+        "Fusion reactions",
+        "Plasma physics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Energy",
+        "Astrophysics"
+    ],
+    "depth": 7
+}

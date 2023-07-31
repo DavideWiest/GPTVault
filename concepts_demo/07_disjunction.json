@@ -1,0 +1,14 @@
+{
+    "title": "Disjunction",
+    "definition": "A logical operation that returns true if at least one of its operands is true.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Conjunction",
+        "Negation"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Mathematics"
+    ],
+    "depth": 7
+}

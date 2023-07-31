@@ -1,0 +1,15 @@
+{
+    "title": "Emotional intelligence",
+    "definition": "The ability to recognize, understand, and manage our own emotions and the emotions of others.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Emotional awareness",
+        "Emotional regulation"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Leadership",
+        "Education"
+    ],
+    "depth": 6
+}

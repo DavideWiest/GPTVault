@@ -1,0 +1,16 @@
+{
+    "title": "Magnetic confinement fusion",
+    "definition": "A method of achieving controlled nuclear fusion reactions by using magnetic fields to confine the plasma.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Tokamak",
+        "Stellarator",
+        "Magnetic mirror"
+    ],
+    "concept_fields": [
+        "Plasma physics",
+        "Nuclear fusion",
+        "Magnetohydrodynamics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Segmenting",
+    "definition": "Segmenting is the process of dividing a larger entity into smaller parts or segments.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Sub-segmenting",
+        "Market segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Data analysis"
+    ],
+    "depth": 4
+}

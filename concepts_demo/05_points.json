@@ -1,0 +1,14 @@
+{
+    "title": "Points",
+    "definition": "A point is a fundamental concept in geometry representing a specific location in space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Line",
+        "Plane"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 5
+}

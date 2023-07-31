@@ -1,0 +1,16 @@
+{
+    "title": "Plant",
+    "definition": "A living organism that typically grows in soil, absorbs water and nutrients through its roots, and produces leaves, flowers, and fruits.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Flower",
+        "Tree",
+        "Grass"
+    ],
+    "concept_fields": [
+        "Botany",
+        "Agriculture",
+        "Ecology"
+    ],
+    "depth": 8
+}

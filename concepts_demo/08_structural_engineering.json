@@ -1,0 +1,16 @@
+{
+    "title": "Structural Engineering",
+    "definition": "Structural engineering is a branch of civil engineering that deals with the design and analysis of structures, such as buildings, bridges, and dams, to ensure their safety and stability.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Structural Analysis",
+        "Structural Design",
+        "Structural Materials"
+    ],
+    "concept_fields": [
+        "Civil Engineering",
+        "Mechanical Engineering",
+        "Construction"
+    ],
+    "depth": 8
+}

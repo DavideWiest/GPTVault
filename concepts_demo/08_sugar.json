@@ -1,0 +1,16 @@
+{
+    "title": "Sugar",
+    "definition": "Sugar is a sweet substance that is used as a food additive to enhance the taste of various dishes and beverages. It is a carbohydrate and is commonly derived from sugarcane or sugar beet.",
+    "known_since": "600",
+    "child_concepts": [
+        "Brown Sugar",
+        "Granulated Sugar",
+        "Powdered Sugar"
+    ],
+    "concept_fields": [
+        "Nutrition",
+        "Culinary Uses",
+        "Health Effects"
+    ],
+    "depth": 8
+}

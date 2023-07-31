@@ -1,0 +1,14 @@
+{
+    "title": "Standard Form",
+    "definition": "A way of writing numbers using digits and place value",
+    "known_since": "1202",
+    "child_concepts": [
+        "Expanded Form",
+        "Scientific Notation"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Systems"
+    ],
+    "depth": 6
+}

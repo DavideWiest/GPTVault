@@ -1,0 +1,14 @@
+{
+    "title": "Sunk Cost",
+    "definition": "A sunk cost is a cost that has already been incurred and cannot be recovered. It is irrelevant to future decision-making because it cannot be changed or avoided.",
+    "known_since": "1920",
+    "child_concepts": [
+        "Opportunity Cost",
+        "Marginal Cost"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Decision Making"
+    ],
+    "depth": 8
+}

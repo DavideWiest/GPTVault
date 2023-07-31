@@ -1,0 +1,14 @@
+{
+    "title": "Motor Skills",
+    "definition": "Motor skills are the abilities of the body to perform coordinated movements and actions using muscles and limbs.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Gross Motor Skills",
+        "Fine Motor Skills"
+    ],
+    "concept_fields": [
+        "Physical Education",
+        "Occupational Therapy"
+    ],
+    "depth": 8
+}

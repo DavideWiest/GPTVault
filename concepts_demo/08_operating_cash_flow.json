@@ -1,0 +1,18 @@
+{
+    "title": "Operating Cash Flow",
+    "definition": "Operating Cash Flow is a measure of the cash generated or used by a company's core operations during a specific period.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Free Cash Flow",
+        "Net Cash Flow",
+        "Cash Flow Statement"
+    ],
+    "concept_fields": [
+        "Revenue",
+        "Operating Expenses",
+        "Depreciation",
+        "Interest Expense",
+        "Taxes"
+    ],
+    "depth": 8
+}

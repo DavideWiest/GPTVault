@@ -1,0 +1,14 @@
+{
+    "title": "Shortest Path",
+    "definition": "The shortest path is the path between two nodes in a graph that has the minimum possible length.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Dijkstra's algorithm",
+        "Floyd-Warshall algorithm"
+    ],
+    "concept_fields": [
+        "Graph theory",
+        "Network routing"
+    ],
+    "depth": 8
+}

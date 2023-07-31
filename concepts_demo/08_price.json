@@ -1,0 +1,15 @@
+{
+    "title": "Price",
+    "definition": "The amount of money or goods required to acquire a product or service.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Cost",
+        "Value"
+    ],
+    "concept_fields": [
+        "Price range",
+        "Discounts",
+        "Currency"
+    ],
+    "depth": 8
+}

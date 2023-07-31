@@ -1,0 +1,17 @@
+{
+    "title": "Southern Gothic",
+    "definition": "Southern Gothic is a subgenre of Gothic fiction in American literature that takes place in the American South. It combines elements of the Gothic genre with themes and settings commonly found in the Southern United States.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Southern Belle",
+        "Plantation",
+        "Voodoo",
+        "Racial Tensions"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Art"
+    ],
+    "depth": 8
+}

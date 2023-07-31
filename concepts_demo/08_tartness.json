@@ -1,0 +1,14 @@
+{
+    "title": "Tartness",
+    "definition": "Tartness refers to a sharp, acidic taste that is often associated with certain fruits or foods.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Sourness",
+        "Acidity"
+    ],
+    "concept_fields": [
+        "Flavor",
+        "Culinary"
+    ],
+    "depth": 8
+}

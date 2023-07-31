@@ -1,0 +1,14 @@
+{
+    "title": "Riemannian Manifolds",
+    "definition": "Riemannian manifolds are smooth manifolds equipped with a Riemannian metric, which allows for the measurement of distances and angles.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Curvature",
+        "Geodesics"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Riemannian Geometry"
+    ],
+    "depth": 6
+}

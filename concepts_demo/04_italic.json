@@ -1,0 +1,14 @@
+{
+    "title": "Italic",
+    "definition": "Italic is a style of text that is slanted to the right. It is often used to emphasize words or phrases.",
+    "known_since": "15th century",
+    "child_concepts": [
+        "Oblique",
+        "Cursive"
+    ],
+    "concept_fields": [
+        "Typography",
+        "Writing"
+    ],
+    "depth": 4
+}

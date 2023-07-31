@@ -1,0 +1,16 @@
+{
+    "title": "Bioinformatics",
+    "definition": "Bioinformatics is the interdisciplinary field that combines biology, computer science, and statistics to analyze and interpret biological data.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Genomics",
+        "Proteomics",
+        "Transcriptomics"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Computer Science",
+        "Statistics"
+    ],
+    "depth": 5
+}

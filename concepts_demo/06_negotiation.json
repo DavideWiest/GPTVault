@@ -1,0 +1,15 @@
+{
+    "title": "Negotiation",
+    "definition": "The process of reaching an agreement through discussion and compromise.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Bargaining",
+        "Mediation"
+    ],
+    "concept_fields": [
+        "Business",
+        "Law",
+        "Diplomacy"
+    ],
+    "depth": 6
+}

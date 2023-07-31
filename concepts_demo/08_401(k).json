@@ -1,0 +1,15 @@
+{
+    "title": "401(k)",
+    "definition": "A 401(k) is a retirement savings plan sponsored by an employer that allows employees to save and invest a portion of their salary before taxes are taken out.",
+    "known_since": "1978",
+    "child_concepts": [
+        "Roth 401(k)",
+        "Traditional 401(k)"
+    ],
+    "concept_fields": [
+        "Contributions",
+        "Investment Options",
+        "Employer Match"
+    ],
+    "depth": 8
+}

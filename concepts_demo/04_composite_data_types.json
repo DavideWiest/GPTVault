@@ -1,0 +1,15 @@
+{
+    "title": "Composite Data Types",
+    "definition": "Composite data types are data types that are made up of multiple smaller data types.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Arrays",
+        "Structures",
+        "Records"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures"
+    ],
+    "depth": 4
+}

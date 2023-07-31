@@ -1,0 +1,18 @@
+{
+    "title": "Taste",
+    "definition": "The sensation of flavor perceived in the mouth and throat on contact with a substance.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Sweetness",
+        "Sourness",
+        "Bitterness",
+        "Saltiness",
+        "Umami"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Psychology",
+        "Culinary"
+    ],
+    "depth": 6
+}

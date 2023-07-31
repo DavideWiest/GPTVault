@@ -1,0 +1,14 @@
+{
+    "title": "Spiral pattern",
+    "definition": "A spiral pattern is a mathematical concept that describes a curve that starts from a central point and continuously moves away from it while revolving around it in a consistent manner.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Fibonacci sequence",
+        "Golden spiral"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 8
+}

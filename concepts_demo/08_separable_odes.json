@@ -1,0 +1,14 @@
+{
+    "title": "Separable ODEs",
+    "definition": "Separable ordinary differential equations (ODEs) are a type of differential equation that can be written in a form where the variables can be separated and solved independently.",
+    "known_since": "17",
+    "child_concepts": [
+        "First-order ODEs",
+        "Exact ODEs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

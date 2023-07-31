@@ -1,0 +1,15 @@
+{
+    "title": "Propeller",
+    "definition": "A propeller is a type of fan that transmits power by converting rotational motion into thrust. It consists of a set of angled blades mounted around a central hub.",
+    "known_since": "1827",
+    "child_concepts": [
+        "Propeller pitch",
+        "Propeller diameter",
+        "Propeller efficiency"
+    ],
+    "concept_fields": [
+        "Aerospace engineering",
+        "Marine engineering"
+    ],
+    "depth": 8
+}

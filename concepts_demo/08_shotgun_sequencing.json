@@ -1,0 +1,14 @@
+{
+    "title": "Shotgun sequencing",
+    "definition": "Shotgun sequencing is a method used in DNA sequencing to determine the sequence of an entire genome. It involves randomly breaking up the DNA into small fragments, sequencing each fragment, and then assembling the sequences to reconstruct the original genome.",
+    "known_since": "1977",
+    "child_concepts": [
+        "Next-generation sequencing",
+        "Metagenomics"
+    ],
+    "concept_fields": [
+        "Genomics",
+        "DNA sequencing"
+    ],
+    "depth": 8
+}

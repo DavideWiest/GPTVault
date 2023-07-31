@@ -1,0 +1,14 @@
+{
+    "title": "Field",
+    "definition": "A specific area of study or knowledge",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Subfield 1",
+        "Subfield 2"
+    ],
+    "concept_fields": [
+        "Field 1",
+        "Field 2"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Skill",
+    "definition": "A skill is the ability to perform a specific task or activity effectively and efficiently.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Technical Skill",
+        "Soft Skill"
+    ],
+    "concept_fields": [
+        "Application",
+        "Development",
+        "Mastery"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Nociceptive pain",
+    "definition": "Nociceptive pain is the type of pain that occurs when specific pain receptors, called nociceptors, detect tissue damage or potential tissue damage.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Acute pain",
+        "Chronic pain"
+    ],
+    "concept_fields": [
+        "Physiology",
+        "Neuroscience"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Cash Flow",
+    "definition": "The movement of money into or out of a business or financial system.",
+    "known_since": "13th century",
+    "child_concepts": [
+        "Operating Cash Flow",
+        "Investing Cash Flow",
+        "Financing Cash Flow"
+    ],
+    "concept_fields": [
+        "Accounting",
+        "Finance"
+    ],
+    "depth": 7
+}

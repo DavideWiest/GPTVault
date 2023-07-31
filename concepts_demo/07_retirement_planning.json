@@ -1,0 +1,17 @@
+{
+    "title": "Retirement Planning",
+    "definition": "The process of determining retirement income goals and the actions and decisions necessary to achieve those goals.",
+    "known_since": "1889",
+    "child_concepts": [
+        "401(k)",
+        "IRA",
+        "Pension",
+        "Social Security"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment",
+        "Insurance"
+    ],
+    "depth": 7
+}

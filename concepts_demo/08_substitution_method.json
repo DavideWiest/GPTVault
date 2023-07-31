@@ -1,0 +1,15 @@
+{
+    "title": "Substitution Method",
+    "definition": "The substitution method is a technique used in algebra to solve a system of equations by solving one equation for one variable and substituting that expression into the other equation.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Elimination Method",
+        "Graphical Method"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Equations",
+        "Solving"
+    ],
+    "depth": 8
+}

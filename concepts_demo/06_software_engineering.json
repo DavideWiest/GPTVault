@@ -1,0 +1,16 @@
+{
+    "title": "Software Engineering",
+    "definition": "The application of engineering principles and practices to the design, development, and maintenance of software systems.",
+    "known_since": "1968",
+    "child_concepts": [
+        "Software Development",
+        "Software Testing",
+        "Software Maintenance"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Software Development",
+        "Project Management"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Two-dimensional Arrays",
+    "definition": "A two-dimensional array is a data structure that stores elements in a grid-like format, where each element is identified by a pair of indices. It is an extension of the one-dimensional array concept, allowing data to be organized in rows and columns.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Row-major order",
+        "Column-major order"
+    ],
+    "concept_fields": [
+        "Indexing",
+        "Memory allocation"
+    ],
+    "depth": 8
+}

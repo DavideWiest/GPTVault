@@ -1,0 +1,14 @@
+{
+    "title": "DNA testing",
+    "definition": "The process of analyzing an individual's DNA to determine genetic information.",
+    "known_since": "1985",
+    "child_concepts": [
+        "Genetic testing",
+        "Forensic DNA analysis"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensics"
+    ],
+    "depth": 6
+}

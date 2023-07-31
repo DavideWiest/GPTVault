@@ -1,0 +1,15 @@
+{
+    "title": "Firewalls",
+    "definition": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on predetermined security rules.",
+    "known_since": "1988",
+    "child_concepts": [
+        "Packet Filtering",
+        "Proxy Firewall",
+        "Next-Generation Firewall"
+    ],
+    "concept_fields": [
+        "Network Security",
+        "Information Security"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Transversal lines",
+    "definition": "Transversal lines are lines that intersect two or more other lines at distinct points.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Parallel lines",
+        "Intersecting lines"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 8
+}

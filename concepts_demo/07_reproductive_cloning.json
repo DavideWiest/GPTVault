@@ -1,0 +1,14 @@
+{
+    "title": "Reproductive Cloning",
+    "definition": "The process of creating an organism that is genetically identical to another existing organism.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Therapeutic Cloning",
+        "Embryo Cloning"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Biotechnology"
+    ],
+    "depth": 7
+}

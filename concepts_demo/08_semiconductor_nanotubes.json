@@ -1,0 +1,15 @@
+{
+    "title": "Semiconductor nanotubes",
+    "definition": "Semiconductor nanotubes are cylindrical nanostructures made of semiconductor materials. They have unique electronic and optical properties due to their one-dimensional structure.",
+    "known_since": "1991",
+    "child_concepts": [
+        "Carbon nanotubes",
+        "Nanowires"
+    ],
+    "concept_fields": [
+        "Nanotechnology",
+        "Materials Science",
+        "Electronics"
+    ],
+    "depth": 8
+}

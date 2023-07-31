@@ -1,0 +1,14 @@
+{
+    "title": "Data Types",
+    "definition": "Data types are a classification of values that determine the type of operations that can be performed on them.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Primitive Data Types",
+        "Composite Data Types"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Programming"
+    ],
+    "depth": 3
+}

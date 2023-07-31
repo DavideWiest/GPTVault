@@ -1,0 +1,15 @@
+{
+    "title": "Victorian Gothic",
+    "definition": "A style of architecture and design popular during the Victorian era, characterized by ornate details, dark colors, and a sense of mystery and drama.",
+    "known_since": "1837",
+    "child_concepts": [
+        "Neo-Gothic",
+        "Gothic Revival"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Interior Design",
+        "Literature"
+    ],
+    "depth": 7
+}

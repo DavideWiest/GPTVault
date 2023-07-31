@@ -1,0 +1,14 @@
+{
+    "title": "Transcriptomics",
+    "definition": "Transcriptomics is the study of the transcriptome, which refers to the complete set of RNA molecules produced by the genome of an organism.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Gene expression",
+        "RNA sequencing"
+    ],
+    "concept_fields": [
+        "Genomics",
+        "Bioinformatics"
+    ],
+    "depth": 6
+}

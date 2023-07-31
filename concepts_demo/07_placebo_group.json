@@ -1,0 +1,14 @@
+{
+    "title": "Placebo group",
+    "definition": "A group in a clinical trial that receives a placebo treatment, which is an inactive substance or procedure that resembles the experimental treatment but has no therapeutic effect.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Placebo effect",
+        "Placebo-controlled trial"
+    ],
+    "concept_fields": [
+        "Medicine",
+        "Clinical trials"
+    ],
+    "depth": 7
+}

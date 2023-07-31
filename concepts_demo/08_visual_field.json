@@ -1,0 +1,14 @@
+{
+    "title": "Visual field",
+    "definition": "The visual field is the total area in which objects can be seen in the peripheral vision while the eyes are focused on a central point.",
+    "known_since": "400 BC",
+    "child_concepts": [
+        "Peripheral vision",
+        "Central vision"
+    ],
+    "concept_fields": [
+        "Ophthalmology",
+        "Neurology"
+    ],
+    "depth": 8
+}

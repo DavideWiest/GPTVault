@@ -1,0 +1,14 @@
+{
+    "title": "Binomials",
+    "definition": "A binomial is a mathematical expression that consists of two terms connected by an operator, usually addition or subtraction.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Polynomials",
+        "Trinomials"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 5
+}

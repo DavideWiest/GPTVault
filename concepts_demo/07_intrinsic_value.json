@@ -1,0 +1,14 @@
+{
+    "title": "Intrinsic Value",
+    "definition": "The inherent worth or value of something, independent of external factors or influences.",
+    "known_since": "17",
+    "child_concepts": [
+        "Extrinsic Value",
+        "Market Value"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 7
+}

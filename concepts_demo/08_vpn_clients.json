@@ -1,0 +1,15 @@
+{
+    "title": "VPN clients",
+    "definition": "VPN clients are software applications that allow users to connect to a virtual private network (VPN) and access resources securely over the internet.",
+    "known_since": "1996",
+    "child_concepts": [
+        "VPN protocols",
+        "VPN servers"
+    ],
+    "concept_fields": [
+        "Authentication",
+        "Encryption",
+        "Tunneling"
+    ],
+    "depth": 8
+}

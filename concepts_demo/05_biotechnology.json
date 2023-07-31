@@ -1,0 +1,15 @@
+{
+    "title": "Biotechnology",
+    "definition": "The use of living organisms or their products to modify or improve human health, agriculture, and the environment.",
+    "known_since": "1919",
+    "child_concepts": [
+        "Genetic Engineering",
+        "Bioinformatics"
+    ],
+    "concept_fields": [
+        "Medicine",
+        "Agriculture",
+        "Environmental Science"
+    ],
+    "depth": 5
+}

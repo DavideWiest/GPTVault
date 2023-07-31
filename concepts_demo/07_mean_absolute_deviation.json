@@ -1,0 +1,14 @@
+{
+    "title": "Mean Absolute Deviation",
+    "definition": "The mean absolute deviation (MAD) is a measure of the dispersion or spread of a set of data values.",
+    "known_since": "1750",
+    "child_concepts": [
+        "Standard Deviation",
+        "Variance"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 7
+}

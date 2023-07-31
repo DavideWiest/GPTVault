@@ -1,0 +1,14 @@
+{
+    "title": "Background",
+    "definition": "The background refers to the circumstances or events that precede or provide context for a particular concept or situation.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Context",
+        "History"
+    ],
+    "concept_fields": [
+        "Context",
+        "History"
+    ],
+    "depth": 8
+}

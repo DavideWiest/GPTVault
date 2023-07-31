@@ -1,0 +1,14 @@
+{
+    "title": "Triphthongs",
+    "definition": "A triphthong is a sequence of three vowel sounds that are pronounced together in a single syllable.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Diphthongs",
+        "Monophthongs"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 7
+}

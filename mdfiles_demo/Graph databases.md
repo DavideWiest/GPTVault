@@ -1,0 +1,18 @@
+
+
+# Definition:
+Graph databases are a type of NoSQL database that uses graph structures to represent and store data. They are designed to efficiently store and query highly interconnected data, such as social networks, recommendation systems, and knowledge graphs. In a graph database, data is represented as nodes (entities) and edges (relationships) between the nodes. This allows for flexible and expressive modeling of complex relationships and enables powerful graph-based queries.
+
+# Reference:
+- [[Graph theory]]
+- [[Graph traversal]]
+- [[Property graph model]]
+
+# Fields: 
+- #Node
+- #Edge
+- #Property
+
+# Known Since:
+2000
+

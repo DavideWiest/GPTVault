@@ -1,0 +1,14 @@
+{
+    "title": "Transdermal drug delivery",
+    "definition": "Transdermal drug delivery is a method of administering medication through the skin for systemic distribution.",
+    "known_since": "1979",
+    "child_concepts": [
+        "Patch technology",
+        "Permeation enhancers"
+    ],
+    "concept_fields": [
+        "Pharmacology",
+        "Pharmaceutical technology"
+    ],
+    "depth": 8
+}

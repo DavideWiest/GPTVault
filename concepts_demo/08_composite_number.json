@@ -1,0 +1,14 @@
+{
+    "title": "Composite Number",
+    "definition": "A composite number is a positive integer greater than 1 that has at least one positive divisor other than 1 and itself.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Prime Number",
+        "Factorization"
+    ],
+    "concept_fields": [
+        "Number Theory",
+        "Mathematics"
+    ],
+    "depth": 8
+}

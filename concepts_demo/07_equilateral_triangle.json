@@ -1,0 +1,14 @@
+{
+    "title": "Equilateral Triangle",
+    "definition": "A triangle with all three sides of equal length.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Isosceles Triangle",
+        "Scalene Triangle"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

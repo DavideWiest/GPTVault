@@ -1,0 +1,15 @@
+{
+    "title": "Stacks",
+    "definition": "A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle.",
+    "known_since": "1955",
+    "child_concepts": [
+        "Push",
+        "Pop",
+        "Peek"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures"
+    ],
+    "depth": 7
+}

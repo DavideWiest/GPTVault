@@ -1,0 +1,18 @@
+{
+    "title": "Self-determination theory",
+    "definition": "Self-determination theory is a psychological framework that focuses on the motivation behind human behavior and the factors that contribute to personal growth and well-being. It suggests that individuals have three basic psychological needs: autonomy, competence, and relatedness, and when these needs are satisfied, they are more likely to experience intrinsic motivation and psychological well-being.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Intrinsic motivation",
+        "Extrinsic motivation",
+        "Autonomy",
+        "Competence",
+        "Relatedness"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Motivation",
+        "Well-being"
+    ],
+    "depth": 8
+}

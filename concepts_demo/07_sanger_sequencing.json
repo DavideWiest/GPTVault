@@ -1,0 +1,14 @@
+{
+    "title": "Sanger sequencing",
+    "definition": "A method of DNA sequencing that uses chain-terminating dideoxynucleotides",
+    "known_since": "1977",
+    "child_concepts": [
+        "Next-generation sequencing",
+        "Shotgun sequencing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular biology"
+    ],
+    "depth": 7
+}

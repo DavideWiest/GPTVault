@@ -1,0 +1,15 @@
+{
+    "title": "Strategic Planning",
+    "definition": "Strategic planning is the process of defining an organization's direction and making decisions on allocating its resources to pursue this direction. It involves setting goals, determining actions to achieve those goals, and mobilizing resources to execute the actions.",
+    "known_since": "1950",
+    "child_concepts": [
+        "SWOT Analysis",
+        "Goal Setting",
+        "Resource Allocation"
+    ],
+    "concept_fields": [
+        "Business Management",
+        "Organizational Development"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Roots of Quadratic Equations",
+    "definition": "The roots of a quadratic equation are the values of x that satisfy the equation and make it equal to zero.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Discriminant",
+        "Vertex of a Parabola"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 6
+}

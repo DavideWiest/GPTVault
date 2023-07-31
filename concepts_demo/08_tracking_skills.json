@@ -1,0 +1,16 @@
+{
+    "title": "Tracking skills",
+    "definition": "The ability to monitor and follow the movement or progress of something or someone.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Visual tracking",
+        "Auditory tracking",
+        "Object tracking"
+    ],
+    "concept_fields": [
+        "Observation",
+        "Attention",
+        "Spatial awareness"
+    ],
+    "depth": 8
+}

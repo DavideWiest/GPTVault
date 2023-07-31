@@ -1,0 +1,15 @@
+{
+    "title": "Partial Differential Equations",
+    "definition": "Partial Differential Equations (PDEs) are mathematical equations that involve partial derivatives of an unknown function of multiple variables.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Boundary Value Problems",
+        "Initial Value Problems"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 6
+}

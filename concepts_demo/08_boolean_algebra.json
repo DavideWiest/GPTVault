@@ -1,0 +1,15 @@
+{
+    "title": "Boolean algebra",
+    "definition": "Boolean algebra is a mathematical structure that deals with binary variables and logical operations. It provides a formal system for analyzing and manipulating logical expressions.",
+    "known_since": "1847",
+    "child_concepts": [
+        "Logic gates",
+        "Boolean functions"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 8
+}

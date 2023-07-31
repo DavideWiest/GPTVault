@@ -1,0 +1,15 @@
+{
+    "title": "Circumference",
+    "definition": "The distance around the edge of a circle.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Diameter",
+        "Radius",
+        "Arc Length"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

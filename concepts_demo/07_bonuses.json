@@ -1,0 +1,14 @@
+{
+    "title": "Bonuses",
+    "definition": "Additional compensation given to employees based on their performance or achievements.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Performance-based bonuses",
+        "Sales bonuses"
+    ],
+    "concept_fields": [
+        "Human Resources",
+        "Finance"
+    ],
+    "depth": 7
+}

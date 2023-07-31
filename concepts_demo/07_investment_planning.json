@@ -1,0 +1,14 @@
+{
+    "title": "Investment Planning",
+    "definition": "The process of determining the most effective way to allocate and manage financial resources in order to achieve specific investment goals.",
+    "known_since": "1920",
+    "child_concepts": [
+        "Asset Allocation",
+        "Risk Management"
+    ],
+    "concept_fields": [
+        "Financial Planning",
+        "Portfolio Management"
+    ],
+    "depth": 7
+}

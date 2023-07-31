@@ -1,0 +1,17 @@
+{
+    "title": "Typography",
+    "definition": "The art and technique of arranging type to make written language legible, readable, and appealing when displayed.",
+    "known_since": "15th century",
+    "child_concepts": [
+        "Typeface",
+        "Font",
+        "Kerning",
+        "Leading"
+    ],
+    "concept_fields": [
+        "Graphic Design",
+        "Printing",
+        "Web Design"
+    ],
+    "depth": 8
+}

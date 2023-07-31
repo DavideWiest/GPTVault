@@ -1,0 +1,15 @@
+{
+    "title": "Rival",
+    "definition": "A person or thing competing with another for the same objective or for superiority in the same field of activity.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Competition",
+        "Opponent"
+    ],
+    "concept_fields": [
+        "Competition",
+        "Conflict",
+        "Superiority"
+    ],
+    "depth": 8
+}

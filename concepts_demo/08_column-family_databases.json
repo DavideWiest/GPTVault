@@ -1,0 +1,17 @@
+{
+    "title": "Column-family databases",
+    "definition": "Column-family databases are a type of NoSQL database that organizes data into columns rather than rows, allowing for flexible and scalable data storage and retrieval.",
+    "known_since": "2004",
+    "child_concepts": [
+        "Wide-column stores",
+        "Bigtable",
+        "Cassandra"
+    ],
+    "concept_fields": [
+        "Column",
+        "Row",
+        "Key",
+        "Value"
+    ],
+    "depth": 8
+}

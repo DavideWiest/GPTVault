@@ -1,0 +1,14 @@
+{
+    "title": "Voiced palatal fricatives",
+    "definition": "Voiced palatal fricatives are consonant sounds that are produced by narrowing the space between the back of the tongue and the hard palate while allowing air to pass through and creating friction.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Voiced palatal approximant",
+        "Voiced palatal nasal"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

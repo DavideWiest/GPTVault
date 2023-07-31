@@ -1,0 +1,16 @@
+{
+    "title": "Marginal Cost",
+    "definition": "Marginal cost is the change in the total cost that arises when the quantity produced changes by one unit.",
+    "known_since": "1767",
+    "child_concepts": [
+        "Marginal Revenue",
+        "Marginal Product",
+        "Marginal Utility"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Microeconomics",
+        "Cost Analysis"
+    ],
+    "depth": 8
+}

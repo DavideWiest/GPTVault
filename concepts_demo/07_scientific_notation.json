@@ -1,0 +1,15 @@
+{
+    "title": "Scientific Notation",
+    "definition": "A way of expressing numbers that are very large or very small using powers of 10.",
+    "known_since": "1600",
+    "child_concepts": [
+        "Exponent",
+        "Significant Figures"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Chemistry"
+    ],
+    "depth": 7
+}

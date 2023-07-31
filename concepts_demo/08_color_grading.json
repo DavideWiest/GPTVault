@@ -1,0 +1,16 @@
+{
+    "title": "Color Grading",
+    "definition": "Color grading is the process of altering and enhancing the color of a motion picture, video image, or still image either electronically, photo-chemically or digitally.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Color Correction",
+        "Color Space",
+        "LUTs"
+    ],
+    "concept_fields": [
+        "Film Production",
+        "Photography",
+        "Video Editing"
+    ],
+    "depth": 8
+}

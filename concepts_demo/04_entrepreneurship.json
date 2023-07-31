@@ -1,0 +1,16 @@
+{
+    "title": "Entrepreneurship",
+    "definition": "The activity of setting up a business or businesses, taking on financial risks in the hope of profit.",
+    "known_since": "18th century",
+    "child_concepts": [
+        "Startups",
+        "Innovation",
+        "Business Planning"
+    ],
+    "concept_fields": [
+        "Business",
+        "Economics",
+        "Management"
+    ],
+    "depth": 4
+}

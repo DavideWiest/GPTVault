@@ -1,0 +1,15 @@
+{
+    "title": "Text Classification",
+    "definition": "Text classification is the process of categorizing text documents into predefined classes or categories based on their content.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Supervised Learning",
+        "Natural Language Processing"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Data Mining",
+        "Information Retrieval"
+    ],
+    "depth": 7
+}

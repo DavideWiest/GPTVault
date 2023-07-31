@@ -1,0 +1,15 @@
+{
+    "title": "Coordinate Geometry",
+    "definition": "A branch of mathematics that deals with the study of geometric figures using coordinates.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Cartesian Plane",
+        "Distance Formula",
+        "Midpoint Formula"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 5
+}

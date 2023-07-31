@@ -1,0 +1,15 @@
+{
+    "title": "Algorithmic Bias",
+    "definition": "Algorithmic bias refers to the systematic and unfair discrimination or favoritism that can occur in automated decision-making systems due to inherent biases in the data, algorithms, or design.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Data Bias",
+        "Algorithmic Fairness"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Ethics",
+        "Data Science"
+    ],
+    "depth": 8
+}

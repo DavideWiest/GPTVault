@@ -1,0 +1,14 @@
+{
+    "title": "TALENs",
+    "definition": "TALENs (Transcription Activator-Like Effector Nucleases) are a type of engineered DNA-binding proteins that can be used for targeted genome editing.",
+    "known_since": "2010",
+    "child_concepts": [
+        "CRISPR-Cas9",
+        "ZFNs"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular Biology"
+    ],
+    "depth": 7
+}

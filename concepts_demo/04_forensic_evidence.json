@@ -1,0 +1,14 @@
+{
+    "title": "Forensic evidence",
+    "definition": "Scientific evidence used in criminal investigations to establish facts or prove a hypothesis.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Fingerprint analysis",
+        "DNA profiling"
+    ],
+    "concept_fields": [
+        "Criminal justice",
+        "Forensic science"
+    ],
+    "depth": 4
+}

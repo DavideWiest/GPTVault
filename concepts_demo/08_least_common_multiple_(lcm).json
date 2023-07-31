@@ -1,0 +1,14 @@
+{
+    "title": "Least Common Multiple (LCM)",
+    "definition": "The least common multiple (LCM) of two or more integers is the smallest positive integer that is divisible by each of the given integers without leaving a remainder.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Greatest Common Divisor (GCD)",
+        "Prime Factorization"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 8
+}

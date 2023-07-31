@@ -1,0 +1,15 @@
+{
+    "title": "Scalene Triangle",
+    "definition": "A scalene triangle is a triangle that has three unequal sides and three unequal angles.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Equilateral Triangle",
+        "Isosceles Triangle",
+        "Right Triangle"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Triangles"
+    ],
+    "depth": 8
+}

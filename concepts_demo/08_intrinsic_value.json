@@ -1,0 +1,15 @@
+{
+    "title": "Intrinsic Value",
+    "definition": "Intrinsic value is the perceived or calculated value of an asset, investment, or company based on its fundamental characteristics and underlying factors, rather than its market price or external influences. It represents the true worth or inherent value of the entity, which may differ from its current market value.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Fair Value",
+        "Book Value"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment",
+        "Valuation"
+    ],
+    "depth": 8
+}

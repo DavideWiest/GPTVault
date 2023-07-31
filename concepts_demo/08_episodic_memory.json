@@ -1,0 +1,14 @@
+{
+    "title": "Episodic Memory",
+    "definition": "Episodic memory is the type of long-term memory that involves the recollection of specific events, situations, and experiences in a person's life. It is the ability to consciously remember past events and mentally travel back in time to relive those experiences.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Autobiographical Memory",
+        "Flashbulb Memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 8
+}

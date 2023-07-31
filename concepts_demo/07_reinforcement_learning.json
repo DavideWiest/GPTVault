@@ -1,0 +1,14 @@
+{
+    "title": "Reinforcement Learning",
+    "definition": "A type of machine learning where an agent learns to make decisions in an environment to maximize a reward signal.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Q-Learning",
+        "Deep Q-Networks"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

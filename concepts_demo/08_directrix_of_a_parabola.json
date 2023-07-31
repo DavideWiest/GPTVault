@@ -1,0 +1,14 @@
+{
+    "title": "Directrix of a Parabola",
+    "definition": "The directrix of a parabola is a line that is equidistant from all the points on the parabola. It is a key element in defining the shape and position of the parabola.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Focus of a Parabola",
+        "Vertex of a Parabola"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Algebra"
+    ],
+    "depth": 8
+}

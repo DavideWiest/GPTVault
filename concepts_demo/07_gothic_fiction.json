@@ -1,0 +1,16 @@
+{
+    "title": "Gothic fiction",
+    "definition": "A genre of literature that combines elements of horror, romance, and the supernatural.",
+    "known_since": "1764",
+    "child_concepts": [
+        "Southern Gothic",
+        "Urban Gothic"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Horror",
+        "Romance",
+        "Supernatural"
+    ],
+    "depth": 7
+}

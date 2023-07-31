@@ -1,0 +1,14 @@
+{
+    "title": "Right angles",
+    "definition": "An angle that measures exactly 90 degrees.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Acute angles",
+        "Obtuse angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 7
+}

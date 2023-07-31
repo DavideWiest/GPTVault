@@ -1,0 +1,14 @@
+{
+    "title": "Horizontal Bar Charts",
+    "definition": "Horizontal bar charts are a type of chart that display data using horizontal bars. Each bar represents a category or group, and the length of the bar corresponds to the value or quantity being measured. They are commonly used to compare different categories or show the distribution of a single variable.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Vertical Bar Charts",
+        "Stacked Bar Charts"
+    ],
+    "concept_fields": [
+        "Data Visualization",
+        "Statistics"
+    ],
+    "depth": 8
+}

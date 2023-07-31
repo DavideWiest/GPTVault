@@ -1,0 +1,14 @@
+{
+    "title": "Tangent vectors",
+    "definition": "In mathematics, a tangent vector is a vector that is tangent to a curve or surface at a given point. It represents the direction and rate of change of the curve or surface at that point.",
+    "known_since": "17",
+    "child_concepts": [
+        "Tangent space",
+        "Tangent bundle"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Calculus"
+    ],
+    "depth": 8
+}

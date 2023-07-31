@@ -1,0 +1,14 @@
+{
+    "title": "Selective attention",
+    "definition": "Selective attention is the process of focusing on a particular stimulus while ignoring other stimuli in the environment.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Divided attention",
+        "Sustained attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 8
+}

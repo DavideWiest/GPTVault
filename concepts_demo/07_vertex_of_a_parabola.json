@@ -1,0 +1,14 @@
+{
+    "title": "Vertex of a Parabola",
+    "definition": "The vertex of a parabola is the point where the parabola reaches its maximum or minimum value.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Focus of a Parabola",
+        "Directrix of a Parabola"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 7
+}

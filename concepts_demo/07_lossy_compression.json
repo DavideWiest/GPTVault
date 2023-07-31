@@ -1,0 +1,14 @@
+{
+    "title": "Lossy Compression",
+    "definition": "A data compression method that sacrifices some data to reduce file size.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Lossless Compression",
+        "Image Compression"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Compression"
+    ],
+    "depth": 7
+}

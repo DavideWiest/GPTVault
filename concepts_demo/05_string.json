@@ -1,0 +1,22 @@
+{
+    "title": "String",
+    "definition": "A JSON document is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate.",
+    "known_since": "2001",
+    "child_concepts": [
+        "Object",
+        "Array",
+        "Value",
+        "String",
+        "Number",
+        "Boolean",
+        "Null"
+    ],
+    "concept_fields": [
+        "title",
+        "definition",
+        "known_since",
+        "child_concepts",
+        "concept_fields"
+    ],
+    "depth": 5
+}

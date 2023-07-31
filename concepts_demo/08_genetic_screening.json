@@ -1,0 +1,16 @@
+{
+    "title": "Genetic screening",
+    "definition": "Genetic screening is the process of analyzing an individual's DNA to identify genetic variations or mutations that may be associated with certain diseases or conditions.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Carrier screening",
+        "Prenatal screening",
+        "Newborn screening"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Medicine",
+        "Healthcare"
+    ],
+    "depth": 8
+}

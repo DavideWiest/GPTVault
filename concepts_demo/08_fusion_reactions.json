@@ -1,0 +1,14 @@
+{
+    "title": "Fusion reactions",
+    "definition": "Fusion reactions are nuclear reactions in which two or more atomic nuclei come close enough to form one or more different atomic nuclei and subatomic particles.",
+    "known_since": "1939",
+    "child_concepts": [
+        "Nuclear fusion",
+        "Thermonuclear fusion"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Nuclear energy"
+    ],
+    "depth": 8
+}

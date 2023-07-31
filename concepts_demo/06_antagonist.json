@@ -1,0 +1,15 @@
+{
+    "title": "Antagonist",
+    "definition": "A character or force that opposes the protagonist in a story.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Villain",
+        "Adversary"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Theater"
+    ],
+    "depth": 6
+}

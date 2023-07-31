@@ -1,0 +1,15 @@
+{
+    "title": "Context",
+    "definition": "The circumstances or conditions in which something exists or occurs.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Background",
+        "Environment"
+    ],
+    "concept_fields": [
+        "History",
+        "Science",
+        "Literature"
+    ],
+    "depth": 7
+}

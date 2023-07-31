@@ -1,0 +1,14 @@
+{
+    "title": "Sibling testing",
+    "definition": "A process of determining the biological relationship between two individuals who share at least one common parent.",
+    "known_since": "1950",
+    "child_concepts": [
+        "DNA testing",
+        "Paternity testing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensics"
+    ],
+    "depth": 7
+}

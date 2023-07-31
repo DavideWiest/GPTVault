@@ -1,0 +1,14 @@
+{
+    "title": "Perimeter",
+    "definition": "The perimeter is the total length of the boundary of a two-dimensional shape.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Area",
+        "Circumference"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 8
+}

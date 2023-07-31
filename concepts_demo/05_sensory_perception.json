@@ -1,0 +1,17 @@
+{
+    "title": "Sensory perception",
+    "definition": "The process of detecting and interpreting information from the environment through the senses.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Vision",
+        "Hearing",
+        "Taste",
+        "Smell",
+        "Touch"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 5
+}

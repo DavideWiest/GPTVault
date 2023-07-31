@@ -1,0 +1,14 @@
+{
+    "title": "Short-term memory",
+    "definition": "Short-term memory, also known as working memory, is the cognitive function responsible for temporarily holding and manipulating information in the mind.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Chunking",
+        "Serial position effect"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 8
+}

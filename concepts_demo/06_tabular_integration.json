@@ -1,0 +1,14 @@
+{
+    "title": "Tabular Integration",
+    "definition": "The process of combining data from multiple tables into a single table based on common columns or keys.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Joining Tables",
+        "Data Integration"
+    ],
+    "concept_fields": [
+        "Database Management",
+        "Data Analysis"
+    ],
+    "depth": 6
+}

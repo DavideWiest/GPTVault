@@ -1,0 +1,16 @@
+{
+    "title": "Proteomics",
+    "definition": "The study of proteins and their functions within an organism.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Protein identification",
+        "Protein quantification",
+        "Protein-protein interactions"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Biochemistry",
+        "Genomics"
+    ],
+    "depth": 6
+}

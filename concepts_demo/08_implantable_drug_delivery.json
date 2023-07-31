@@ -1,0 +1,15 @@
+{
+    "title": "Implantable drug delivery",
+    "definition": "Implantable drug delivery refers to the use of medical devices that are surgically implanted in the body to deliver drugs or therapeutic substances directly to the targeted site.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Implantable pumps",
+        "Implantable drug-eluting devices"
+    ],
+    "concept_fields": [
+        "Biomedical engineering",
+        "Pharmacology",
+        "Surgery"
+    ],
+    "depth": 8
+}

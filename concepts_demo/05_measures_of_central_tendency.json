@@ -1,0 +1,15 @@
+{
+    "title": "Measures of Central Tendency",
+    "definition": "Measures of central tendency are statistical measures that describe the center or average of a data set.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Mean",
+        "Median",
+        "Mode"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Mathematics"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Linked Lists",
+    "definition": "A data structure that consists of a sequence of nodes, where each node contains a reference to the next node in the sequence.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Singly Linked List",
+        "Doubly Linked List",
+        "Circular Linked List"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures",
+        "Algorithms"
+    ],
+    "depth": 7
+}

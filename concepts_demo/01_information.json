@@ -1,0 +1,16 @@
+{
+    "title": "Information",
+    "definition": "The knowledge or understanding of facts, data, or ideas",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Data",
+        "Facts",
+        "Ideas"
+    ],
+    "concept_fields": [
+        "Science",
+        "Technology",
+        "Education"
+    ],
+    "depth": 1
+}

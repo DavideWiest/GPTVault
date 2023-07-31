@@ -1,0 +1,16 @@
+{
+    "title": "Risk Management",
+    "definition": "Risk management is the process of identifying, assessing, and prioritizing uncertainties that could affect the achievement of objectives, and taking appropriate actions to mitigate or exploit those uncertainties.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Risk Assessment",
+        "Risk Mitigation",
+        "Risk Monitoring"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Insurance",
+        "Project Management"
+    ],
+    "depth": 8
+}

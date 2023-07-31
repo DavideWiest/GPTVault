@@ -1,0 +1,14 @@
+{
+    "title": "Nested loops",
+    "definition": "Nested loops refer to the concept of using one loop inside another loop. It allows for the repetition of a set of instructions multiple times.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Nested if-else statements",
+        "Nested data structures"
+    ],
+    "concept_fields": [
+        "Computer programming",
+        "Algorithms"
+    ],
+    "depth": 8
+}

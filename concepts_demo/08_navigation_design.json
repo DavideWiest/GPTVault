@@ -1,0 +1,14 @@
+{
+    "title": "Navigation design",
+    "definition": "Navigation design refers to the process of creating and organizing the elements of a user interface that allow users to navigate through a website or application.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Menu design",
+        "Information architecture"
+    ],
+    "concept_fields": [
+        "User experience",
+        "Interaction design"
+    ],
+    "depth": 8
+}

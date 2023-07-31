@@ -1,0 +1,15 @@
+{
+    "title": "Extrasensory perception",
+    "definition": "The ability to acquire information through means other than the known senses.",
+    "known_since": "1882",
+    "child_concepts": [
+        "Telepathy",
+        "Clairvoyance",
+        "Precognition"
+    ],
+    "concept_fields": [
+        "Parapsychology",
+        "Psychology"
+    ],
+    "depth": 7
+}

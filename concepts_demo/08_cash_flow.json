@@ -1,0 +1,16 @@
+{
+    "title": "Cash Flow",
+    "definition": "Cash flow refers to the movement of money into and out of a business or individual's bank account over a specific period of time. It represents the net amount of cash generated or consumed by the business or individual during that period.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Operating Cash Flow",
+        "Investing Cash Flow",
+        "Financing Cash Flow"
+    ],
+    "concept_fields": [
+        "Cash Inflows",
+        "Cash Outflows",
+        "Net Cash Flow"
+    ],
+    "depth": 8
+}

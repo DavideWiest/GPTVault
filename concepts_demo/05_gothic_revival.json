@@ -1,0 +1,15 @@
+{
+    "title": "Gothic Revival",
+    "definition": "An architectural style that emerged in the late 18th century, characterized by pointed arches, ribbed vaults, and ornate decoration.",
+    "known_since": "1740",
+    "child_concepts": [
+        "Neo-Gothic",
+        "Gothic Revival Furniture"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Art",
+        "History"
+    ],
+    "depth": 5
+}

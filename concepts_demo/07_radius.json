@@ -1,0 +1,16 @@
+{
+    "title": "Radius",
+    "definition": "The distance from the center of a circle to any point on its circumference.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Diameter",
+        "Circumference",
+        "Arc length"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry",
+        "Physics"
+    ],
+    "depth": 7
+}

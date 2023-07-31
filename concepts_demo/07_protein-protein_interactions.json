@@ -1,0 +1,14 @@
+{
+    "title": "Protein-protein interactions",
+    "definition": "Protein-protein interactions refer to the physical contacts established between two or more proteins in a biological system.",
+    "known_since": "1959",
+    "child_concepts": [
+        "Protein complexes",
+        "Protein binding sites"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Molecular biology"
+    ],
+    "depth": 7
+}

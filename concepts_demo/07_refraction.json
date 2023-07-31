@@ -1,0 +1,14 @@
+{
+    "title": "Refraction",
+    "definition": "The bending of light as it passes from one medium to another",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Snell's Law",
+        "Total Internal Reflection"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Optics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Data Transformation",
+    "definition": "Data transformation is the process of converting data from one format or structure to another, in order to meet the requirements of different systems or applications.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Data Integration",
+        "Data Mapping"
+    ],
+    "concept_fields": [
+        "ETL",
+        "Data Warehousing",
+        "Data Migration"
+    ],
+    "depth": 8
+}

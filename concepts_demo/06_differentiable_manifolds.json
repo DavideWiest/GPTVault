@@ -1,0 +1,16 @@
+{
+    "title": "Differentiable Manifolds",
+    "definition": "Differentiable manifolds are mathematical objects that generalize the concept of a smooth curve or surface to higher dimensions.",
+    "known_since": "1872",
+    "child_concepts": [
+        "Tangent Spaces",
+        "Vector Fields",
+        "Lie Groups"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Topology",
+        "Algebra"
+    ],
+    "depth": 6
+}

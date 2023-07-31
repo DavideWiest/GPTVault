@@ -1,0 +1,14 @@
+{
+    "title": "Availability Heuristic",
+    "definition": "The availability heuristic is a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Representativeness Heuristic",
+        "Anchoring and Adjustment Heuristic"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Bias"
+    ],
+    "depth": 7
+}

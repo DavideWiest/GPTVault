@@ -1,0 +1,14 @@
+{
+    "title": "Interactive Visualization",
+    "definition": "Interactive visualization refers to the process of representing data visually and allowing users to interact with the visual representation to gain insights and explore the data.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Data Visualization",
+        "User Interaction"
+    ],
+    "concept_fields": [
+        "Data Analysis",
+        "User Experience Design"
+    ],
+    "depth": 8
+}

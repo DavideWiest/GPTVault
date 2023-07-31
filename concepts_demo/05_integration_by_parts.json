@@ -1,0 +1,14 @@
+{
+    "title": "Integration by Parts",
+    "definition": "A method used in calculus to find the integral of a product of two functions.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Tabular Integration",
+        "Integration by Substitution"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 5
+}

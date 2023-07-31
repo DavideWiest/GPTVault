@@ -1,0 +1,15 @@
+{
+    "title": "Assistant",
+    "definition": "An assistant is a person or software program that provides support or aid in completing tasks or solving problems.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Virtual Assistant",
+        "Personal Assistant"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

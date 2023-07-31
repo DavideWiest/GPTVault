@@ -1,0 +1,14 @@
+{
+    "title": "Attention",
+    "definition": "The ability to selectively concentrate on a particular stimulus or task while ignoring other stimuli.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Selective attention",
+        "Sustained attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Hearing",
+    "definition": "The ability to perceive sound through the ears.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Sound",
+        "Auditory system"
+    ],
+    "concept_fields": [
+        "Physiology",
+        "Psychology"
+    ],
+    "depth": 6
+}

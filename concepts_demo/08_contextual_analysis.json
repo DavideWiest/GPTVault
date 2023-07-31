@@ -1,0 +1,15 @@
+{
+    "title": "Contextual analysis",
+    "definition": "Contextual analysis is a method used to examine and interpret the surrounding circumstances and conditions that influence the meaning, understanding, and interpretation of a particular concept, event, or situation.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Textual analysis",
+        "Discourse analysis"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Sociology",
+        "Psychology"
+    ],
+    "depth": 8
+}

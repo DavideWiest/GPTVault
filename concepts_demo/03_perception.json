@@ -1,0 +1,15 @@
+{
+    "title": "Perception",
+    "definition": "The process of recognizing and interpreting sensory information from the environment.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Sensation",
+        "Attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science",
+        "Neuroscience"
+    ],
+    "depth": 3
+}

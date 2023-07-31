@@ -1,0 +1,14 @@
+{
+    "title": "Gene expression",
+    "definition": "The process by which information from a gene is used to create a functional gene product, such as a protein.",
+    "known_since": "1865",
+    "child_concepts": [
+        "Transcription",
+        "Translation"
+    ],
+    "concept_fields": [
+        "Molecular biology",
+        "Genetics"
+    ],
+    "depth": 7
+}

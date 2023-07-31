@@ -1,0 +1,13 @@
+{
+    "title": "Forward Index",
+    "definition": "A data structure used in information retrieval systems to map terms to the documents that contain them.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Inverted Index"
+    ],
+    "concept_fields": [
+        "Information Retrieval",
+        "Search Engines"
+    ],
+    "depth": 7
+}

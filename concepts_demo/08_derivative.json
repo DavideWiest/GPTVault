@@ -1,0 +1,15 @@
+{
+    "title": "Derivative",
+    "definition": "In mathematics, a derivative is a measure of how a function changes as its input changes. Derivatives are a fundamental tool in calculus and are used to study the rate at which quantities change.",
+    "known_since": "1668",
+    "child_concepts": [
+        "Differentiation",
+        "Partial Derivative",
+        "Chain Rule"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 8
+}

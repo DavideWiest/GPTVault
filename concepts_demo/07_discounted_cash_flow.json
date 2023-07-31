@@ -1,0 +1,14 @@
+{
+    "title": "Discounted Cash Flow",
+    "definition": "Discounted Cash Flow (DCF) is a financial valuation method used to estimate the value of an investment based on its expected future cash flows. It takes into account the time value of money by discounting the projected cash flows to their present value.",
+    "known_since": "1930",
+    "child_concepts": [
+        "Net Present Value",
+        "Internal Rate of Return"
+    ],
+    "concept_fields": [
+        "Cash Flows",
+        "Discount Rate"
+    ],
+    "depth": 7
+}

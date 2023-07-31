@@ -1,0 +1,15 @@
+{
+    "title": "Color vision",
+    "definition": "The ability of an organism or machine to perceive colors",
+    "known_since": "1666",
+    "child_concepts": [
+        "Color perception",
+        "Color blindness"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Biology",
+        "Psychology"
+    ],
+    "depth": 7
+}

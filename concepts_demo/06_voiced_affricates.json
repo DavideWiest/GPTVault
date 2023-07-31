@@ -1,0 +1,14 @@
+{
+    "title": "Voiced affricates",
+    "definition": "A type of consonant sound that begins with a stop and releases into a fricative",
+    "known_since": "1900",
+    "child_concepts": [
+        "Voiced alveolar affricate",
+        "Voiced palato-alveolar affricate"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 6
+}

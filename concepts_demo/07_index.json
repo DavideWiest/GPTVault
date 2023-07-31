@@ -1,0 +1,14 @@
+{
+    "title": "Index",
+    "definition": "A reference point or indicator used to organize and locate information.",
+    "known_since": "300",
+    "child_concepts": [
+        "Table of Contents",
+        "Glossary"
+    ],
+    "concept_fields": [
+        "Library Science",
+        "Information Retrieval"
+    ],
+    "depth": 7
+}

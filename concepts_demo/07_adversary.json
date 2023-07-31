@@ -1,0 +1,14 @@
+{
+    "title": "Adversary",
+    "definition": "An opponent or enemy",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Rival",
+        "Foe"
+    ],
+    "concept_fields": [
+        "Conflict",
+        "Competition"
+    ],
+    "depth": 7
+}

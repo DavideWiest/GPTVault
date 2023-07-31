@@ -1,0 +1,14 @@
+{
+    "title": "Weighted Graphs",
+    "definition": "Weighted graphs are graphs in which each edge is assigned a numerical value called a weight.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Minimum Spanning Tree",
+        "Shortest Path"
+    ],
+    "concept_fields": [
+        "Graph Theory",
+        "Algorithms"
+    ],
+    "depth": 7
+}

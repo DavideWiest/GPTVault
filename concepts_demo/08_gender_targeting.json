@@ -1,0 +1,16 @@
+{
+    "title": "Gender targeting",
+    "definition": "Gender targeting refers to the practice of tailoring marketing messages and advertisements to specific genders in order to effectively reach and engage with the intended audience.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Gender segmentation",
+        "Gender-based marketing",
+        "Gender-specific advertising"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Advertising",
+        "Demographics"
+    ],
+    "depth": 8
+}

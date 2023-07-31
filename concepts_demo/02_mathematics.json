@@ -1,0 +1,16 @@
+{
+    "title": "Mathematics",
+    "definition": "The study of numbers, quantities, and shapes, as well as their relationships and operations.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Algebra",
+        "Geometry",
+        "Calculus"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Computer Science",
+        "Economics"
+    ],
+    "depth": 2
+}

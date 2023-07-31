@@ -1,0 +1,14 @@
+{
+    "title": "Median",
+    "definition": "The median is the middle value of a set of numbers arranged in ascending or descending order.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Mean",
+        "Mode"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Mathematics"
+    ],
+    "depth": 6
+}

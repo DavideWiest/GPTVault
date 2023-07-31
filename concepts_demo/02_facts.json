@@ -1,0 +1,15 @@
+{
+    "title": "Facts",
+    "definition": "Facts are objective and verifiable pieces of information.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Data",
+        "Evidence"
+    ],
+    "concept_fields": [
+        "Science",
+        "History",
+        "Law"
+    ],
+    "depth": 2
+}

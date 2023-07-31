@@ -1,0 +1,12 @@
+{
+    "title": "Odd Integer",
+    "definition": "An odd integer is an integer that is not divisible evenly by 2.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Even Integer"
+    ],
+    "concept_fields": [
+        "Mathematics"
+    ],
+    "depth": 7
+}

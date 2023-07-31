@@ -1,0 +1,14 @@
+{
+    "title": "Zinc Finger Nucleases",
+    "definition": "Zinc Finger Nucleases (ZFNs) are engineered proteins that can target and modify specific DNA sequences.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Gene Editing",
+        "Genome Engineering"
+    ],
+    "concept_fields": [
+        "Molecular Biology",
+        "Genetics"
+    ],
+    "depth": 7
+}

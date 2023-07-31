@@ -1,0 +1,16 @@
+{
+    "title": "Family",
+    "definition": "A group of people who are related to each other by blood, marriage, or adoption and who live together or are closely connected.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Parents",
+        "Siblings",
+        "Children"
+    ],
+    "concept_fields": [
+        "Genealogy",
+        "Marriage",
+        "Parenting"
+    ],
+    "depth": 8
+}

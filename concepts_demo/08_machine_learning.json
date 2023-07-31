@@ -1,0 +1,16 @@
+{
+    "title": "Machine Learning",
+    "definition": "Machine learning is a field of study that focuses on the development of algorithms and statistical models that enable computers to learn and make predictions or decisions without being explicitly programmed.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Statistics"
+    ],
+    "depth": 8
+}

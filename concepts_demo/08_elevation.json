@@ -1,0 +1,16 @@
+{
+    "title": "Elevation",
+    "definition": "Elevation refers to the height of a location above or below a reference point, usually sea level.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Mountain",
+        "Hill",
+        "Valley"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Topography",
+        "Cartography"
+    ],
+    "depth": 8
+}

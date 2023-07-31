@@ -1,0 +1,18 @@
+{
+    "title": "Animal",
+    "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Mammal",
+        "Bird",
+        "Reptile",
+        "Amphibian",
+        "Fish",
+        "Invertebrate"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Zoology"
+    ],
+    "depth": 8
+}

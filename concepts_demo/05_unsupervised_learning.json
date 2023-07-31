@@ -1,0 +1,14 @@
+{
+    "title": "Unsupervised Learning",
+    "definition": "A type of machine learning where the algorithm learns patterns and relationships in data without any labeled examples.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Clustering",
+        "Dimensionality Reduction"
+    ],
+    "concept_fields": [
+        "Data Mining",
+        "Pattern Recognition"
+    ],
+    "depth": 5
+}

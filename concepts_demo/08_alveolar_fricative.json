@@ -1,0 +1,14 @@
+{
+    "title": "Alveolar fricative",
+    "definition": "A type of consonant sound made by narrowing the vocal tract at the alveolar ridge, resulting in turbulent airflow.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Voiced alveolar fricative",
+        "Voiceless alveolar fricative"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

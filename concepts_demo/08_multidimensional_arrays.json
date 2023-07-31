@@ -1,0 +1,15 @@
+{
+    "title": "Multidimensional Arrays",
+    "definition": "Multidimensional arrays are arrays that contain other arrays as their elements. They are used to represent data in multiple dimensions, such as tables or matrices.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Two-dimensional Arrays",
+        "Three-dimensional Arrays"
+    ],
+    "concept_fields": [
+        "Indexing",
+        "Traversal",
+        "Memory Allocation"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Linked Lists",
+    "definition": "A linked list is a linear data structure consisting of a sequence of nodes, where each node contains a data element and a reference (link) to the next node in the sequence.",
+    "known_since": "1955",
+    "child_concepts": [
+        "Singly Linked List",
+        "Doubly Linked List",
+        "Circular Linked List"
+    ],
+    "concept_fields": [
+        "Data Structures",
+        "Computer Science"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Voiceless plosives",
+    "definition": "Voiceless plosives are consonant sounds produced by completely blocking the airflow and then releasing it abruptly, without any vibration of the vocal cords.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Aspiration",
+        "Unreleased plosives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Closed Interval",
+    "definition": "In mathematics, a closed interval is a set of real numbers that includes both its endpoints. It is denoted by enclosing the endpoints in square brackets, such as [a, b].",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Open Interval",
+        "Half-Open Interval"
+    ],
+    "concept_fields": [
+        "Real Analysis",
+        "Topology"
+    ],
+    "depth": 8
+}

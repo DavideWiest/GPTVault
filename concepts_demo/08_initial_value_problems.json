@@ -1,0 +1,14 @@
+{
+    "title": "Initial Value Problems",
+    "definition": "In mathematics, an initial value problem (IVP) is a differential equation together with a specified value, called the initial condition, of the unknown function at a given point in the domain of the solution.",
+    "known_since": "17",
+    "child_concepts": [
+        "Boundary Value Problems",
+        "Ordinary Differential Equations"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

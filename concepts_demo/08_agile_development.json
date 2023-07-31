@@ -1,0 +1,18 @@
+{
+    "title": "Agile Development",
+    "definition": "Agile development is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and customer satisfaction. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.",
+    "known_since": "2001",
+    "child_concepts": [
+        "Scrum",
+        "Kanban",
+        "Lean",
+        "Extreme Programming"
+    ],
+    "concept_fields": [
+        "User Stories",
+        "Sprints",
+        "Daily Stand-ups",
+        "Retrospectives"
+    ],
+    "depth": 8
+}

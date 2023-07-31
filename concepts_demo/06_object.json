@@ -1,0 +1,15 @@
+{
+    "title": "Object",
+    "definition": "A tangible or intangible entity that has properties and can be identified as distinct from other entities.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Living Object",
+        "Inanimate Object"
+    ],
+    "concept_fields": [
+        "Size",
+        "Color",
+        "Shape"
+    ],
+    "depth": 6
+}

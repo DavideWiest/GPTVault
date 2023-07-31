@@ -1,0 +1,15 @@
+{
+    "title": "Market Value",
+    "definition": "Market value refers to the current price at which an asset or security can be bought or sold on the open market.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Supply and Demand",
+        "Fair Market Value"
+    ],
+    "concept_fields": [
+        "Price",
+        "Demand",
+        "Supply"
+    ],
+    "depth": 8
+}

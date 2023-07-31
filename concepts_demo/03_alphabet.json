@@ -1,0 +1,14 @@
+{
+    "title": "Alphabet",
+    "definition": "A set of letters or characters used to write a language.",
+    "known_since": "2000 BC",
+    "child_concepts": [
+        "Vowels",
+        "Consonants"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 3
+}

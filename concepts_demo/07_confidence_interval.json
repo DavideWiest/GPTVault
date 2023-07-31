@@ -1,0 +1,14 @@
+{
+    "title": "Confidence Interval",
+    "definition": "A confidence interval is a range of values that is likely to contain the true value of an unknown population parameter.",
+    "known_since": "1937",
+    "child_concepts": [
+        "Margin of Error",
+        "Standard Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability Theory"
+    ],
+    "depth": 7
+}

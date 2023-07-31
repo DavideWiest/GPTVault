@@ -1,0 +1,15 @@
+{
+    "title": "Data Visualization",
+    "definition": "The representation of data in a visual format, such as charts, graphs, and maps, to facilitate understanding and analysis.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Infographics",
+        "Interactive Visualization"
+    ],
+    "concept_fields": [
+        "Data Science",
+        "Information Design",
+        "User Experience"
+    ],
+    "depth": 3
+}

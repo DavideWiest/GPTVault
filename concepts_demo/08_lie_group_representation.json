@@ -1,0 +1,15 @@
+{
+    "title": "Lie group representation",
+    "definition": "In mathematics, a Lie group representation is a way of associating a matrix or a linear transformation to each element of a Lie group, in a way that respects the group structure.",
+    "known_since": "1872",
+    "child_concepts": [
+        "Matrix representation",
+        "Unitary representation",
+        "Adjoint representation"
+    ],
+    "concept_fields": [
+        "Group theory",
+        "Linear algebra"
+    ],
+    "depth": 8
+}

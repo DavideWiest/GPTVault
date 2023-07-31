@@ -1,0 +1,14 @@
+{
+    "title": "Death penalty",
+    "definition": "The death penalty, also known as capital punishment, is a government-sanctioned practice where a person is put to death by the state as a punishment for a crime.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Capital punishment",
+        "Execution methods"
+    ],
+    "concept_fields": [
+        "Legal system",
+        "Criminal justice"
+    ],
+    "depth": 8
+}

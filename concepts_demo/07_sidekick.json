@@ -1,0 +1,15 @@
+{
+    "title": "Sidekick",
+    "definition": "A person who provides assistance or support to someone else, typically in a subordinate role.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Assistant",
+        "Partner"
+    ],
+    "concept_fields": [
+        "Comics",
+        "Movies",
+        "Literature"
+    ],
+    "depth": 7
+}

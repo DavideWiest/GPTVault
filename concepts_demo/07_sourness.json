@@ -1,0 +1,14 @@
+{
+    "title": "Sourness",
+    "definition": "The taste sensation that is associated with acidity or the presence of acids in a substance.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Acidity",
+        "Tartness"
+    ],
+    "concept_fields": [
+        "Food",
+        "Chemistry"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Gradient Fields",
+    "definition": "Gradient fields refer to vector fields in mathematics that represent the rate of change of a scalar function. They are used to study the behavior of functions and their derivatives.",
+    "known_since": "17",
+    "child_concepts": [
+        "Gradient",
+        "Vector Fields"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Calculus"
+    ],
+    "depth": 8
+}

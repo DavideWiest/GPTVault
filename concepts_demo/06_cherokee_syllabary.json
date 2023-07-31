@@ -1,0 +1,14 @@
+{
+    "title": "Cherokee syllabary",
+    "definition": "A writing system used to represent the Cherokee language",
+    "known_since": "1821",
+    "child_concepts": [
+        "Cherokee language",
+        "Cherokee culture"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing systems"
+    ],
+    "depth": 6
+}

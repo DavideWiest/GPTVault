@@ -1,0 +1,14 @@
+{
+    "title": "Inattentional blindness",
+    "definition": "Inattentional blindness refers to the phenomenon where individuals fail to perceive an unexpected stimulus in their visual field, even when they are looking directly at it.",
+    "known_since": "1992",
+    "child_concepts": [
+        "Change blindness",
+        "Selective attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 8
+}

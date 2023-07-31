@@ -1,0 +1,14 @@
+{
+    "title": "Complex Surfaces",
+    "definition": "Complex surfaces refer to mathematical objects that can be described using equations in three-dimensional space.",
+    "known_since": "1873",
+    "child_concepts": [
+        "Riemann surfaces",
+        "Algebraic surfaces"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 7
+}

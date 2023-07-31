@@ -1,0 +1,15 @@
+{
+    "title": "Statistical Power",
+    "definition": "Statistical power is the probability of correctly rejecting a null hypothesis when it is false.",
+    "known_since": "1908",
+    "child_concepts": [
+        "Type I Error",
+        "Type II Error",
+        "Effect Size"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Hypothesis Testing"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Covariance",
+    "definition": "Covariance is a measure of how much two random variables vary together.",
+    "known_since": "1905",
+    "child_concepts": [
+        "Correlation",
+        "Variance"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability"
+    ],
+    "depth": 7
+}

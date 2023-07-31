@@ -1,0 +1,15 @@
+{
+    "title": "User profiling",
+    "definition": "User profiling is the process of gathering and analyzing data about individuals to understand their characteristics, preferences, and behavior patterns.",
+    "known_since": "1990",
+    "child_concepts": [
+        "User segmentation",
+        "User behavior analysis"
+    ],
+    "concept_fields": [
+        "Demographics",
+        "Psychographics",
+        "Behavioral data"
+    ],
+    "depth": 8
+}

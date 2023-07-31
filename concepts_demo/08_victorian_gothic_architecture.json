@@ -1,0 +1,16 @@
+{
+    "title": "Victorian Gothic Architecture",
+    "definition": "Victorian Gothic architecture is a style of architecture that emerged in the mid-19th century in England. It is characterized by its use of Gothic Revival elements combined with the ornate and decorative features of the Victorian era.",
+    "known_since": "1840",
+    "child_concepts": [
+        "Neo-Gothic Architecture",
+        "High Victorian Gothic",
+        "Carpenter Gothic"
+    ],
+    "concept_fields": [
+        "Architectural Styles",
+        "Victorian Era",
+        "Gothic Revival"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Literal comprehension",
+    "definition": "The ability to understand and interpret written or spoken language exactly as it is written or spoken.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Inference",
+        "Contextual comprehension"
+    ],
+    "concept_fields": [
+        "Language",
+        "Reading",
+        "Listening"
+    ],
+    "depth": 5
+}

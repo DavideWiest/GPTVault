@@ -1,0 +1,16 @@
+{
+    "title": "Number",
+    "definition": "A mathematical object used to count, measure, and label",
+    "known_since": "3000",
+    "child_concepts": [
+        "Integer",
+        "Rational Number",
+        "Real Number"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Statistics",
+        "Computer Science"
+    ],
+    "depth": 6
+}

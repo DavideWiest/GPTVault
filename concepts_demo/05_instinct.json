@@ -1,0 +1,14 @@
+{
+    "title": "Instinct",
+    "definition": "Innate, automatic, and involuntary behavior or response to stimuli.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Animal instincts",
+        "Human instincts"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Psychology"
+    ],
+    "depth": 5
+}

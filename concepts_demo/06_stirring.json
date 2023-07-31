@@ -1,0 +1,14 @@
+{
+    "title": "Stirring",
+    "definition": "The act of mixing or agitating a substance using a utensil or tool.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Mixing",
+        "Agitation"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Cooking"
+    ],
+    "depth": 6
+}

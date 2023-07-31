@@ -1,0 +1,15 @@
+{
+    "title": "Real Number",
+    "definition": "A real number is a value that represents a quantity along a continuous number line.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Integer",
+        "Rational Number",
+        "Irrational Number"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 7
+}

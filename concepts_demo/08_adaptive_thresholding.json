@@ -1,0 +1,14 @@
+{
+    "title": "Adaptive Thresholding",
+    "definition": "Adaptive thresholding is a technique used in image processing to separate the foreground from the background by dynamically adjusting the threshold value based on the local characteristics of the image.",
+    "known_since": "1984",
+    "child_concepts": [
+        "Global Thresholding",
+        "Otsu's Thresholding"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "depth": 8
+}

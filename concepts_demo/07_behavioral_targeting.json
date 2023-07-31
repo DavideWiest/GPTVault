@@ -1,0 +1,14 @@
+{
+    "title": "Behavioral targeting",
+    "definition": "A technique used in online advertising to deliver targeted advertisements to individuals based on their browsing behavior and interests.",
+    "known_since": "1998",
+    "child_concepts": [
+        "User profiling",
+        "Interest-based advertising"
+    ],
+    "concept_fields": [
+        "Advertising",
+        "Data analytics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Parallel lines",
+    "definition": "Parallel lines are lines in a plane that never intersect. They have the same slope and will never converge or diverge.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Transversal lines",
+        "Corresponding angles",
+        "Alternate interior angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 8
+}

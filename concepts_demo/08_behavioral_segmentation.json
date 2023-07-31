@@ -1,0 +1,16 @@
+{
+    "title": "Behavioral segmentation",
+    "definition": "Behavioral segmentation is a marketing strategy that divides a target market into groups based on their behavior, such as purchasing patterns, product usage, or brand loyalty. It helps businesses understand and target specific consumer behaviors to tailor their marketing efforts and improve customer engagement.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Purchase behavior",
+        "Usage behavior",
+        "Brand loyalty"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Consumer behavior",
+        "Target market"
+    ],
+    "depth": 8
+}

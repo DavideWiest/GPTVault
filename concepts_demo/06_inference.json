@@ -1,0 +1,15 @@
+{
+    "title": "Inference",
+    "definition": "The process of deriving logical conclusions from premises or evidence.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Deductive Inference",
+        "Inductive Inference"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy",
+        "Artificial Intelligence"
+    ],
+    "depth": 6
+}

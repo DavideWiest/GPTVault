@@ -1,0 +1,18 @@
+{
+    "title": "Primitive Data Types",
+    "definition": "Primitive data types are the basic building blocks of data in programming languages. They are predefined data types that represent simple values and are not composed of other data types.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Integer",
+        "Float",
+        "Boolean",
+        "Character",
+        "String"
+    ],
+    "concept_fields": [
+        "Variables",
+        "Data Structures",
+        "Type Systems"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,16 @@
+{
+    "title": "VPN protocols",
+    "definition": "VPN protocols are a set of rules and procedures that govern the secure transmission of data between a user's device and a remote network through a virtual private network (VPN). These protocols ensure the confidentiality, integrity, and authenticity of the data being transmitted.",
+    "known_since": "1996",
+    "child_concepts": [
+        "PPTP",
+        "L2TP/IPSec",
+        "OpenVPN"
+    ],
+    "concept_fields": [
+        "Encryption",
+        "Authentication",
+        "Tunneling"
+    ],
+    "depth": 8
+}

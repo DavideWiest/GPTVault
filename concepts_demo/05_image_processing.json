@@ -1,0 +1,15 @@
+{
+    "title": "Image Processing",
+    "definition": "The manipulation and analysis of digital images using various algorithms and techniques.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Image Filtering",
+        "Image Segmentation",
+        "Image Compression"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Digital Signal Processing"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Connected Components",
+    "definition": "In graph theory, connected components are subgraphs in which every two vertices are connected to each other by a path.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Graph",
+        "Subgraph"
+    ],
+    "concept_fields": [
+        "Graph Theory"
+    ],
+    "depth": 8
+}

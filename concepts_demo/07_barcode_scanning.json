@@ -1,0 +1,16 @@
+{
+    "title": "Barcode scanning",
+    "definition": "A method of automatic identification and data capture that uses optical scanning to read and decode barcodes.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Barcode symbology",
+        "Barcode reader",
+        "Barcode printer"
+    ],
+    "concept_fields": [
+        "Retail",
+        "Inventory management",
+        "Supply chain"
+    ],
+    "depth": 7
+}

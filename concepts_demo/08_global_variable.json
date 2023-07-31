@@ -1,0 +1,15 @@
+{
+    "title": "Global Variable",
+    "definition": "A global variable is a variable that is accessible throughout the entire program, regardless of its scope. It can be accessed and modified by any part of the program.",
+    "known_since": "1955",
+    "child_concepts": [
+        "Local Variable",
+        "Static Variable"
+    ],
+    "concept_fields": [
+        "Scope",
+        "Lifetime",
+        "Visibility"
+    ],
+    "depth": 8
+}

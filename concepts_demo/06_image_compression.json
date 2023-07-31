@@ -1,0 +1,15 @@
+{
+    "title": "Image Compression",
+    "definition": "Image compression is the process of reducing the size of an image file without significantly degrading its quality.",
+    "known_since": "1972",
+    "child_concepts": [
+        "Lossless Compression",
+        "Lossy Compression"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Compression",
+        "Image Processing"
+    ],
+    "depth": 6
+}

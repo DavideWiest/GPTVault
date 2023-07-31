@@ -1,0 +1,16 @@
+{
+    "title": "Winger",
+    "definition": "In sports, a winger is a player who operates in the wide areas of the field, typically in soccer or ice hockey. Wingers are known for their speed, agility, and ability to deliver crosses or passes into the attacking area.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Left winger",
+        "Right winger"
+    ],
+    "concept_fields": [
+        "Speed",
+        "Agility",
+        "Crossing",
+        "Passing"
+    ],
+    "depth": 8
+}

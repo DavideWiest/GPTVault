@@ -1,0 +1,14 @@
+{
+    "title": "Fraction",
+    "definition": "A fraction represents a part of a whole or a ratio between two quantities.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Numerator",
+        "Denominator"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Arithmetic"
+    ],
+    "depth": 8
+}

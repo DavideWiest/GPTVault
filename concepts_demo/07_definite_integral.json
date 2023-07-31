@@ -1,0 +1,14 @@
+{
+    "title": "Definite Integral",
+    "definition": "The definite integral is a mathematical concept that represents the area under a curve between two points on the x-axis.",
+    "known_since": "1675",
+    "child_concepts": [
+        "Riemann Integral",
+        "Lebesgue Integral"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 7
+}

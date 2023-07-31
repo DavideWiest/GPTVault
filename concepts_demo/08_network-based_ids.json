@@ -1,0 +1,14 @@
+{
+    "title": "Network-based IDS",
+    "definition": "Network-based Intrusion Detection System (IDS) is a security technology that monitors network traffic for suspicious activity or signs of unauthorized access.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Host-based IDS",
+        "Signature-based IDS"
+    ],
+    "concept_fields": [
+        "Network Security",
+        "Intrusion Detection"
+    ],
+    "depth": 8
+}

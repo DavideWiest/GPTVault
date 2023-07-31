@@ -1,0 +1,16 @@
+{
+    "title": "First-order ODEs",
+    "definition": "First-order ordinary differential equations (ODEs) are differential equations that involve only one independent variable and its first derivative.",
+    "known_since": "1676",
+    "child_concepts": [
+        "Separable ODEs",
+        "Linear ODEs",
+        "Exact ODEs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 7
+}

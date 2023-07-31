@@ -1,0 +1,15 @@
+{
+    "title": "Intelligence",
+    "definition": "The ability to acquire and apply knowledge and skills.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Artificial Intelligence",
+        "Emotional Intelligence"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science",
+        "Computer Science"
+    ],
+    "depth": 2
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Visual attention",
+    "definition": "Visual attention is the ability to selectively focus on specific visual stimuli while ignoring others.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Selective attention",
+        "Sustained attention"
+    ],
+    "concept_fields": [
+        "Cognitive psychology",
+        "Neuroscience"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Scalar curvature",
+    "definition": "Scalar curvature is a concept in differential geometry that measures the amount by which the volume of a small geodesic ball in a curved Riemannian manifold deviates from that of the same ball in Euclidean space.",
+    "known_since": "1915",
+    "child_concepts": [
+        "Ricci curvature",
+        "Curvature tensor"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Riemannian manifold"
+    ],
+    "depth": 8
+}

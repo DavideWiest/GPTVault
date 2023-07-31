@@ -1,0 +1,14 @@
+{
+    "title": "Quadrants",
+    "definition": "Quadrants are the four regions into which a coordinate plane is divided by the x-axis and y-axis.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Coordinates",
+        "Cartesian Plane"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 7
+}

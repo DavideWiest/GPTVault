@@ -1,0 +1,14 @@
+{
+    "title": "Circle of Curvature",
+    "definition": "The circle that best approximates the curvature of a curve at a given point.",
+    "known_since": "1679",
+    "child_concepts": [
+        "Radius of Curvature",
+        "Center of Curvature"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Calculus"
+    ],
+    "depth": 7
+}

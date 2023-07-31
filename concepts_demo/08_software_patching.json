@@ -1,0 +1,14 @@
+{
+    "title": "Software Patching",
+    "definition": "Software patching is the process of updating or fixing software vulnerabilities, bugs, or errors by applying patches or updates provided by the software vendor.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Security Patching",
+        "Bug Fixing"
+    ],
+    "concept_fields": [
+        "Software Development",
+        "Cybersecurity"
+    ],
+    "depth": 8
+}

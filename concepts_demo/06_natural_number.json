@@ -1,0 +1,14 @@
+{
+    "title": "Natural Number",
+    "definition": "A positive integer greater than zero.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Whole Number",
+        "Prime Number"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 6
+}

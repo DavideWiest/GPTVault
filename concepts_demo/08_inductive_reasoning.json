@@ -1,0 +1,15 @@
+{
+    "title": "Inductive Reasoning",
+    "definition": "Inductive reasoning is a logical process in which multiple observations or examples are used to make generalizations or predictions about a larger set or future events.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Inductive Generalization",
+        "Inductive Bias"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Reasoning",
+        "Philosophy"
+    ],
+    "depth": 8
+}

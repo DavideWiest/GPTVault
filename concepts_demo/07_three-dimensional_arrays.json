@@ -1,0 +1,15 @@
+{
+    "title": "Three-dimensional Arrays",
+    "definition": "Three-dimensional arrays are data structures that store values in a three-dimensional grid-like format.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Two-dimensional Arrays",
+        "Arrays",
+        "Data Structures"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Storage"
+    ],
+    "depth": 7
+}

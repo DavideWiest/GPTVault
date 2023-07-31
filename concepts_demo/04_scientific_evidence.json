@@ -1,0 +1,15 @@
+{
+    "title": "Scientific evidence",
+    "definition": "Empirical data and observations that support or refute a scientific hypothesis or theory.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Experimental data",
+        "Observational data"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Color Correction",
+    "definition": "The process of adjusting the colors of an image or video to achieve a desired look or to correct any color imbalances.",
+    "known_since": "1930",
+    "child_concepts": [
+        "White Balance",
+        "Color Grading"
+    ],
+    "concept_fields": [
+        "Photography",
+        "Videography",
+        "Image Editing"
+    ],
+    "depth": 7
+}

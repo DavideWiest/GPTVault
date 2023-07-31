@@ -1,0 +1,14 @@
+{
+    "title": "Foil",
+    "definition": "A thin sheet of metal, usually aluminum, used to wrap and protect food.",
+    "known_since": "1912",
+    "child_concepts": [
+        "Aluminum foil",
+        "Tin foil"
+    ],
+    "concept_fields": [
+        "Cooking",
+        "Packaging"
+    ],
+    "depth": 7
+}

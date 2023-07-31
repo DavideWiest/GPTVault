@@ -1,0 +1,16 @@
+{
+    "title": "Volume",
+    "definition": "Volume is the quantity of three-dimensional space occupied by a liquid, solid, or gas.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Cubic meter",
+        "Liter",
+        "Gallon"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Mathematics",
+        "Engineering"
+    ],
+    "depth": 8
+}

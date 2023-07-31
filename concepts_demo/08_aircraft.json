@@ -1,0 +1,16 @@
+{
+    "title": "Aircraft",
+    "definition": "A vehicle that is capable of flying by gaining support from the air.",
+    "known_since": "1903",
+    "child_concepts": [
+        "Airplane",
+        "Helicopter",
+        "Glider"
+    ],
+    "concept_fields": [
+        "Aerodynamics",
+        "Avionics",
+        "Propulsion"
+    ],
+    "depth": 8
+}

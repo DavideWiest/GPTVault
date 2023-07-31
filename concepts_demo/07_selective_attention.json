@@ -1,0 +1,14 @@
+{
+    "title": "Selective attention",
+    "definition": "The ability to focus on specific stimuli while ignoring others.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Divided attention",
+        "Sustained attention"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 7
+}

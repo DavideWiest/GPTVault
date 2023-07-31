@@ -1,0 +1,15 @@
+{
+    "title": "Weighted Decision Matrix",
+    "definition": "A decision-making tool that helps evaluate options based on multiple criteria and their relative importance.",
+    "known_since": "1968",
+    "child_concepts": [
+        "Decision Matrix",
+        "Weighted Criteria Matrix"
+    ],
+    "concept_fields": [
+        "Criteria",
+        "Weight",
+        "Score"
+    ],
+    "depth": 7
+}

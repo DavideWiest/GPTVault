@@ -1,0 +1,14 @@
+{
+    "title": "Gothic",
+    "definition": "A style of architecture that flourished in Europe during the High and Late Middle Ages.",
+    "known_since": "12th century",
+    "child_concepts": [
+        "Gothic Revival",
+        "Gothic literature"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Art"
+    ],
+    "depth": 4
+}

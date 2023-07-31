@@ -1,0 +1,14 @@
+{
+    "title": "Salty foods",
+    "definition": "Salty foods are foods that have a high concentration of sodium chloride (salt). They are characterized by a strong, savory taste and are often used to enhance the flavor of dishes.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Salted snacks",
+        "Salt-cured meats"
+    ],
+    "concept_fields": [
+        "Nutrition",
+        "Culinary"
+    ],
+    "depth": 8
+}

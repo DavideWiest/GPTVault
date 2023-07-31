@@ -1,0 +1,14 @@
+{
+    "title": "Minimum Spanning Tree",
+    "definition": "A minimum spanning tree is a subset of the edges of a connected, edge-weighted graph that connects all the vertices together without any cycles and with the minimum possible total edge weight.",
+    "known_since": "1930",
+    "child_concepts": [
+        "Kruskal's algorithm",
+        "Prim's algorithm"
+    ],
+    "concept_fields": [
+        "Graph Theory",
+        "Algorithms"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Promotion",
+    "definition": "The act of advancing an employee to a higher position or rank within an organization.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Job Promotion",
+        "Sales Promotion"
+    ],
+    "concept_fields": [
+        "Human Resources",
+        "Marketing"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Cartesian Plane",
+    "definition": "A two-dimensional coordinate system that specifies each point uniquely in a plane by a set of numerical coordinates.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Coordinates",
+        "Quadrants"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 6
+}

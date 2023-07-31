@@ -1,0 +1,14 @@
+{
+    "title": "Nuclear Fusion",
+    "definition": "The process in which two atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy.",
+    "known_since": "1939",
+    "child_concepts": [
+        "Thermonuclear fusion",
+        "Magnetic confinement fusion"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Energy"
+    ],
+    "depth": 6
+}

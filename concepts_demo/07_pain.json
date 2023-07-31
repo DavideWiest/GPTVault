@@ -1,0 +1,17 @@
+{
+    "title": "Pain",
+    "definition": "An unpleasant sensory and emotional experience associated with actual or potential tissue damage.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Acute pain",
+        "Chronic pain",
+        "Nociceptive pain",
+        "Neuropathic pain"
+    ],
+    "concept_fields": [
+        "Medicine",
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 7
+}

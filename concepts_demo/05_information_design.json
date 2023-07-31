@@ -1,0 +1,14 @@
+{
+    "title": "Information design",
+    "definition": "The practice of presenting information in a way that is clear, organized, and visually appealing.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Data visualization",
+        "User experience design"
+    ],
+    "concept_fields": [
+        "Graphic design",
+        "User interface design"
+    ],
+    "depth": 5
+}

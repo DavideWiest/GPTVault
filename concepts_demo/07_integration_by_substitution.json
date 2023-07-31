@@ -1,0 +1,14 @@
+{
+    "title": "Integration by Substitution",
+    "definition": "A method used in calculus to simplify the process of finding antiderivatives or indefinite integrals.",
+    "known_since": "1675",
+    "child_concepts": [
+        "U-substitution",
+        "V-substitution"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 7
+}

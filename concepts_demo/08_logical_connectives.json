@@ -1,0 +1,15 @@
+{
+    "title": "Logical Connectives",
+    "definition": "Logical connectives are symbols or words used to combine or modify logical statements. They allow us to form more complex statements by connecting simpler statements.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Conjunction",
+        "Disjunction",
+        "Negation"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Mathematics"
+    ],
+    "depth": 8
+}

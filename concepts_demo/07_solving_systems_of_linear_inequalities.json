@@ -1,0 +1,15 @@
+{
+    "title": "Solving Systems of Linear Inequalities",
+    "definition": "A method used to find the solution set of a system of linear inequalities.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Graphical Method",
+        "Substitution Method",
+        "Elimination Method"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Barcode printer",
+    "definition": "A barcode printer is a device used to print barcodes, which are machine-readable representations of data that can be easily scanned by barcode readers. These printers use various technologies, such as thermal transfer or direct thermal printing, to create high-quality and durable barcodes on labels, tags, or other media.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Barcode scanner",
+        "Barcode symbology"
+    ],
+    "concept_fields": [
+        "Barcode printing technology",
+        "Label design software"
+    ],
+    "depth": 8
+}

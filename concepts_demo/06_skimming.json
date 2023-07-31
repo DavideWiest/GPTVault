@@ -1,0 +1,14 @@
+{
+    "title": "Skimming",
+    "definition": "The act of quickly glancing over a text or document to get a general idea of its content.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Scanning",
+        "Speed Reading"
+    ],
+    "concept_fields": [
+        "Reading",
+        "Comprehension"
+    ],
+    "depth": 6
+}

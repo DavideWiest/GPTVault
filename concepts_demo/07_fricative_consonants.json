@@ -1,0 +1,14 @@
+{
+    "title": "Fricative consonants",
+    "definition": "Fricative consonants are speech sounds produced by forcing air through a narrow channel in the vocal tract, creating turbulence.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Sibilants",
+        "Non-sibilants"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

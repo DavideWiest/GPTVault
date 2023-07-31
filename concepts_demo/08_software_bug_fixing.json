@@ -1,0 +1,15 @@
+{
+    "title": "Software Bug Fixing",
+    "definition": "Software bug fixing refers to the process of identifying and resolving issues or errors in software programs.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Debugging",
+        "Patch",
+        "Hotfix"
+    ],
+    "concept_fields": [
+        "Software Development",
+        "Quality Assurance"
+    ],
+    "depth": 8
+}

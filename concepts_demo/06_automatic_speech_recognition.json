@@ -1,0 +1,14 @@
+{
+    "title": "Automatic Speech Recognition",
+    "definition": "Automatic Speech Recognition (ASR) is the technology that converts spoken language into written text.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Speech-to-Text",
+        "Natural Language Processing"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Signal Processing"
+    ],
+    "depth": 6
+}

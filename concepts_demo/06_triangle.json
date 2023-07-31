@@ -1,0 +1,15 @@
+{
+    "title": "Triangle",
+    "definition": "A polygon with three sides and three angles.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Equilateral Triangle",
+        "Isosceles Triangle",
+        "Scalene Triangle"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Structural Engineering",
+    "definition": "The branch of engineering that deals with the design and analysis of structures that support or resist loads.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Statics",
+        "Dynamics",
+        "Structural Analysis"
+    ],
+    "concept_fields": [
+        "Civil Engineering",
+        "Mechanical Engineering",
+        "Construction"
+    ],
+    "depth": 7
+}

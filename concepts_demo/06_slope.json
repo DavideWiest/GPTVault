@@ -1,0 +1,16 @@
+{
+    "title": "Slope",
+    "definition": "The measure of how steep a line is.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Rise",
+        "Run",
+        "Gradient"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 6
+}

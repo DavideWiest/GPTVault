@@ -1,0 +1,15 @@
+{
+    "title": "Barcode symbology",
+    "definition": "Barcode symbology is the set of rules that define the structure and encoding of data in a barcode. It specifies the patterns, spacing, and other characteristics that determine how the barcode is read and interpreted by barcode scanners.",
+    "known_since": "1974",
+    "child_concepts": [
+        "1D barcodes",
+        "2D barcodes"
+    ],
+    "concept_fields": [
+        "Barcode scanner",
+        "Barcode reader",
+        "Barcode printing"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Venture Capital",
+    "definition": "Venture capital is a form of financing provided to early-stage, high-potential companies that have the potential for rapid growth.",
+    "known_since": "1946",
+    "child_concepts": [
+        "Startup Funding",
+        "Angel Investors"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 6
+}

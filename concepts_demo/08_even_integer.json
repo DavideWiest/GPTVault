@@ -1,0 +1,13 @@
+{
+    "title": "Even Integer",
+    "definition": "An even integer is an integer that is divisible by 2 without leaving a remainder.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Odd Integer"
+    ],
+    "concept_fields": [
+        "Number Theory",
+        "Arithmetic"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Letters",
+    "definition": "Symbols used to represent sounds in written language",
+    "known_since": "3200 BC",
+    "child_concepts": [
+        "Alphabet",
+        "Vowels",
+        "Consonants"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Edge",
+    "definition": "The boundary or limit of something.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Boundary",
+        "Limit"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Graph Theory"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Classification",
+    "definition": "The process of organizing or categorizing objects or ideas based on their characteristics or properties.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Taxonomy",
+        "Hierarchy",
+        "Clustering"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Library Science",
+        "Data Science"
+    ],
+    "depth": 6
+}

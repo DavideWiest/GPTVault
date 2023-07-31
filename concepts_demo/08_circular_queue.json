@@ -1,0 +1,16 @@
+{
+    "title": "Circular Queue",
+    "definition": "A circular queue is a data structure that represents a collection of elements in a circular manner. It follows the FIFO (First In First Out) principle, where the element that is inserted first is the first one to be removed.",
+    "known_since": "1963",
+    "child_concepts": [
+        "Circular Buffer",
+        "Circular Linked List"
+    ],
+    "concept_fields": [
+        "Front",
+        "Rear",
+        "Enqueue",
+        "Dequeue"
+    ],
+    "depth": 8
+}

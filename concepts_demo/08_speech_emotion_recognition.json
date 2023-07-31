@@ -1,0 +1,14 @@
+{
+    "title": "Speech Emotion Recognition",
+    "definition": "Speech Emotion Recognition is the process of identifying and analyzing the emotional content of speech signals.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Acoustic Feature Extraction",
+        "Emotion Classification"
+    ],
+    "concept_fields": [
+        "Signal Processing",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

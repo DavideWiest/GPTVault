@@ -1,0 +1,17 @@
+{
+    "title": "Information Technology",
+    "definition": "The study, design, development, implementation, support, and management of computer-based information systems.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Computer Science",
+        "Software Engineering",
+        "Network Security"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Software Engineering",
+        "Database Management",
+        "Network Administration"
+    ],
+    "depth": 5
+}

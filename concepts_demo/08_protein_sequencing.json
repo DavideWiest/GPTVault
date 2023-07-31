@@ -1,0 +1,16 @@
+{
+    "title": "Protein sequencing",
+    "definition": "Protein sequencing is the process of determining the order of amino acids in a protein molecule.",
+    "known_since": "1953",
+    "child_concepts": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Molecular biology",
+        "Genetics"
+    ],
+    "depth": 8
+}

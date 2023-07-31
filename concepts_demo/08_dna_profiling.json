@@ -1,0 +1,14 @@
+{
+    "title": "DNA profiling",
+    "definition": "DNA profiling is a forensic technique used to identify individuals by analyzing their unique DNA sequences.",
+    "known_since": "1984",
+    "child_concepts": [
+        "DNA fingerprinting",
+        "Genetic profiling"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Genetics"
+    ],
+    "depth": 8
+}

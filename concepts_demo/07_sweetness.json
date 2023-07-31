@@ -1,0 +1,15 @@
+{
+    "title": "Sweetness",
+    "definition": "The quality of having a pleasant taste resembling that of sugar or honey.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Sugar",
+        "Honey",
+        "Flavor"
+    ],
+    "concept_fields": [
+        "Food",
+        "Beverage"
+    ],
+    "depth": 7
+}

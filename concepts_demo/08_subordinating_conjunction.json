@@ -1,0 +1,15 @@
+{
+    "title": "Subordinating Conjunction",
+    "definition": "A subordinating conjunction is a type of conjunction that connects a dependent clause to an independent clause, making the dependent clause subordinate to the main clause.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Because",
+        "Although",
+        "While"
+    ],
+    "concept_fields": [
+        "Grammar",
+        "Syntax"
+    ],
+    "depth": 8
+}

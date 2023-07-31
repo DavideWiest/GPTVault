@@ -1,0 +1,14 @@
+{
+    "title": "Present Value",
+    "definition": "Present value is the current worth of a future sum of money or stream of cash flows given a specified rate of return.",
+    "known_since": "1600",
+    "child_concepts": [
+        "Future Value",
+        "Discount Rate"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Economics"
+    ],
+    "depth": 7
+}

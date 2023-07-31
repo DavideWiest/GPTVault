@@ -1,0 +1,14 @@
+{
+    "title": "Topic",
+    "definition": "The definition of the concept",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Child Concept 1",
+        "Child Concept 2"
+    ],
+    "concept_fields": [
+        "Field 1",
+        "Field 2"
+    ],
+    "depth": 8
+}

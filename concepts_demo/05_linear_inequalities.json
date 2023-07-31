@@ -1,0 +1,14 @@
+{
+    "title": "Linear Inequalities",
+    "definition": "Linear inequalities are mathematical statements that compare two expressions using inequality symbols such as <, >, \u2264, or \u2265.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Solving Linear Inequalities",
+        "Graphing Linear Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 5
+}

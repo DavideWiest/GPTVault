@@ -1,0 +1,14 @@
+{
+    "title": "Panoptic Segmentation",
+    "definition": "Panoptic Segmentation is a computer vision task that aims to simultaneously segment all objects in an image into semantic categories and assign instance-level labels to each segment.",
+    "known_since": "2018",
+    "child_concepts": [
+        "Semantic Segmentation",
+        "Instance Segmentation"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Segmentation"
+    ],
+    "depth": 8
+}

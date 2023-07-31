@@ -1,0 +1,14 @@
+{
+    "title": "Quantum Algorithms",
+    "definition": "Quantum algorithms are algorithms designed to run on quantum computers, taking advantage of the principles of quantum mechanics to solve certain problems more efficiently than classical algorithms.",
+    "known_since": "1982",
+    "child_concepts": [
+        "Quantum Fourier Transform",
+        "Grover's Algorithm"
+    ],
+    "concept_fields": [
+        "Quantum Computing",
+        "Theoretical Computer Science"
+    ],
+    "depth": 8
+}

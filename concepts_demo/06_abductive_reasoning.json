@@ -1,0 +1,14 @@
+{
+    "title": "Abductive Reasoning",
+    "definition": "A form of logical inference that seeks to find the most likely explanation for a given set of observations or evidence.",
+    "known_since": "1837",
+    "child_concepts": [
+        "Inductive Reasoning",
+        "Deductive Reasoning"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Logic"
+    ],
+    "depth": 6
+}

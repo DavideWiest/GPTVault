@@ -1,0 +1,15 @@
+{
+    "title": "Predicate Logic",
+    "definition": "Predicate logic is a formal system for reasoning about statements involving quantifiers, variables, and predicates. It extends propositional logic by allowing the use of variables and quantifiers to express more complex statements.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "First-order Logic",
+        "Higher-order Logic"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Logic",
+        "Computer Science"
+    ],
+    "depth": 8
+}

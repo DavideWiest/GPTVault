@@ -1,0 +1,14 @@
+{
+    "title": "Positive Integer",
+    "definition": "A positive integer is a whole number greater than zero.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Even Integer",
+        "Odd Integer"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 6
+}

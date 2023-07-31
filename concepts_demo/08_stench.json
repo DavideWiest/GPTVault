@@ -1,0 +1,14 @@
+{
+    "title": "Stench",
+    "definition": "An unpleasant or offensive smell.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Odor",
+        "Foul smell"
+    ],
+    "concept_fields": [
+        "Smell",
+        "Perception"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Supervised Learning",
+    "definition": "Supervised learning is a machine learning technique where an algorithm learns from labeled data to make predictions or decisions.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Classification",
+        "Regression"
+    ],
+    "concept_fields": [
+        "Data Science",
+        "Machine Learning"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Clustering",
+    "definition": "Clustering is a technique used in data analysis and machine learning to group similar data points together based on their characteristics or attributes.",
+    "known_since": "1950",
+    "child_concepts": [
+        "K-means clustering",
+        "Hierarchical clustering",
+        "DBSCAN"
+    ],
+    "concept_fields": [
+        "Data mining",
+        "Pattern recognition",
+        "Machine learning"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Scent",
+    "definition": "Scent refers to the perception of odors or smells by the olfactory system.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Fragrance",
+        "Aroma"
+    ],
+    "concept_fields": [
+        "Perception",
+        "Olfactory system"
+    ],
+    "depth": 8
+}

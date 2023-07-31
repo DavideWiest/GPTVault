@@ -1,0 +1,16 @@
+{
+    "title": "Demographic targeting",
+    "definition": "The practice of selecting and reaching a specific audience based on their demographic characteristics.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Age targeting",
+        "Gender targeting",
+        "Location targeting"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Advertising",
+        "Market research"
+    ],
+    "depth": 7
+}

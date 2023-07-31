@@ -1,0 +1,15 @@
+{
+    "title": "Protagonist",
+    "definition": "The main character or leading figure in a story or narrative.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Antagonist",
+        "Sidekick"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Theater"
+    ],
+    "depth": 6
+}

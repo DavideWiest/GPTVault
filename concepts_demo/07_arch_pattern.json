@@ -1,0 +1,14 @@
+{
+    "title": "Arch pattern",
+    "definition": "The Arch pattern is a design pattern that promotes loose coupling between components by introducing an intermediary component, known as an arch, to facilitate communication.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Facade pattern",
+        "Mediator pattern"
+    ],
+    "concept_fields": [
+        "Software engineering",
+        "Design patterns"
+    ],
+    "depth": 7
+}

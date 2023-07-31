@@ -1,0 +1,16 @@
+{
+    "title": "Protein complexes",
+    "definition": "Protein complexes are macromolecular structures formed by the association of multiple protein subunits.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Protein-protein interactions",
+        "Protein complexes assembly",
+        "Protein complex dynamics"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Structural biology",
+        "Cell biology"
+    ],
+    "depth": 8
+}

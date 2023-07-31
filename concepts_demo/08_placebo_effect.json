@@ -1,0 +1,14 @@
+{
+    "title": "Placebo effect",
+    "definition": "The placebo effect is a phenomenon in which a person experiences a perceived improvement in their condition or symptoms after receiving a treatment that has no therapeutic effect on the underlying condition.",
+    "known_since": "18",
+    "child_concepts": [
+        "Nocebo effect",
+        "Expectancy effect"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Medicine"
+    ],
+    "depth": 8
+}

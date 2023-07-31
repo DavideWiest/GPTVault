@@ -1,0 +1,14 @@
+{
+    "title": "Umami",
+    "definition": "Umami is one of the five basic tastes, along with sweet, sour, salty, and bitter. It is often described as a savory or meaty taste.",
+    "known_since": "1908",
+    "child_concepts": [
+        "Glutamate",
+        "Taste receptors"
+    ],
+    "concept_fields": [
+        "Culinary",
+        "Biology"
+    ],
+    "depth": 7
+}

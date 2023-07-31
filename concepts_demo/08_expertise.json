@@ -1,0 +1,16 @@
+{
+    "title": "Expertise",
+    "definition": "Expertise refers to the in-depth knowledge, skills, and experience that a person has in a particular field or subject.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Specialization",
+        "Mastery",
+        "Skillset"
+    ],
+    "concept_fields": [
+        "Education",
+        "Experience",
+        "Training"
+    ],
+    "depth": 8
+}

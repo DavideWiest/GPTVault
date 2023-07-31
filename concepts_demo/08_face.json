@@ -1,0 +1,15 @@
+{
+    "title": "Face",
+    "definition": "The front part of the head, from the forehead to the chin, or the corresponding part in animals.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Eyes",
+        "Nose",
+        "Mouth"
+    ],
+    "concept_fields": [
+        "Anatomy",
+        "Physiology"
+    ],
+    "depth": 8
+}

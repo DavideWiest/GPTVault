@@ -1,0 +1,14 @@
+{
+    "title": "Inattentional blindness",
+    "definition": "The failure to notice unexpected objects or events when attention is focused elsewhere.",
+    "known_since": "1992",
+    "child_concepts": [
+        "Change blindness",
+        "Attentional capture"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 7
+}

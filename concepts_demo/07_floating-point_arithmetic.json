@@ -1,0 +1,14 @@
+{
+    "title": "Floating-point arithmetic",
+    "definition": "Floating-point arithmetic is a method of performing mathematical calculations with real numbers that have a fractional component.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Floating-point representation",
+        "Floating-point operations"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics"
+    ],
+    "depth": 7
+}

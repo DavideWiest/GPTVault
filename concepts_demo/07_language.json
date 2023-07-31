@@ -1,0 +1,16 @@
+{
+    "title": "Language",
+    "definition": "A system of communication used by humans, typically consisting of spoken or written words, gestures, and symbols.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Phonetics",
+        "Grammar",
+        "Vocabulary"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Anthropology",
+        "Psychology"
+    ],
+    "depth": 7
+}

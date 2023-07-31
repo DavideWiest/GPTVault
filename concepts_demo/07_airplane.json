@@ -1,0 +1,16 @@
+{
+    "title": "Airplane",
+    "definition": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+    "known_since": "1903",
+    "child_concepts": [
+        "Aircraft",
+        "Jet",
+        "Propeller"
+    ],
+    "concept_fields": [
+        "Aerodynamics",
+        "Avionics",
+        "Aircraft Maintenance"
+    ],
+    "depth": 7
+}

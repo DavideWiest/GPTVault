@@ -1,0 +1,14 @@
+{
+    "title": "Complex Manifolds",
+    "definition": "Complex manifolds are smooth manifolds equipped with a complex structure, allowing for the study of complex analysis on these spaces.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Complex Surfaces",
+        "Complex Tori"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Complex Analysis"
+    ],
+    "depth": 6
+}

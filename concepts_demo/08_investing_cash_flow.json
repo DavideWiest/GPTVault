@@ -1,0 +1,14 @@
+{
+    "title": "Investing Cash Flow",
+    "definition": "The cash flow resulting from investments made by a company, including the purchase or sale of long-term assets.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Capital Expenditures",
+        "Acquisition of Investments",
+        "Disposal of Investments"
+    ],
+    "concept_fields": [
+        "Net Cash from Investing Activities"
+    ],
+    "depth": 8
+}

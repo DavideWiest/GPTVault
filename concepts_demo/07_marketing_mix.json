@@ -1,0 +1,18 @@
+{
+    "title": "Marketing Mix",
+    "definition": "A set of marketing tools that a company uses to pursue its marketing objectives in the target market.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Product",
+        "Price",
+        "Place",
+        "Promotion"
+    ],
+    "concept_fields": [
+        "Product Development",
+        "Pricing Strategy",
+        "Distribution Channels",
+        "Advertising"
+    ],
+    "depth": 7
+}

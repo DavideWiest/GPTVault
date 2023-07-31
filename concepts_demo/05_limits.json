@@ -1,0 +1,14 @@
+{
+    "title": "Limits",
+    "definition": "Limits are a fundamental concept in calculus that describe the behavior of a function as it approaches a certain value or point.",
+    "known_since": "17",
+    "child_concepts": [
+        "Continuity",
+        "Derivatives"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Calculus"
+    ],
+    "depth": 5
+}

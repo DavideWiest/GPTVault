@@ -1,0 +1,15 @@
+{
+    "title": "Three-Dimensional Coordinate System",
+    "definition": "A coordinate system that uses three perpendicular axes to represent positions in three-dimensional space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Cartesian Coordinate System",
+        "Polar Coordinate System"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Physics"
+    ],
+    "depth": 8
+}

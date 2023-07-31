@@ -1,0 +1,15 @@
+{
+    "title": "Ray",
+    "definition": "A narrow beam of light or other radiant energy.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Reflection",
+        "Refraction",
+        "Optics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Optics"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Time Value of Money",
+    "definition": "The concept that money available today is worth more than the same amount of money in the future due to its potential earning capacity.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Present Value",
+        "Future Value",
+        "Discounting",
+        "Compounding"
+    ],
+    "concept_fields": [
+        "Interest Rate",
+        "Cash Flow",
+        "Time Period"
+    ],
+    "depth": 8
+}

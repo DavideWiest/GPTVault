@@ -1,0 +1,15 @@
+{
+    "title": "Nanoparticles",
+    "definition": "Tiny particles with dimensions in the nanometer range.",
+    "known_since": "1981",
+    "child_concepts": [
+        "Nanotechnology",
+        "Nanomaterials"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Chemistry",
+        "Materials Science"
+    ],
+    "depth": 7
+}

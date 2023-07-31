@@ -1,0 +1,15 @@
+{
+    "title": "Divisive clustering",
+    "definition": "Divisive clustering is a hierarchical clustering algorithm that starts with all data points in a single cluster and recursively splits the clusters into smaller subclusters until each data point is in its own cluster. It is a top-down approach to clustering.",
+    "known_since": "1967",
+    "child_concepts": [
+        "Agglomerative clustering",
+        "K-means clustering"
+    ],
+    "concept_fields": [
+        "Data mining",
+        "Machine learning",
+        "Pattern recognition"
+    ],
+    "depth": 8
+}

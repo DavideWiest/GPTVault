@@ -1,0 +1,14 @@
+{
+    "title": "Embryo Cloning",
+    "definition": "Embryo cloning is a scientific technique that involves creating a genetically identical copy of an embryo.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Somatic Cell Nuclear Transfer",
+        "Reproductive Cloning"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Biotechnology"
+    ],
+    "depth": 8
+}

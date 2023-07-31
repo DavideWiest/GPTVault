@@ -1,0 +1,16 @@
+{
+    "title": "Record",
+    "definition": "A collection of related data items",
+    "known_since": "1800",
+    "child_concepts": [
+        "Field",
+        "Table",
+        "Database"
+    ],
+    "concept_fields": [
+        "Name",
+        "Age",
+        "Address"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Building Materials",
+    "definition": "Building materials are substances used for construction purposes, such as bricks, concrete, wood, and steel.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Bricks",
+        "Concrete",
+        "Wood",
+        "Steel"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Civil Engineering",
+        "Construction"
+    ],
+    "depth": 8
+}

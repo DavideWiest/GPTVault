@@ -1,0 +1,13 @@
+{
+    "title": "Null Hypothesis",
+    "definition": "A null hypothesis is a statement that assumes there is no statistical relationship between variables.",
+    "known_since": "1935",
+    "child_concepts": [
+        "Alternative Hypothesis"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research Methodology"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Voiced bilabial plosives",
+    "definition": "Voiced bilabial plosives are a type of consonant sound made by blocking the airflow at the lips and then releasing it with a burst of sound. The vocal cords vibrate during the production of this sound.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Bilabial sounds",
+        "Plosive sounds"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

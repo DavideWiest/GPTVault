@@ -1,0 +1,16 @@
+{
+    "title": "Natural Language Processing",
+    "definition": "Natural Language Processing (NLP) is a subfield of artificial intelligence and computational linguistics that focuses on the interaction between computers and human language. It involves the development of algorithms and models to enable computers to understand, interpret, and generate human language.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Speech Recognition",
+        "Text Classification",
+        "Sentiment Analysis"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Linguistics",
+        "Information Retrieval"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Calligraphy",
+    "definition": "The art of beautiful handwriting or penmanship.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Cursive",
+        "Italic",
+        "Gothic"
+    ],
+    "concept_fields": [
+        "Art",
+        "Writing"
+    ],
+    "depth": 3
+}

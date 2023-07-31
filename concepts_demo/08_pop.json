@@ -1,0 +1,15 @@
+{
+    "title": "Pop",
+    "definition": "Pop is a genre of popular music that originated in its modern form during the mid-1950s in the United States and the United Kingdom.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Pop rock",
+        "Pop punk",
+        "Synth-pop"
+    ],
+    "concept_fields": [
+        "Music",
+        "Culture"
+    ],
+    "depth": 8
+}

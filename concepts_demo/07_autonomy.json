@@ -1,0 +1,16 @@
+{
+    "title": "Autonomy",
+    "definition": "The ability or condition of being self-governing or self-directed.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Individual autonomy",
+        "Political autonomy",
+        "Technological autonomy"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Politics",
+        "Technology"
+    ],
+    "depth": 7
+}

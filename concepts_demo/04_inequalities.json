@@ -1,0 +1,15 @@
+{
+    "title": "Inequalities",
+    "definition": "Inequalities are mathematical expressions that compare two quantities and indicate their relative sizes.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Linear Inequalities",
+        "Quadratic Inequalities",
+        "Rational Inequalities"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Algebra"
+    ],
+    "depth": 4
+}

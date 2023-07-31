@@ -1,0 +1,14 @@
+{
+    "title": "Interest-based advertising",
+    "definition": "Interest-based advertising is a form of online advertising that uses information about a user's interests and preferences to deliver targeted advertisements.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Behavioral targeting",
+        "Personalized advertising"
+    ],
+    "concept_fields": [
+        "Online advertising",
+        "Targeted advertising"
+    ],
+    "depth": 8
+}

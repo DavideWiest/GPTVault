@@ -1,0 +1,14 @@
+{
+    "title": "Scientific Notation",
+    "definition": "Scientific notation is a way of expressing numbers that are very large or very small. It is commonly used in scientific and mathematical calculations.",
+    "known_since": "1600",
+    "child_concepts": [
+        "Significant Figures",
+        "Exponents"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 8
+}

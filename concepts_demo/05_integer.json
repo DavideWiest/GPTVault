@@ -1,0 +1,15 @@
+{
+    "title": "Integer",
+    "definition": "An integer is a whole number that can be either positive, negative, or zero.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Natural Number",
+        "Negative Integer",
+        "Positive Integer"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Computer Science"
+    ],
+    "depth": 5
+}

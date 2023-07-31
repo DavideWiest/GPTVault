@@ -1,0 +1,15 @@
+{
+    "title": "Demographic segmentation",
+    "definition": "Dividing a market into distinct groups based on demographic variables such as age, gender, income, and education.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Age segmentation",
+        "Gender segmentation",
+        "Income segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Market research"
+    ],
+    "depth": 7
+}

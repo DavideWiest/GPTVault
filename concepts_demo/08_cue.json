@@ -1,0 +1,14 @@
+{
+    "title": "Cue",
+    "definition": "A signal or prompt that elicits a specific response or action.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Cueing",
+        "Cue-dependent forgetting"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Memory"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Marathon",
+    "definition": "A marathon is a long-distance running race with an official distance of 42.195 kilometers (26.219 miles). It is usually run as a road race.",
+    "known_since": "1896",
+    "child_concepts": [
+        "Half Marathon",
+        "Ultra Marathon"
+    ],
+    "concept_fields": [
+        "Running",
+        "Athletics",
+        "Endurance"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Integration Techniques",
+    "definition": "Integration techniques refer to the methods used to find the integral of a function.",
+    "known_since": "17",
+    "child_concepts": [
+        "Definite Integration",
+        "Indefinite Integration",
+        "Integration by Substitution"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 8
+}

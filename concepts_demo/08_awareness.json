@@ -1,0 +1,14 @@
+{
+    "title": "Awareness",
+    "definition": "Awareness is the state or ability to perceive, to feel, or to be conscious of events, objects, or sensory patterns.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Consciousness",
+        "Perception"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 8
+}

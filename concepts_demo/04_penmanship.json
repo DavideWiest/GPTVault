@@ -1,0 +1,14 @@
+{
+    "title": "Penmanship",
+    "definition": "The art or skill of writing by hand with a pen or pencil.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Calligraphy",
+        "Cursive Writing"
+    ],
+    "concept_fields": [
+        "Education",
+        "Art"
+    ],
+    "depth": 4
+}

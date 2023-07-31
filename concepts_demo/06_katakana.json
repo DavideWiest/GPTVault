@@ -1,0 +1,14 @@
+{
+    "title": "Katakana",
+    "definition": "Katakana is a Japanese syllabary, one of the three writing systems used in the Japanese language.",
+    "known_since": "800",
+    "child_concepts": [
+        "Hiragana",
+        "Kanji"
+    ],
+    "concept_fields": [
+        "Japanese language",
+        "Writing system"
+    ],
+    "depth": 6
+}

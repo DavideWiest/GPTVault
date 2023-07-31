@@ -1,0 +1,16 @@
+{
+    "title": "Table",
+    "definition": "A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working.",
+    "known_since": "3000",
+    "child_concepts": [
+        "Coffee table",
+        "Dining table",
+        "End table"
+    ],
+    "concept_fields": [
+        "Material",
+        "Shape",
+        "Size"
+    ],
+    "depth": 8
+}

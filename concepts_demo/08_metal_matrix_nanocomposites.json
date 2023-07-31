@@ -1,0 +1,16 @@
+{
+    "title": "Metal matrix nanocomposites",
+    "definition": "Metal matrix nanocomposites are materials that consist of a metal matrix with nanoscale reinforcements dispersed throughout. These reinforcements can be nanoparticles, nanofibers, or other nanostructures, and they enhance the mechanical, thermal, and electrical properties of the metal matrix.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Nanoparticles",
+        "Nanofibers",
+        "Nanostructures"
+    ],
+    "concept_fields": [
+        "Materials Science",
+        "Nanotechnology",
+        "Mechanical Engineering"
+    ],
+    "depth": 8
+}

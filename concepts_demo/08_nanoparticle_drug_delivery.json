@@ -1,0 +1,16 @@
+{
+    "title": "Nanoparticle drug delivery",
+    "definition": "Nanoparticle drug delivery refers to the use of nanoparticles as carriers to deliver therapeutic drugs to specific target sites in the body.",
+    "known_since": "1976",
+    "child_concepts": [
+        "Nanoparticle synthesis",
+        "Drug encapsulation",
+        "Targeted drug delivery"
+    ],
+    "concept_fields": [
+        "Pharmacology",
+        "Nanotechnology",
+        "Drug delivery systems"
+    ],
+    "depth": 8
+}

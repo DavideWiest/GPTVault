@@ -1,0 +1,14 @@
+{
+    "title": "Deductive Reasoning",
+    "definition": "A logical process of reasoning that starts with general principles or premises and applies them to specific situations to reach a specific conclusion.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Syllogism",
+        "Conditional Reasoning"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy"
+    ],
+    "depth": 7
+}

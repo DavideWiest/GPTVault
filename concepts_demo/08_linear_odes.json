@@ -1,0 +1,14 @@
+{
+    "title": "Linear ODEs",
+    "definition": "Linear ordinary differential equations (ODEs) are differential equations that are linear in the unknown function and its derivatives. They can be written in the form of a linear combination of the unknown function and its derivatives, with coefficients that are functions of the independent variable.",
+    "known_since": "1676",
+    "child_concepts": [
+        "Homogeneous Linear ODEs",
+        "Non-homogeneous Linear ODEs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Hiragana",
+    "definition": "Hiragana is a phonetic script used in the Japanese writing system. It represents the basic sounds of the Japanese language.",
+    "known_since": "700",
+    "child_concepts": [
+        "Katakana",
+        "Kanji"
+    ],
+    "concept_fields": [
+        "Japanese language",
+        "Writing system"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Traffic fines",
+    "definition": "Penalties imposed on individuals for violating traffic laws.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Speeding fines",
+        "Parking fines"
+    ],
+    "concept_fields": [
+        "Fine amount",
+        "Violation type"
+    ],
+    "depth": 8
+}

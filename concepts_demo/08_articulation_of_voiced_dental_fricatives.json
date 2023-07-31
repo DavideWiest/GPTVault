@@ -1,0 +1,14 @@
+{
+    "title": "Articulation of voiced dental fricatives",
+    "definition": "The articulation of voiced dental fricatives involves the vibration of the vocal cords and the narrowing of the space between the tongue and the upper teeth to produce a continuous airflow and a fricative sound.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Voiced dental fricatives",
+        "Articulation of fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Area charts",
+    "definition": "Area charts are a type of data visualization that display quantitative data over time or categories using filled areas.",
+    "known_since": "1765",
+    "child_concepts": [
+        "Line charts",
+        "Stacked area charts"
+    ],
+    "concept_fields": [
+        "Data visualization",
+        "Quantitative data",
+        "Time series",
+        "Categories"
+    ],
+    "depth": 8
+}

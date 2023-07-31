@@ -1,0 +1,16 @@
+{
+    "title": "Cherokee Nation",
+    "definition": "The Cherokee Nation is a sovereign tribal government in the United States, representing the Cherokee people.",
+    "known_since": "1839",
+    "child_concepts": [
+        "Cherokee language",
+        "Cherokee culture",
+        "Cherokee history"
+    ],
+    "concept_fields": [
+        "Tribal government",
+        "Indigenous peoples",
+        "Native American tribes"
+    ],
+    "depth": 8
+}

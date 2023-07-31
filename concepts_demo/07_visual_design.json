@@ -1,0 +1,16 @@
+{
+    "title": "Visual design",
+    "definition": "Visual design is the process of creating and arranging visual elements to communicate a message or evoke a desired response.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Color theory",
+        "Typography",
+        "Layout"
+    ],
+    "concept_fields": [
+        "Graphic design",
+        "User interface design",
+        "Web design"
+    ],
+    "depth": 7
+}

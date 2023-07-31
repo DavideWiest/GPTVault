@@ -1,0 +1,14 @@
+{
+    "title": "Difference of Squares",
+    "definition": "The difference of squares is a mathematical concept that refers to the algebraic expression (a^2 - b^2), which can be factored into the product of two binomials: (a + b)(a - b).",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Perfect Square",
+        "Quadratic Equation"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 7
+}

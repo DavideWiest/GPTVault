@@ -1,0 +1,14 @@
+{
+    "title": "Experimental group",
+    "definition": "A group in an experiment that receives the treatment or intervention being studied.",
+    "known_since": "1923",
+    "child_concepts": [
+        "Control group",
+        "Randomization"
+    ],
+    "concept_fields": [
+        "Experimental design",
+        "Research methodology"
+    ],
+    "depth": 7
+}

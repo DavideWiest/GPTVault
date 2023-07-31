@@ -1,0 +1,15 @@
+{
+    "title": "Negation",
+    "definition": "Negation is the process of expressing the opposite or absence of something.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Double Negation",
+        "Logical Negation"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Mathematics",
+        "Philosophy"
+    ],
+    "depth": 7
+}

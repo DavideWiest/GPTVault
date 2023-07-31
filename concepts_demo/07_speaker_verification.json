@@ -1,0 +1,14 @@
+{
+    "title": "Speaker verification",
+    "definition": "Speaker verification is the process of confirming or verifying the claimed identity of a speaker using their voice characteristics.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Speaker identification",
+        "Speaker recognition"
+    ],
+    "concept_fields": [
+        "Speech processing",
+        "Biometrics"
+    ],
+    "depth": 7
+}

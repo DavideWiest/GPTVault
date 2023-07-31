@@ -1,0 +1,16 @@
+{
+    "title": "Conditional Reasoning",
+    "definition": "The process of drawing conclusions based on given conditions or premises.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Logical Reasoning",
+        "Deductive Reasoning",
+        "Inductive Reasoning"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy",
+        "Mathematics"
+    ],
+    "depth": 6
+}

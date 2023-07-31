@@ -1,0 +1,14 @@
+{
+    "title": "Hypothesis",
+    "definition": "A proposed explanation or prediction that can be tested through experimentation or observation.",
+    "known_since": "400 BC",
+    "child_concepts": [
+        "Null hypothesis",
+        "Alternative hypothesis"
+    ],
+    "concept_fields": [
+        "Scientific research",
+        "Statistics"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Whorl pattern",
+    "definition": "A pattern characterized by concentric circles or spirals.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Spiral pattern",
+        "Concentric circles"
+    ],
+    "concept_fields": [
+        "Art",
+        "Mathematics"
+    ],
+    "depth": 7
+}

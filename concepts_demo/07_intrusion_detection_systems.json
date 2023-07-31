@@ -1,0 +1,14 @@
+{
+    "title": "Intrusion Detection Systems",
+    "definition": "Intrusion Detection Systems (IDS) are security tools designed to detect and prevent unauthorized access or malicious activities within a computer network.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Network-based IDS",
+        "Host-based IDS"
+    ],
+    "concept_fields": [
+        "Computer Security",
+        "Network Security"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Female Gothic",
+    "definition": "A subgenre of Gothic literature that focuses on the experiences and fears of female protagonists.",
+    "known_since": "1794",
+    "child_concepts": [
+        "Female Gothic Novels",
+        "Female Gothic Themes"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Feminism"
+    ],
+    "depth": 6
+}

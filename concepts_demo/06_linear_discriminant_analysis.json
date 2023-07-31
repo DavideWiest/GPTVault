@@ -1,0 +1,15 @@
+{
+    "title": "Linear Discriminant Analysis",
+    "definition": "Linear Discriminant Analysis (LDA) is a dimensionality reduction technique used in machine learning and statistics to find a linear combination of features that characterizes or separates two or more classes of objects or events.",
+    "known_since": "1936",
+    "child_concepts": [
+        "Fisher's Linear Discriminant",
+        "Quadratic Discriminant Analysis"
+    ],
+    "concept_fields": [
+        "Pattern recognition",
+        "Machine learning",
+        "Statistics"
+    ],
+    "depth": 6
+}

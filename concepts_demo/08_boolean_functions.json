@@ -1,0 +1,15 @@
+{
+    "title": "Boolean functions",
+    "definition": "Boolean functions are mathematical functions that operate on one or more Boolean inputs and produce a Boolean output. They are used in logic gates, digital circuits, and computer programming to manipulate and analyze binary data.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Logic gates",
+        "Truth tables"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Metal nanotubes",
+    "definition": "Metal nanotubes are cylindrical nanostructures made of metal atoms or metal compounds. They exhibit unique properties due to their small size and high aspect ratio, making them promising for various applications in nanotechnology and materials science.",
+    "known_since": "1991",
+    "child_concepts": [
+        "Carbon nanotubes",
+        "Metal nanoparticles"
+    ],
+    "concept_fields": [
+        "Materials science",
+        "Nanotechnology"
+    ],
+    "depth": 8
+}

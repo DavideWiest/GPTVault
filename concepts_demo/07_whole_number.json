@@ -1,0 +1,13 @@
+{
+    "title": "Whole Number",
+    "definition": "A whole number is a number without any fractional or decimal parts.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Natural Number",
+        "Integer"
+    ],
+    "concept_fields": [
+        "Mathematics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Physical maps",
+    "definition": "Physical maps are maps that show the natural features of the Earth's surface, such as mountains, rivers, and deserts.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Topography",
+        "Geography"
+    ],
+    "concept_fields": [
+        "Cartography",
+        "Geology"
+    ],
+    "depth": 7
+}

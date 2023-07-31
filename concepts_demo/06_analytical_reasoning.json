@@ -1,0 +1,14 @@
+{
+    "title": "Analytical reasoning",
+    "definition": "The ability to analyze and evaluate information, identify patterns, and draw logical conclusions.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Logical reasoning",
+        "Critical thinking"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Problem-solving"
+    ],
+    "depth": 6
+}

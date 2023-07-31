@@ -1,0 +1,14 @@
+{
+    "title": "NOT gate",
+    "definition": "A NOT gate, also known as an inverter, is a logic gate that outputs the opposite of its input. It takes a single input signal and produces an inverted version of that signal as its output.",
+    "known_since": "1938",
+    "child_concepts": [
+        "AND gate",
+        "OR gate"
+    ],
+    "concept_fields": [
+        "Logic gates",
+        "Digital electronics"
+    ],
+    "depth": 8
+}

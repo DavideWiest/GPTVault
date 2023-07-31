@@ -1,0 +1,14 @@
+{
+    "title": "Weighted Directed Graphs",
+    "definition": "Weighted directed graphs are a type of graph where each edge has a weight or cost associated with it. The edges in a weighted directed graph have a direction, meaning they can only be traversed in one direction.",
+    "known_since": "1962",
+    "child_concepts": [
+        "Shortest Path Algorithms",
+        "Minimum Spanning Trees"
+    ],
+    "concept_fields": [
+        "Graph Theory",
+        "Algorithms"
+    ],
+    "depth": 8
+}

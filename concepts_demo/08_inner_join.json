@@ -1,0 +1,15 @@
+{
+    "title": "Inner Join",
+    "definition": "Inner join is a type of join operation in relational databases that returns only the matching rows between two tables based on a specified condition.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Equi Join",
+        "Natural Join"
+    ],
+    "concept_fields": [
+        "Table",
+        "Column",
+        "Condition"
+    ],
+    "depth": 8
+}

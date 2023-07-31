@@ -1,0 +1,14 @@
+{
+    "title": "Quadratic formula",
+    "definition": "A formula used to solve quadratic equations.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Discriminant",
+        "Vertex form"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 7
+}

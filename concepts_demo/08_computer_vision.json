@@ -1,0 +1,16 @@
+{
+    "title": "Computer Vision",
+    "definition": "Computer Vision is a field of study that focuses on enabling computers to see, interpret, and understand visual information from digital images or videos.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Image Processing",
+        "Object Recognition",
+        "Motion Detection"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Image Processing"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Propositional Logic",
+    "definition": "Propositional logic is a branch of logic that deals with propositions, which are statements that can be either true or false. It studies the relationships between propositions using logical operators such as AND, OR, and NOT.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Truth Tables",
+        "Logical Connectives"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Philosophy"
+    ],
+    "depth": 8
+}

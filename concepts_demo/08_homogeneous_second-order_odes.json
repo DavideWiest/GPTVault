@@ -1,0 +1,14 @@
+{
+    "title": "Homogeneous Second-order ODEs",
+    "definition": "Homogeneous second-order ordinary differential equations (ODEs) are a type of differential equation where the sum of the terms involving the dependent variable and its derivatives is equal to zero. In other words, the equation is homogeneous if it can be written in the form a(x)y'' + b(x)y' + c(x)y = 0, where a(x), b(x), and c(x) are functions of x.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Particular Solution",
+        "General Solution"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

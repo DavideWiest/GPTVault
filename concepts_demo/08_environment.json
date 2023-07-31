@@ -1,0 +1,16 @@
+{
+    "title": "Environment",
+    "definition": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Ecosystem",
+        "Pollution",
+        "Climate Change"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Ecology",
+        "Geography"
+    ],
+    "depth": 8
+}

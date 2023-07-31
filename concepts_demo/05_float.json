@@ -1,0 +1,14 @@
+{
+    "title": "Float",
+    "definition": "A floating-point number is a numerical representation that can represent a wide range of values, including both whole numbers and fractions.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Double precision",
+        "Single precision"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Priority Queue",
+    "definition": "A priority queue is an abstract data type that is similar to a queue, but each element has a priority assigned to it. Elements with higher priority are dequeued before elements with lower priority.",
+    "known_since": "1964",
+    "child_concepts": [
+        "Heap",
+        "Binary Heap",
+        "D-ary Heap"
+    ],
+    "concept_fields": [
+        "Data Structures",
+        "Algorithm"
+    ],
+    "depth": 8
+}

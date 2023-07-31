@@ -1,0 +1,15 @@
+{
+    "title": "K-means clustering",
+    "definition": "K-means clustering is a method of vector quantization that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean.",
+    "known_since": "1957",
+    "child_concepts": [
+        "Centroid-based clustering",
+        "Unsupervised learning"
+    ],
+    "concept_fields": [
+        "Machine learning",
+        "Data mining",
+        "Pattern recognition"
+    ],
+    "depth": 7
+}

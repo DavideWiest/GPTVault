@@ -1,0 +1,14 @@
+{
+    "title": "Optics",
+    "definition": "The branch of physics that deals with the behavior and properties of light, including its interactions with matter and the construction of instruments that use or detect it.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Geometrical Optics",
+        "Physical Optics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 7
+}

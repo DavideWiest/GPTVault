@@ -1,0 +1,15 @@
+{
+    "title": "Punishments",
+    "definition": "Penalties imposed on individuals who have committed a crime or violated rules.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Capital punishment",
+        "Imprisonment",
+        "Fines"
+    ],
+    "concept_fields": [
+        "Law",
+        "Criminal justice"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Axis of Symmetry",
+    "definition": "The axis of symmetry is a vertical line that divides a parabola into two mirror-image halves.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Vertex of a Parabola",
+        "Focus of a Parabola"
+    ],
+    "concept_fields": [
+        "Quadratic Equations",
+        "Graphing Parabolas"
+    ],
+    "depth": 8
+}

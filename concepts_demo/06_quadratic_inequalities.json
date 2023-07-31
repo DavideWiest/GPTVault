@@ -1,0 +1,14 @@
+{
+    "title": "Quadratic Inequalities",
+    "definition": "Inequalities that involve quadratic expressions.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Quadratic Equations",
+        "Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 6
+}

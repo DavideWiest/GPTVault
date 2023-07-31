@@ -1,0 +1,18 @@
+{
+    "title": "Product",
+    "definition": "A tangible or intangible item that is produced and offered for sale or use.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Raw materials",
+        "Manufacturing",
+        "Distribution",
+        "Marketing"
+    ],
+    "concept_fields": [
+        "Price",
+        "Quality",
+        "Packaging",
+        "Brand"
+    ],
+    "depth": 8
+}

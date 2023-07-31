@@ -1,0 +1,14 @@
+{
+    "title": "Arch pattern",
+    "definition": "The arch pattern is a structural design pattern that allows for the separation of concerns by dividing an application into different layers or components.",
+    "known_since": "1978",
+    "child_concepts": [
+        "MVC pattern",
+        "MVVM pattern"
+    ],
+    "concept_fields": [
+        "Software engineering",
+        "Design patterns"
+    ],
+    "depth": 8
+}

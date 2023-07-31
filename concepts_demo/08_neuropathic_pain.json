@@ -1,0 +1,14 @@
+{
+    "title": "Neuropathic pain",
+    "definition": "Neuropathic pain is a type of chronic pain that occurs due to damage or dysfunction in the nervous system. It is characterized by shooting or burning pain, tingling or numbness, and hypersensitivity to touch.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Nerve damage",
+        "Nociceptive pain"
+    ],
+    "concept_fields": [
+        "Neurology",
+        "Pain management"
+    ],
+    "depth": 8
+}

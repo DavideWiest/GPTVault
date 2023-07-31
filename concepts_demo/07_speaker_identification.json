@@ -1,0 +1,14 @@
+{
+    "title": "Speaker identification",
+    "definition": "The process of determining the identity of a speaker based on their voice characteristics.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Voice recognition",
+        "Speaker verification"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Speech technology"
+    ],
+    "depth": 7
+}

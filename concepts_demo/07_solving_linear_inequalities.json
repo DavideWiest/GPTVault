@@ -1,0 +1,14 @@
+{
+    "title": "Solving Linear Inequalities",
+    "definition": "A linear inequality is an inequality in which the unknown variable appears with an exponent of 1 and has a degree of 1.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Graphing Linear Inequalities",
+        "Solving Systems of Linear Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 7
+}

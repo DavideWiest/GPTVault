@@ -1,0 +1,15 @@
+{
+    "title": "Interaction design",
+    "definition": "Interaction design is the practice of designing interactive digital products, systems, and services that focus on user experience and usability.",
+    "known_since": "1980",
+    "child_concepts": [
+        "User Interface Design",
+        "Information Architecture"
+    ],
+    "concept_fields": [
+        "User Experience",
+        "Usability",
+        "Human-Computer Interaction"
+    ],
+    "depth": 7
+}

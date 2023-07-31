@@ -1,0 +1,14 @@
+{
+    "title": "Evidence",
+    "definition": "Information or facts that support or prove something",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Forensic evidence",
+        "Scientific evidence"
+    ],
+    "concept_fields": [
+        "Law",
+        "Science"
+    ],
+    "depth": 3
+}

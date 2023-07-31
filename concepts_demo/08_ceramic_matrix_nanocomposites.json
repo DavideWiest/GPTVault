@@ -1,0 +1,14 @@
+{
+    "title": "Ceramic matrix nanocomposites",
+    "definition": "Ceramic matrix nanocomposites are materials that consist of a ceramic matrix reinforced with nanoscale particles.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Nanoparticles",
+        "Ceramic matrix composites"
+    ],
+    "concept_fields": [
+        "Materials science",
+        "Nanotechnology"
+    ],
+    "depth": 8
+}

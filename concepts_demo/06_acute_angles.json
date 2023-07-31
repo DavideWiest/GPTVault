@@ -1,0 +1,14 @@
+{
+    "title": "Acute angles",
+    "definition": "Angles that measure less than 90 degrees.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Right angles",
+        "Obtuse angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 6
+}

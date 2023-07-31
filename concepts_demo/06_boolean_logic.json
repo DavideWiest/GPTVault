@@ -1,0 +1,15 @@
+{
+    "title": "Boolean logic",
+    "definition": "Boolean logic is a branch of mathematics and logic that deals with the truth values of logical propositions and the logical operations that can be performed on them.",
+    "known_since": "1847",
+    "child_concepts": [
+        "Boolean algebra",
+        "Boolean functions"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 6
+}

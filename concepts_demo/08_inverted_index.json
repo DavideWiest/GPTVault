@@ -1,0 +1,14 @@
+{
+    "title": "Inverted Index",
+    "definition": "An inverted index is a data structure used to optimize text-based searches. It maps each unique word or term in a document collection to the documents that contain it, allowing for efficient retrieval of documents based on their content.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Term Frequency-Inverse Document Frequency (TF-IDF)",
+        "Boolean Retrieval Model"
+    ],
+    "concept_fields": [
+        "Information Retrieval",
+        "Search Engine"
+    ],
+    "depth": 8
+}

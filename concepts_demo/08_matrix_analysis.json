@@ -1,0 +1,17 @@
+{
+    "title": "Matrix Analysis",
+    "definition": "Matrix analysis is a branch of mathematics that deals with the study of matrices, which are rectangular arrays of numbers or symbols arranged in rows and columns. It involves the study of various properties and operations on matrices, such as addition, multiplication, determinants, eigenvalues, and eigenvectors.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Matrix Addition",
+        "Matrix Multiplication",
+        "Determinants",
+        "Eigenvalues and Eigenvectors"
+    ],
+    "concept_fields": [
+        "Linear Algebra",
+        "Numerical Analysis",
+        "Graph Theory"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Waterfall Model",
+    "definition": "The waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of conception, initiation, analysis, design, construction, testing, production/implementation, and maintenance.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Agile Methodology",
+        "Spiral Model"
+    ],
+    "concept_fields": [
+        "Software Development",
+        "Project Management"
+    ],
+    "depth": 8
+}

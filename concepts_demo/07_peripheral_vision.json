@@ -1,0 +1,14 @@
+{
+    "title": "Peripheral vision",
+    "definition": "The ability to see objects and movement outside of the direct line of vision.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Visual field",
+        "Visual perception"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 7
+}

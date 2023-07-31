@@ -1,0 +1,14 @@
+{
+    "title": "Image Classification",
+    "definition": "Image classification is the process of categorizing images into different classes or categories based on their visual content.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Object Detection",
+        "Semantic Segmentation"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 6
+}

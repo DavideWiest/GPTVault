@@ -1,0 +1,15 @@
+{
+    "title": "Phonetics",
+    "definition": "The study of the sounds of human speech.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Phonology",
+        "Articulatory Phonetics",
+        "Acoustic Phonetics"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Speech Science"
+    ],
+    "depth": 6
+}

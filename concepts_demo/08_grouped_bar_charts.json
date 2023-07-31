@@ -1,0 +1,16 @@
+{
+    "title": "Grouped Bar Charts",
+    "definition": "Grouped bar charts are a type of chart that display and compare multiple categories or groups of data. They consist of bars that are grouped together based on a common attribute or category, allowing for easy comparison between the groups.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Bar Charts",
+        "Grouping",
+        "Data Visualization"
+    ],
+    "concept_fields": [
+        "Data Analysis",
+        "Statistics",
+        "Graphical Representation"
+    ],
+    "depth": 8
+}

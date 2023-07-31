@@ -1,0 +1,14 @@
+{
+    "title": "Monophthongs",
+    "definition": "Monophthongs are single, unchanging vowel sounds.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Diphthongs",
+        "Triphthongs"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 7
+}

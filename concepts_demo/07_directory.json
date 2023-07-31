@@ -1,0 +1,15 @@
+{
+    "title": "Directory",
+    "definition": "A directory is a file system cataloging structure that contains references to other computer files, and possibly other directories.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Subdirectory",
+        "Root directory"
+    ],
+    "concept_fields": [
+        "File name",
+        "File size",
+        "File type"
+    ],
+    "depth": 7
+}

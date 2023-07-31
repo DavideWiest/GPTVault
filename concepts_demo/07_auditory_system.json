@@ -1,0 +1,14 @@
+{
+    "title": "Auditory system",
+    "definition": "The auditory system is the sensory system responsible for the sense of hearing.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Ear anatomy",
+        "Sound perception"
+    ],
+    "concept_fields": [
+        "Neuroscience",
+        "Physiology"
+    ],
+    "depth": 7
+}

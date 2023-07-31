@@ -1,0 +1,16 @@
+{
+    "title": "Financial Planning",
+    "definition": "The process of setting and achieving financial goals through the proper management of finances.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Budgeting",
+        "Investment Planning",
+        "Retirement Planning"
+    ],
+    "concept_fields": [
+        "Personal Finance",
+        "Wealth Management",
+        "Tax Planning"
+    ],
+    "depth": 6
+}

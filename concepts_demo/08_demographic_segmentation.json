@@ -1,0 +1,16 @@
+{
+    "title": "Demographic segmentation",
+    "definition": "Demographic segmentation is a marketing strategy that involves dividing a target market into distinct groups based on demographic variables such as age, gender, income, education, occupation, and family status. This segmentation allows marketers to tailor their products, services, and marketing messages to specific demographic groups, thereby increasing the effectiveness of their marketing efforts.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Age segmentation",
+        "Gender segmentation",
+        "Income segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Market segmentation",
+        "Target market"
+    ],
+    "depth": 8
+}

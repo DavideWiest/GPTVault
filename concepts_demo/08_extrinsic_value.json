@@ -1,0 +1,16 @@
+{
+    "title": "Extrinsic Value",
+    "definition": "Extrinsic value is the portion of an option's price that is not intrinsic value. It represents the market's expectation of the option's potential future value based on factors such as time to expiration, volatility, and interest rates.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Intrinsic Value",
+        "Time Value",
+        "Volatility",
+        "Interest Rates"
+    ],
+    "concept_fields": [
+        "Options",
+        "Financial Markets"
+    ],
+    "depth": 8
+}

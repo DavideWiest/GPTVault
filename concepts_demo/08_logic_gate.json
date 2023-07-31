@@ -1,0 +1,15 @@
+{
+    "title": "Logic gate",
+    "definition": "A logic gate is an elementary building block of a digital circuit that performs a logical operation on one or more binary inputs and produces a single binary output.",
+    "known_since": "1837",
+    "child_concepts": [
+        "AND gate",
+        "OR gate",
+        "NOT gate"
+    ],
+    "concept_fields": [
+        "Digital electronics",
+        "Boolean algebra"
+    ],
+    "depth": 8
+}

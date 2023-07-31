@@ -1,0 +1,14 @@
+{
+    "title": "Global Variable",
+    "definition": "A variable that is accessible and can be used throughout the entire program.",
+    "known_since": "1954",
+    "child_concepts": [
+        "Local Variable",
+        "Static Variable"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Programming"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Madness",
+    "definition": "Madness refers to a state of severe mental illness or derangement, characterized by a loss of rationality, coherence, and control over one's thoughts and actions.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Insanity",
+        "Psychosis"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Psychiatry"
+    ],
+    "depth": 8
+}

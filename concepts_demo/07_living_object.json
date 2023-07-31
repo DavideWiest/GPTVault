@@ -1,0 +1,14 @@
+{
+    "title": "Living Object",
+    "definition": "An entity that possesses the characteristics of life, such as growth, reproduction, and response to stimuli.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Plant",
+        "Animal"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Ecology"
+    ],
+    "depth": 7
+}

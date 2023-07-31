@@ -1,0 +1,14 @@
+{
+    "title": "Internal Rate of Return",
+    "definition": "The internal rate of return (IRR) is a metric used to estimate the profitability of an investment. It represents the discount rate that makes the net present value (NPV) of the investment's cash flows equal to zero.",
+    "known_since": "1920",
+    "child_concepts": [
+        "Net Present Value",
+        "Discount Rate"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment Analysis"
+    ],
+    "depth": 7
+}

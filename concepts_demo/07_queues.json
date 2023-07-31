@@ -1,0 +1,18 @@
+{
+    "title": "Queues",
+    "definition": "A queue is a data structure that follows the First-In-First-Out (FIFO) principle, where the element that is inserted first is the first one to be removed.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Circular Queue",
+        "Priority Queue"
+    ],
+    "concept_fields": [
+        "enqueue",
+        "dequeue",
+        "front",
+        "rear",
+        "isEmpty",
+        "isFull"
+    ],
+    "depth": 7
+}

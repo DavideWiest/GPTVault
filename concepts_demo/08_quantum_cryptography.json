@@ -1,0 +1,14 @@
+{
+    "title": "Quantum Cryptography",
+    "definition": "A field of study that focuses on using principles of quantum mechanics to secure communication.",
+    "known_since": "1984",
+    "child_concepts": [
+        "Quantum Key Distribution",
+        "Quantum Cryptanalysis"
+    ],
+    "concept_fields": [
+        "Cryptography",
+        "Quantum Mechanics"
+    ],
+    "depth": 8
+}

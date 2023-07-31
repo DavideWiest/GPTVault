@@ -1,0 +1,15 @@
+{
+    "title": "Continuity",
+    "definition": "The state or quality of being continuous, uninterrupted, or connected in time or space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Infinity",
+        "Limit",
+        "Differentiability"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 6
+}

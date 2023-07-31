@@ -1,0 +1,14 @@
+{
+    "title": "Polar Coordinate System",
+    "definition": "A coordinate system in which each point in a plane is determined by its distance from a fixed point and its angle from a fixed direction.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Polar Coordinates",
+        "Polar Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 7
+}

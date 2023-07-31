@@ -1,0 +1,16 @@
+{
+    "title": "Startups",
+    "definition": "A startup is a young company founded by one or more entrepreneurs to develop a unique product or service and bring it to market.",
+    "known_since": "20th century",
+    "child_concepts": [
+        "Entrepreneurship",
+        "Innovation",
+        "Venture Capital"
+    ],
+    "concept_fields": [
+        "Business",
+        "Technology",
+        "Finance"
+    ],
+    "depth": 5
+}

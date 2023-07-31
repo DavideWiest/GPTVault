@@ -1,0 +1,14 @@
+{
+    "title": "Meditation",
+    "definition": "Meditation is a practice where an individual uses a technique \u2013 such as mindfulness, or focusing the mind on a particular object, thought, or activity \u2013 to train attention and awareness, and achieve a mentally clear and emotionally calm and stable state.",
+    "known_since": "1500 BC",
+    "child_concepts": [
+        "Mindfulness",
+        "Transcendental Meditation"
+    ],
+    "concept_fields": [
+        "Health",
+        "Spirituality"
+    ],
+    "depth": 8
+}

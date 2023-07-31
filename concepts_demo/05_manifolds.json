@@ -1,0 +1,15 @@
+{
+    "title": "Manifolds",
+    "definition": "In mathematics, a manifold is a topological space that locally resembles Euclidean space near each point.",
+    "known_since": "1872",
+    "child_concepts": [
+        "Differentiable Manifolds",
+        "Riemannian Manifolds",
+        "Complex Manifolds"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Topology"
+    ],
+    "depth": 5
+}

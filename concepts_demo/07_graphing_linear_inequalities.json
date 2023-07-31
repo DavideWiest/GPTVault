@@ -1,0 +1,14 @@
+{
+    "title": "Graphing Linear Inequalities",
+    "definition": "Graphing linear inequalities involves representing the solutions to linear inequalities on a coordinate plane.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Solving Linear Inequalities",
+        "Graphing Linear Equations"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 7
+}

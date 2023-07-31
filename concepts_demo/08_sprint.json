@@ -1,0 +1,18 @@
+{
+    "title": "Sprint",
+    "definition": "A sprint is a time-boxed period during which a specific amount of work is completed. It is a fundamental unit of development in Agile methodologies, such as Scrum.",
+    "known_since": "1993",
+    "child_concepts": [
+        "Backlog",
+        "Daily Stand-up",
+        "Sprint Planning",
+        "Sprint Review",
+        "Sprint Retrospective"
+    ],
+    "concept_fields": [
+        "Product Development",
+        "Project Management",
+        "Agile Methodology"
+    ],
+    "depth": 8
+}

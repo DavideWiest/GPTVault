@@ -1,0 +1,14 @@
+{
+    "title": "Sectional curvature",
+    "definition": "Sectional curvature is a concept in differential geometry that measures the curvature of a surface in a specific direction. It quantifies how much a surface deviates from being flat in a particular plane.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Gaussian curvature",
+        "Mean curvature"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Curvature"
+    ],
+    "depth": 8
+}

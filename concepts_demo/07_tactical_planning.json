@@ -1,0 +1,14 @@
+{
+    "title": "Tactical Planning",
+    "definition": "The process of developing and implementing short-term strategies to achieve specific objectives within an organization.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Operational Planning",
+        "Strategic Planning"
+    ],
+    "concept_fields": [
+        "Business Management",
+        "Military Strategy"
+    ],
+    "depth": 7
+}

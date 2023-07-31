@@ -1,0 +1,14 @@
+{
+    "title": "Hypotenuse",
+    "definition": "In geometry, the hypotenuse is the longest side of a right-angled triangle, opposite the right angle.",
+    "known_since": "Pythagoras, 6th century BC",
+    "child_concepts": [
+        "Right-angled triangle",
+        "Pythagorean theorem"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 8
+}

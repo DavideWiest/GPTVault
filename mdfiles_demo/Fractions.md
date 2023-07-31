@@ -1,0 +1,17 @@
+
+
+# Definition:
+Fractions are numbers that represent a part of a whole. They consist of a numerator and a denominator, separated by a slash (/). The numerator represents the number of parts we have, while the denominator represents the total number of equal parts that make up the whole.
+
+# Reference:
+- [[Proper Fractions]]
+- [[Improper Fractions]]
+- [[Mixed Fractions]]
+
+# Fields: 
+- #Mathematics
+- #Arithmetic
+
+# Known Since:
+1500
+

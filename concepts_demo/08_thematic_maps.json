@@ -1,0 +1,16 @@
+{
+    "title": "Thematic maps",
+    "definition": "Thematic maps are maps that display a specific theme or topic, such as population density, climate zones, or election results. They use visual elements, such as colors, patterns, or symbols, to represent the spatial distribution of the chosen theme.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Choropleth maps",
+        "Dot density maps",
+        "Proportional symbol maps"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography",
+        "Data visualization"
+    ],
+    "depth": 8
+}

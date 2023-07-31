@@ -1,0 +1,14 @@
+{
+    "title": "Normal Distribution",
+    "definition": "In statistics, the normal distribution is a continuous probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. It is characterized by its bell-shaped curve.",
+    "known_since": "1733",
+    "child_concepts": [
+        "Standard Normal Distribution",
+        "Central Limit Theorem"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability Theory"
+    ],
+    "depth": 8
+}

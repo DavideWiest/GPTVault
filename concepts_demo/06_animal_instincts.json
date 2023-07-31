@@ -1,0 +1,15 @@
+{
+    "title": "Animal instincts",
+    "definition": "Innate behaviors and responses exhibited by animals.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Fight or flight response",
+        "Hunting instincts",
+        "Maternal instincts"
+    ],
+    "concept_fields": [
+        "Ethology",
+        "Behavioral ecology"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Character",
+    "definition": "A person in a story, movie, or play.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Protagonist",
+        "Antagonist",
+        "Supporting character"
+    ],
+    "concept_fields": [
+        "Literature",
+        "Film",
+        "Theater"
+    ],
+    "depth": 5
+}

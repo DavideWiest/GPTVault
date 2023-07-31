@@ -1,0 +1,14 @@
+{
+    "title": "Structural Analysis",
+    "definition": "Structural analysis is a branch of engineering that deals with the determination of the effects of loads on physical structures and their components.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Structural Design",
+        "Structural Mechanics"
+    ],
+    "concept_fields": [
+        "Civil Engineering",
+        "Mechanical Engineering"
+    ],
+    "depth": 8
+}

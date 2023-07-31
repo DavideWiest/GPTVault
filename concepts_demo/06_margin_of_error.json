@@ -1,0 +1,14 @@
+{
+    "title": "Margin of Error",
+    "definition": "Margin of Error is a statistical measure that quantifies the amount of random sampling error in a survey's results.",
+    "known_since": "1936",
+    "child_concepts": [
+        "Confidence Interval",
+        "Sampling Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Survey Research"
+    ],
+    "depth": 6
+}

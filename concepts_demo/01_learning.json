@@ -1,0 +1,15 @@
+{
+    "title": "Learning",
+    "definition": "The acquisition of knowledge or skills through study, experience, or teaching.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Reading",
+        "Writing",
+        "Mathematics"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology"
+    ],
+    "depth": 1
+}

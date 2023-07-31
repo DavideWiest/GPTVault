@@ -1,0 +1,14 @@
+{
+    "title": "Point-Slope Form",
+    "definition": "A linear equation that expresses the relationship between a point on a line and its slope.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Slope-Intercept Form",
+        "Standard Form"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 7
+}

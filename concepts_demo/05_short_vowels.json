@@ -1,0 +1,14 @@
+{
+    "title": "Short Vowels",
+    "definition": "Short vowels are vowel sounds that are pronounced briefly and do not have a long duration.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Long Vowels",
+        "Vowel Sounds"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 5
+}

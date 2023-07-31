@@ -1,0 +1,14 @@
+{
+    "title": "Investing Cash Flow",
+    "definition": "The cash flow resulting from investments in long-term assets and other investments outside of normal business operations.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Capital Expenditures",
+        "Acquisitions and Disposals",
+        "Investment Income"
+    ],
+    "concept_fields": [
+        "Net Cash from Investing Activities"
+    ],
+    "depth": 7
+}

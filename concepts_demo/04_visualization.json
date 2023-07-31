@@ -1,0 +1,15 @@
+{
+    "title": "Visualization",
+    "definition": "The representation of data or information in a visual format, such as charts, graphs, or maps.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Data Visualization",
+        "Information Visualization"
+    ],
+    "concept_fields": [
+        "Data Science",
+        "Computer Science",
+        "Statistics"
+    ],
+    "depth": 4
+}

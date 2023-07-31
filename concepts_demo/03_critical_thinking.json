@@ -1,0 +1,14 @@
+{
+    "title": "Critical Thinking",
+    "definition": "The objective analysis and evaluation of an issue in order to form a judgment.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Logic",
+        "Reasoning"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology"
+    ],
+    "depth": 3
+}

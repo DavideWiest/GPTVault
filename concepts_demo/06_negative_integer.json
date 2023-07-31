@@ -1,0 +1,14 @@
+{
+    "title": "Negative Integer",
+    "definition": "A negative integer is a whole number that is less than zero.",
+    "known_since": "-200",
+    "child_concepts": [
+        "Positive Integer",
+        "Zero"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 6
+}

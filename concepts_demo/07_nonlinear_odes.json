@@ -1,0 +1,14 @@
+{
+    "title": "Nonlinear ODEs",
+    "definition": "Nonlinear ordinary differential equations (ODEs) are differential equations that involve nonlinear terms. Unlike linear ODEs, these equations cannot be expressed as a linear combination of the dependent variable and its derivatives.",
+    "known_since": "17",
+    "child_concepts": [
+        "Nonlinear dynamical systems",
+        "Chaos theory"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Vowel Sounds",
+    "definition": "Vowel sounds are speech sounds produced with an open vocal tract.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Long Vowels",
+        "Short Vowels"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Market Research",
+    "definition": "The process of gathering, analyzing, and interpreting information about a market, product, or service to support decision-making and strategic planning.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Market Analysis",
+        "Consumer Research"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Business Strategy"
+    ],
+    "depth": 7
+}

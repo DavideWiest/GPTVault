@@ -1,0 +1,14 @@
+{
+    "title": "Greatest Common Factor (GCF)",
+    "definition": "The greatest common factor (GCF) is the largest positive integer that divides two or more numbers without leaving a remainder.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Prime Factorization",
+        "Least Common Multiple (LCM)"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number Theory"
+    ],
+    "depth": 7
+}

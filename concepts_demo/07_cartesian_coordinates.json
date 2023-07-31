@@ -1,0 +1,15 @@
+{
+    "title": "Cartesian Coordinates",
+    "definition": "A system for representing points in space using two or more numerical values.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Polar Coordinates",
+        "Spherical Coordinates"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Physics"
+    ],
+    "depth": 7
+}

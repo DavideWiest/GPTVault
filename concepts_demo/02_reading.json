@@ -1,0 +1,16 @@
+{
+    "title": "Reading",
+    "definition": "The process of interpreting written or printed words to understand their meaning.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Phonics",
+        "Comprehension",
+        "Speed Reading"
+    ],
+    "concept_fields": [
+        "Education",
+        "Literature",
+        "Research"
+    ],
+    "depth": 2
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Emotion Detection",
+    "definition": "The process of identifying and analyzing human emotions through various methods such as facial expressions, voice tone, and physiological signals.",
+    "known_since": "1995",
+    "child_concepts": [
+        "Facial Expression Recognition",
+        "Speech Emotion Recognition"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Artificial Intelligence",
+        "Signal Processing"
+    ],
+    "depth": 7
+}

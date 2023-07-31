@@ -1,0 +1,15 @@
+{
+    "title": "Nanomaterials",
+    "definition": "Materials with structures and properties at the nanoscale.",
+    "known_since": "1981",
+    "child_concepts": [
+        "Nanoparticles",
+        "Nanotubes",
+        "Nanocomposites"
+    ],
+    "concept_fields": [
+        "Materials Science",
+        "Nanotechnology"
+    ],
+    "depth": 6
+}

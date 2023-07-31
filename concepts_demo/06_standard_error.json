@@ -1,0 +1,14 @@
+{
+    "title": "Standard Error",
+    "definition": "Standard error is a statistical term that measures the accuracy with which a sample represents a population.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Sampling Error",
+        "Standard Deviation"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research Methodology"
+    ],
+    "depth": 6
+}

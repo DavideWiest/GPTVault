@@ -1,0 +1,15 @@
+{
+    "title": "Facial recognition",
+    "definition": "Facial recognition is a technology that uses biometric data to identify or verify the identity of individuals by analyzing and comparing patterns in their facial features.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Facial detection",
+        "Facial analysis"
+    ],
+    "concept_fields": [
+        "Computer vision",
+        "Biometrics",
+        "Machine learning"
+    ],
+    "depth": 8
+}

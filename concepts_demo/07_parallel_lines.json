@@ -1,0 +1,15 @@
+{
+    "title": "Parallel lines",
+    "definition": "Lines that never intersect and are always the same distance apart.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Transversal lines",
+        "Corresponding angles",
+        "Alternate interior angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

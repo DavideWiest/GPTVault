@@ -1,0 +1,14 @@
+{
+    "title": "Right Triangle",
+    "definition": "A right triangle is a triangle that has one angle equal to 90 degrees.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Pythagorean Theorem",
+        "Trigonometry"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 8
+}

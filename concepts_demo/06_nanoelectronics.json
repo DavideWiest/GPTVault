@@ -1,0 +1,14 @@
+{
+    "title": "Nanoelectronics",
+    "definition": "The branch of electronics that deals with the behavior and effects of electronic devices and circuits on a nanometer scale.",
+    "known_since": "1959",
+    "child_concepts": [
+        "Nanotechnology",
+        "Quantum Computing"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Electrical Engineering"
+    ],
+    "depth": 6
+}

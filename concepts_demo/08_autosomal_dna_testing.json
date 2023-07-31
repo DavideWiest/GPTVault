@@ -1,0 +1,15 @@
+{
+    "title": "Autosomal DNA testing",
+    "definition": "Autosomal DNA testing is a type of genetic testing that analyzes the DNA inherited from both parents to determine genetic relationships and ancestry.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Genetic genealogy",
+        "Ethnicity estimation"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Ancestry",
+        "Genealogy"
+    ],
+    "depth": 8
+}

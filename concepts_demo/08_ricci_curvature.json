@@ -1,0 +1,14 @@
+{
+    "title": "Ricci curvature",
+    "definition": "Ricci curvature is a concept in differential geometry that measures how the volume of a region in a curved space changes relative to the volume of the same region in a flat space.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Scalar curvature",
+        "Sectional curvature"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Curvature"
+    ],
+    "depth": 8
+}

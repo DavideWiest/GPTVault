@@ -1,0 +1,14 @@
+{
+    "title": "Single precision",
+    "definition": "A data type that represents a floating-point number with reduced precision compared to double precision.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Double precision",
+        "Half precision"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Numerical analysis"
+    ],
+    "depth": 7
+}

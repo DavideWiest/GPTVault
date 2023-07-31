@@ -1,0 +1,14 @@
+{
+    "title": "Phonemes",
+    "definition": "The smallest unit of sound in a language that can distinguish meaning",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Allophones",
+        "Phonology"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Language Studies"
+    ],
+    "depth": 4
+}

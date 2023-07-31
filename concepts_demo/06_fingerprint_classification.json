@@ -1,0 +1,15 @@
+{
+    "title": "Fingerprint classification",
+    "definition": "The process of categorizing fingerprints based on their patterns and characteristics.",
+    "known_since": "1901",
+    "child_concepts": [
+        "Loop pattern",
+        "Whorl pattern",
+        "Arch pattern"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Biometrics"
+    ],
+    "depth": 6
+}

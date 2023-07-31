@@ -1,0 +1,15 @@
+{
+    "title": "Shapes",
+    "definition": "Geometric figures with defined boundaries and dimensions",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Circle",
+        "Triangle",
+        "Square"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 5
+}

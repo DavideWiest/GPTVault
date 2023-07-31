@@ -1,0 +1,14 @@
+{
+    "title": "Null",
+    "definition": "A value that represents the absence or lack of a value",
+    "known_since": "0",
+    "child_concepts": [
+        "Null pointer",
+        "Null set"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics"
+    ],
+    "depth": 6
+}

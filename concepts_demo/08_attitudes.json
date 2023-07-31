@@ -1,0 +1,14 @@
+{
+    "title": "Attitudes",
+    "definition": "Attitudes refer to the evaluations, beliefs, and feelings that individuals hold towards people, objects, or ideas.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Implicit Attitudes",
+        "Explicit Attitudes"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Sociology"
+    ],
+    "depth": 8
+}

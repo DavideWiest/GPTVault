@@ -1,0 +1,15 @@
+{
+    "title": "Database",
+    "definition": "A database is an organized collection of data stored and accessed electronically.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Relational Database",
+        "NoSQL Database"
+    ],
+    "concept_fields": [
+        "Data Management",
+        "Data Modeling",
+        "Data Querying"
+    ],
+    "depth": 6
+}

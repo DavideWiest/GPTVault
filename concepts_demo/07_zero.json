@@ -1,0 +1,14 @@
+{
+    "title": "Zero",
+    "definition": "The numerical digit used to represent no quantity or null value.",
+    "known_since": "5th century AD",
+    "child_concepts": [
+        "Negative numbers",
+        "Fractions"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Computer Science"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Domain",
+    "definition": "A specific subject area or sphere of knowledge",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Subdomain",
+        "Field",
+        "Topic"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics",
+        "Biology"
+    ],
+    "depth": 7
+}

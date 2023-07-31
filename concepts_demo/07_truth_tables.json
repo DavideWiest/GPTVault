@@ -1,0 +1,14 @@
+{
+    "title": "Truth tables",
+    "definition": "A truth table is a mathematical table used in logic to determine the truth or falsehood of a logical expression.",
+    "known_since": "1875",
+    "child_concepts": [
+        "Logical connectives",
+        "Boolean algebra"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Mathematics"
+    ],
+    "depth": 7
+}

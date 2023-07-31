@@ -1,0 +1,14 @@
+{
+    "title": "Sampling Error",
+    "definition": "The difference between the population parameter and the sample statistic.",
+    "known_since": "1936",
+    "child_concepts": [
+        "Sampling Distribution",
+        "Margin of Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Research Methodology"
+    ],
+    "depth": 7
+}

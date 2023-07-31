@@ -1,0 +1,15 @@
+{
+    "title": "Range",
+    "definition": "The extent or scope of something",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Interval",
+        "Domain"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Statistics",
+        "Computer Science"
+    ],
+    "depth": 6
+}

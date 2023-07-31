@@ -1,0 +1,16 @@
+{
+    "title": "Equations",
+    "definition": "Mathematical statements that express the equality of two quantities",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Linear Equations",
+        "Quadratic Equations",
+        "Differential Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Placebo-controlled trial",
+    "definition": "A placebo-controlled trial is a type of clinical trial in which one group of participants receives a placebo (an inactive substance) while the other group receives the active treatment being tested. This design helps to determine the effectiveness of the treatment by comparing it to the placebo.",
+    "known_since": "1943",
+    "child_concepts": [
+        "Blinded study",
+        "Randomized controlled trial"
+    ],
+    "concept_fields": [
+        "Clinical research",
+        "Pharmacology"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Riemann Sum",
+    "definition": "A method for approximating the area under a curve by dividing it into smaller rectangles.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Left Riemann Sum",
+        "Right Riemann Sum",
+        "Midpoint Riemann Sum"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Numerical Integration"
+    ],
+    "depth": 7
+}

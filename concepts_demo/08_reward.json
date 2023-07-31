@@ -1,0 +1,14 @@
+{
+    "title": "Reward",
+    "definition": "Something given or received in return for a service, benefit, or achievement.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Incentive",
+        "Recognition"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Economics"
+    ],
+    "depth": 8
+}

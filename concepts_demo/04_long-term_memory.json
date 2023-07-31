@@ -1,0 +1,14 @@
+{
+    "title": "Long-term memory",
+    "definition": "The stage of memory that stores a large amount of information for a long period of time.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Episodic memory",
+        "Semantic memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Binary Logistic Regression",
+    "definition": "Binary logistic regression is a statistical model used to predict the probability of a binary outcome based on one or more predictor variables.",
+    "known_since": "1958",
+    "child_concepts": [],
+    "concept_fields": [],
+    "depth": 8
+}

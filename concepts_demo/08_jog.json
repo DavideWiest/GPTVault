@@ -1,0 +1,14 @@
+{
+    "title": "Jog",
+    "definition": "Jogging is a form of running at a slow and steady pace. It is often done for exercise or physical fitness.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Running",
+        "Exercise"
+    ],
+    "concept_fields": [
+        "Fitness",
+        "Physical activity"
+    ],
+    "depth": 8
+}

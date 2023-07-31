@@ -1,0 +1,14 @@
+{
+    "title": "Barcode reader",
+    "definition": "A barcode reader is an electronic device that can read and decode barcodes. It uses a light source, a lens, and a photosensitive element to capture the barcode image and convert it into a digital signal that can be processed by a computer.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Barcode scanner",
+        "QR code reader"
+    ],
+    "concept_fields": [
+        "Barcode symbology",
+        "Barcode scanning algorithms"
+    ],
+    "depth": 8
+}

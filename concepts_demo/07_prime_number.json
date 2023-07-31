@@ -1,0 +1,14 @@
+{
+    "title": "Prime Number",
+    "definition": "A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Composite Number",
+        "Twin Prime"
+    ],
+    "concept_fields": [
+        "Number Theory",
+        "Mathematics"
+    ],
+    "depth": 7
+}

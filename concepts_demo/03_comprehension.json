@@ -1,0 +1,15 @@
+{
+    "title": "Comprehension",
+    "definition": "The ability to understand or grasp something",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Reading comprehension",
+        "Listening comprehension"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology",
+        "Language learning"
+    ],
+    "depth": 3
+}

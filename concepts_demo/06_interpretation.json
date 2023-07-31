@@ -1,0 +1,14 @@
+{
+    "title": "Interpretation",
+    "definition": "The act of explaining or understanding the meaning of something.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Language",
+        "Context"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Philosophy"
+    ],
+    "depth": 6
+}

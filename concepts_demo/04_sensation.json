@@ -1,0 +1,14 @@
+{
+    "title": "Sensation",
+    "definition": "The process by which our sensory receptors and nervous system receive and represent stimulus energies from our environment.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Perception",
+        "Sensory perception"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 4
+}

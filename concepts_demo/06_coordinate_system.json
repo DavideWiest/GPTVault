@@ -1,0 +1,15 @@
+{
+    "title": "Coordinate System",
+    "definition": "A system that uses coordinates to uniquely determine the position of a point or object in space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Cartesian Coordinate System",
+        "Polar Coordinate System"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Physics"
+    ],
+    "depth": 6
+}

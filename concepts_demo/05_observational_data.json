@@ -1,0 +1,15 @@
+{
+    "title": "Observational data",
+    "definition": "Data collected through direct observation or measurement.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Quantitative data",
+        "Qualitative data"
+    ],
+    "concept_fields": [
+        "Science",
+        "Research",
+        "Data analysis"
+    ],
+    "depth": 5
+}

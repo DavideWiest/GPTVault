@@ -1,0 +1,15 @@
+{
+    "title": "Marginal Cost",
+    "definition": "The increase in total cost that arises from producing one additional unit of a good or service.",
+    "known_since": "1767",
+    "child_concepts": [
+        "Marginal Revenue",
+        "Marginal Product",
+        "Marginal Utility"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Microeconomics"
+    ],
+    "depth": 6
+}

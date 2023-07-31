@@ -1,0 +1,15 @@
+{
+    "title": "Predicate Logic",
+    "definition": "A formal system for reasoning about statements involving quantifiers and predicates.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "First-order Logic",
+        "Higher-order Logic"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Computer Science",
+        "Philosophy"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Recurrent Neural Networks",
+    "definition": "Recurrent Neural Networks (RNNs) are a type of artificial neural network designed to process sequential data by maintaining an internal memory state. They are particularly effective in tasks such as natural language processing, speech recognition, and time series analysis.",
+    "known_since": "1986",
+    "child_concepts": [
+        "Long Short-Term Memory (LSTM)",
+        "Gated Recurrent Unit (GRU)"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Networks"
+    ],
+    "depth": 8
+}

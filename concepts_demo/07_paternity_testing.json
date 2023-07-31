@@ -1,0 +1,14 @@
+{
+    "title": "Paternity testing",
+    "definition": "A genetic test used to determine if a man is the biological father of a child.",
+    "known_since": "1984",
+    "child_concepts": [
+        "DNA testing",
+        "Parentage testing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensic science"
+    ],
+    "depth": 7
+}

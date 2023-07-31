@@ -1,0 +1,16 @@
+{
+    "title": "Empathy",
+    "definition": "The ability to understand and share the feelings of others.",
+    "known_since": "1909",
+    "child_concepts": [
+        "Compassion",
+        "Sympathy",
+        "Understanding"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Sociology",
+        "Neuroscience"
+    ],
+    "depth": 4
+}

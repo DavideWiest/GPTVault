@@ -1,0 +1,16 @@
+{
+    "title": "Nanocomposites",
+    "definition": "Nanocomposites are materials that consist of a combination of nanoparticles and a matrix material.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Polymer nanocomposites",
+        "Metal matrix nanocomposites",
+        "Ceramic matrix nanocomposites"
+    ],
+    "concept_fields": [
+        "Materials Science",
+        "Nanotechnology",
+        "Composite Materials"
+    ],
+    "depth": 7
+}

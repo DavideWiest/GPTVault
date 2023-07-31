@@ -1,0 +1,15 @@
+{
+    "title": "Friendship",
+    "definition": "Friendship is a relationship of mutual affection between people. It is a stronger form of interpersonal bond than an association.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Trust",
+        "Loyalty",
+        "Companionship"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Sociology"
+    ],
+    "depth": 8
+}

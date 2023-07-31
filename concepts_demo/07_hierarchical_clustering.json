@@ -1,0 +1,14 @@
+{
+    "title": "Hierarchical clustering",
+    "definition": "Hierarchical clustering is a method of cluster analysis that aims to build a hierarchy of clusters.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Agglomerative clustering",
+        "Divisive clustering"
+    ],
+    "concept_fields": [
+        "Data mining",
+        "Machine learning"
+    ],
+    "depth": 7
+}

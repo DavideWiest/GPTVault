@@ -1,0 +1,14 @@
+{
+    "title": "Line charts",
+    "definition": "Line charts are graphical representations of data that display information as a series of data points connected by straight line segments.",
+    "known_since": "1786",
+    "child_concepts": [
+        "Area charts",
+        "Spline charts"
+    ],
+    "concept_fields": [
+        "Data visualization",
+        "Statistics"
+    ],
+    "depth": 7
+}

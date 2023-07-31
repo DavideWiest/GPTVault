@@ -1,0 +1,14 @@
+{
+    "title": "Gaussian Blur",
+    "definition": "A digital image processing technique used to blur an image by convolving it with a Gaussian function.",
+    "known_since": "1965",
+    "child_concepts": [
+        "Box Blur",
+        "Motion Blur"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Semantic Segmentation",
+    "definition": "Semantic segmentation is the process of classifying each pixel in an image into a specific category or class.",
+    "known_since": "1979",
+    "child_concepts": [
+        "Instance Segmentation",
+        "Panoptic Segmentation"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Artificial Intelligence"
+    ],
+    "depth": 7
+}

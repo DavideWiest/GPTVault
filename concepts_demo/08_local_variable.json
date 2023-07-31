@@ -1,0 +1,16 @@
+{
+    "title": "Local Variable",
+    "definition": "A local variable is a variable that is declared inside a function or a block and is only accessible within that function or block.",
+    "known_since": "1951",
+    "child_concepts": [
+        "Global Variable",
+        "Instance Variable",
+        "Class Variable"
+    ],
+    "concept_fields": [
+        "Scope",
+        "Lifetime",
+        "Visibility"
+    ],
+    "depth": 8
+}

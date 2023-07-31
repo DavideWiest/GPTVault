@@ -1,0 +1,14 @@
+{
+    "title": "Fusion",
+    "definition": "The process of combining two or more things to form a single entity.",
+    "known_since": "1945",
+    "child_concepts": [
+        "Nuclear Fusion",
+        "Cultural Fusion"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Sociology"
+    ],
+    "depth": 5
+}

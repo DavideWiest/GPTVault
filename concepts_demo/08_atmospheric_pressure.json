@@ -1,0 +1,15 @@
+{
+    "title": "Atmospheric pressure",
+    "definition": "Atmospheric pressure is the force per unit area exerted on a surface by the weight of the air above it.",
+    "known_since": "1643",
+    "child_concepts": [
+        "Barometer",
+        "Altitude",
+        "Weather patterns"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Meteorology"
+    ],
+    "depth": 8
+}

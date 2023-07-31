@@ -1,0 +1,14 @@
+{
+    "title": "Diameter",
+    "definition": "The distance between two points on the circumference of a circle, passing through the center.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Radius",
+        "Circumference"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

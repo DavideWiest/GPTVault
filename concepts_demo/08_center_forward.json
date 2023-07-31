@@ -1,0 +1,15 @@
+{
+    "title": "Center forward",
+    "definition": "In sports, a center forward is a player positioned in the middle of the forward line or attacking line. They are typically responsible for scoring goals and creating goal-scoring opportunities for their team.",
+    "known_since": "1870",
+    "child_concepts": [
+        "Striker",
+        "Target man"
+    ],
+    "concept_fields": [
+        "Position",
+        "Scoring ability",
+        "Playmaking"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Inductive Reasoning",
+    "definition": "A logical process in which multiple observations or examples are used to make generalizations or predictions.",
+    "known_since": "350 BC",
+    "child_concepts": [
+        "Deductive Reasoning",
+        "Abductive Reasoning"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy",
+        "Science"
+    ],
+    "depth": 5
+}

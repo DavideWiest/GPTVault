@@ -1,0 +1,15 @@
+{
+    "title": "Pictograms",
+    "definition": "Pictograms are pictorial symbols or icons that represent words, phrases, or concepts.",
+    "known_since": "3500 BC",
+    "child_concepts": [
+        "Ideograms",
+        "Logograms"
+    ],
+    "concept_fields": [
+        "Communication",
+        "Language",
+        "Writing"
+    ],
+    "depth": 6
+}

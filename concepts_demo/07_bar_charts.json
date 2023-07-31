@@ -1,0 +1,15 @@
+{
+    "title": "Bar Charts",
+    "definition": "A bar chart is a graphical representation of data using rectangular bars of varying heights or lengths. The length or height of each bar corresponds to the quantity or value it represents.",
+    "known_since": "1786",
+    "child_concepts": [
+        "Horizontal Bar Charts",
+        "Stacked Bar Charts",
+        "Grouped Bar Charts"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Visualization"
+    ],
+    "depth": 7
+}

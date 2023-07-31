@@ -1,0 +1,16 @@
+{
+    "title": "Information architecture",
+    "definition": "Information architecture is the art and science of organizing and structuring information to support usability and findability.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Navigation design",
+        "Taxonomy",
+        "Metadata"
+    ],
+    "concept_fields": [
+        "User experience design",
+        "Content management",
+        "Information retrieval"
+    ],
+    "depth": 7
+}

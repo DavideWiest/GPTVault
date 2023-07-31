@@ -1,0 +1,14 @@
+{
+    "title": "Protein quantification",
+    "definition": "The measurement of the amount of protein present in a sample.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Protein concentration",
+        "Protein assay"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Analytical chemistry"
+    ],
+    "depth": 7
+}

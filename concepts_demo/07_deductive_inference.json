@@ -1,0 +1,15 @@
+{
+    "title": "Deductive Inference",
+    "definition": "A logical process of reasoning from one or more statements (premises) to reach a logically certain conclusion.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Syllogism",
+        "Modus Ponens",
+        "Modus Tollens"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy"
+    ],
+    "depth": 7
+}

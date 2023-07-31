@@ -1,0 +1,14 @@
+{
+    "title": "Variable substitution",
+    "definition": "Variable substitution is a concept in computer programming where variables are replaced with their corresponding values during the execution of a program.",
+    "known_since": "1954",
+    "child_concepts": [
+        "String interpolation",
+        "Template literals"
+    ],
+    "concept_fields": [
+        "Computer programming",
+        "Software development"
+    ],
+    "depth": 8
+}

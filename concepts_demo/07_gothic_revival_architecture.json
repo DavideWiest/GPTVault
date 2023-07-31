@@ -1,0 +1,14 @@
+{
+    "title": "Gothic Revival Architecture",
+    "definition": "A style of architecture that emerged in the late 18th century, characterized by the use of pointed arches, ribbed vaults, and ornate decoration, inspired by medieval Gothic architecture.",
+    "known_since": "1749",
+    "child_concepts": [
+        "Neo-Gothic Architecture",
+        "Victorian Gothic Architecture"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Art History"
+    ],
+    "depth": 7
+}

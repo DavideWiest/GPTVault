@@ -1,0 +1,14 @@
+{
+    "title": "Behavioral segmentation",
+    "definition": "Behavioral segmentation is the process of dividing a market into distinct groups based on consumer behavior patterns.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Demographic segmentation",
+        "Psychographic segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Consumer behavior"
+    ],
+    "depth": 6
+}

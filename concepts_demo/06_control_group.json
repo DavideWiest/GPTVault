@@ -1,0 +1,15 @@
+{
+    "title": "Control group",
+    "definition": "A group in an experiment that does not receive the experimental treatment and is used as a comparison to evaluate the effects of the treatment.",
+    "known_since": "1920",
+    "child_concepts": [
+        "Experimental group",
+        "Placebo group"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Statistics",
+        "Research methodology"
+    ],
+    "depth": 6
+}

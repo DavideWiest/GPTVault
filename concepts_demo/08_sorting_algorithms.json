@@ -1,0 +1,16 @@
+{
+    "title": "Sorting algorithms",
+    "definition": "Sorting algorithms are a set of procedures used to arrange elements in a specific order.",
+    "known_since": "1945",
+    "child_concepts": [
+        "Bubble sort",
+        "Selection sort",
+        "Insertion sort"
+    ],
+    "concept_fields": [
+        "Time complexity",
+        "Space complexity",
+        "Stability"
+    ],
+    "depth": 8
+}

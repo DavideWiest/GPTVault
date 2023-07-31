@@ -1,0 +1,14 @@
+{
+    "title": "Randomization",
+    "definition": "Randomization is a process of assigning individuals or items to different groups or treatments in a random manner, ensuring that each individual or item has an equal chance of being assigned to any group or treatment. It is commonly used in research studies to minimize bias and increase the validity of the results.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Randomized Controlled Trial",
+        "Random Sampling"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Experimental Design"
+    ],
+    "depth": 8
+}

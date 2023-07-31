@@ -1,0 +1,14 @@
+{
+    "title": "Factoring trinomials",
+    "definition": "Factoring trinomials is the process of breaking down a trinomial expression into its factors. It involves finding two binomials that, when multiplied together, result in the original trinomial.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Factoring by grouping",
+        "Factoring special cases"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Polynomials"
+    ],
+    "depth": 8
+}

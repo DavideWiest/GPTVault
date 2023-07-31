@@ -1,0 +1,14 @@
+{
+    "title": "Elimination Method",
+    "definition": "The elimination method is a technique used in algebra to solve a system of linear equations by eliminating one variable at a time.",
+    "known_since": "1801",
+    "child_concepts": [
+        "Substitution Method",
+        "Matrix Method"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Linear Equations"
+    ],
+    "depth": 8
+}

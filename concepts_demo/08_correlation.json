@@ -1,0 +1,15 @@
+{
+    "title": "Correlation",
+    "definition": "Correlation is a statistical measure that describes the relationship between two variables. It indicates the extent to which the variables tend to move together or in opposite directions.",
+    "known_since": "1888",
+    "child_concepts": [
+        "Positive Correlation",
+        "Negative Correlation",
+        "Zero Correlation"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 8
+}

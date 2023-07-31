@@ -1,0 +1,16 @@
+{
+    "title": "Nonlinear dynamical systems",
+    "definition": "Nonlinear dynamical systems are mathematical models that describe the behavior of complex systems that cannot be easily explained by linear equations. These systems exhibit nonlinear relationships and can display chaotic behavior, sensitivity to initial conditions, and the emergence of complex patterns.",
+    "known_since": "Late 19th century",
+    "child_concepts": [
+        "Chaos theory",
+        "Fractals",
+        "Bifurcation theory"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Mathematics",
+        "Engineering"
+    ],
+    "depth": 8
+}

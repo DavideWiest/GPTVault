@@ -1,0 +1,15 @@
+{
+    "title": "Habit Formation",
+    "definition": "The process of acquiring and maintaining a habit through repeated actions and reinforcement.",
+    "known_since": "1885",
+    "child_concepts": [
+        "Cue",
+        "Routine",
+        "Reward"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Behavioral Science"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Saltiness",
+    "definition": "The taste sensation of salt",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Salty foods",
+        "Salt intake"
+    ],
+    "concept_fields": [
+        "Culinary",
+        "Nutrition"
+    ],
+    "depth": 7
+}

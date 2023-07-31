@@ -1,0 +1,23 @@
+{
+    "title": "Place of Articulation",
+    "definition": "Place of articulation refers to the specific point in the vocal tract where a consonant sound is produced.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Bilabial",
+        "Labiodental",
+        "Dental",
+        "Alveolar",
+        "Postalveolar",
+        "Retroflex",
+        "Palatal",
+        "Velar",
+        "Uvular",
+        "Pharyngeal",
+        "Glottal"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

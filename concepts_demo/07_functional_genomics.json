@@ -1,0 +1,14 @@
+{
+    "title": "Functional Genomics",
+    "definition": "Functional genomics is a field of molecular biology that aims to understand the functions and interactions of genes within an organism.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Gene expression",
+        "Proteomics"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular biology"
+    ],
+    "depth": 7
+}

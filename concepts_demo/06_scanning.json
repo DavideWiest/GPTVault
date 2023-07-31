@@ -1,0 +1,14 @@
+{
+    "title": "Scanning",
+    "definition": "The process of systematically examining or searching an area or object.",
+    "known_since": "1903",
+    "child_concepts": [
+        "Barcode scanning",
+        "Document scanning"
+    ],
+    "concept_fields": [
+        "Technology",
+        "Imaging"
+    ],
+    "depth": 6
+}

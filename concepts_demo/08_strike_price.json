@@ -1,0 +1,14 @@
+{
+    "title": "Strike price",
+    "definition": "The strike price is the predetermined price at which the holder of an option can buy or sell the underlying asset when exercising the option.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Call option",
+        "Put option"
+    ],
+    "concept_fields": [
+        "Option pricing",
+        "Financial derivatives"
+    ],
+    "depth": 8
+}

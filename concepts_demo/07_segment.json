@@ -1,0 +1,14 @@
+{
+    "title": "Segment",
+    "definition": "A part or section of something larger",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Line segment",
+        "Segmentation"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Computer Science"
+    ],
+    "depth": 7
+}

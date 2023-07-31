@@ -1,0 +1,14 @@
+{
+    "title": "Integration by parts",
+    "definition": "Integration by parts is a technique used in calculus to evaluate the integral of a product of two functions. It is based on the product rule for differentiation.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Tabular integration",
+        "Integration by substitution"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 8
+}

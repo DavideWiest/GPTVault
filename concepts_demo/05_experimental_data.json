@@ -1,0 +1,16 @@
+{
+    "title": "Experimental data",
+    "definition": "Data obtained through controlled experiments or observations.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Hypothesis",
+        "Variable",
+        "Control group"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Physics",
+        "Chemistry"
+    ],
+    "depth": 5
+}

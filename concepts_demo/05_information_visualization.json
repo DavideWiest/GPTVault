@@ -1,0 +1,15 @@
+{
+    "title": "Information Visualization",
+    "definition": "The representation of data or information in a visual format to aid understanding and analysis.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Data Visualization",
+        "Interactive Visualization"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Analysis",
+        "User Experience"
+    ],
+    "depth": 5
+}

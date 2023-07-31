@@ -1,0 +1,11 @@
+Please complete this JSON document with the following structure:
+
+{doc}
+
+Your JSON document should include the following information:
+
+The definition of the concept (key: definition)
+The year when this concept has been known (key: known_since). Use positive numbers for AD and negative numbers for BC (e.g., 200 or -200).
+The names of the child concepts associated with this concept (key: child_concepts). Please provide an array of strings, and do not jump too far ahead, conceptually.
+The names of the fields that this concept is related to. Please provide an array of strings.
+Please ensure that the keys are exactly as specified (e.g., "definition," "known_since," "child_concepts"). Once you provide the JSON document, the system will extract the relevant information and return the modified JSON file with the required keys. If any of the information is missing or incorrectly formatted, the system may not function correctly.

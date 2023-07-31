@@ -1,0 +1,14 @@
+{
+    "title": "Parentage testing",
+    "definition": "Parentage testing is a process used to determine the biological relationship between a child and their alleged parent(s). It involves analyzing the genetic markers of the individuals involved to assess the likelihood of a biological connection.",
+    "known_since": "1900",
+    "child_concepts": [
+        "Maternity testing",
+        "Paternity testing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensic science"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Dynamics",
+    "definition": "The branch of mechanics that deals with the motion and equilibrium of systems under the action of forces.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Kinematics",
+        "Statics"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 8
+}

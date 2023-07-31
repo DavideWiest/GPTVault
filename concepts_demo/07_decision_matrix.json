@@ -1,0 +1,15 @@
+{
+    "title": "Decision Matrix",
+    "definition": "A decision matrix is a tool used to systematically analyze and evaluate options based on criteria and weights.",
+    "known_since": "1955",
+    "child_concepts": [
+        "Decision Making",
+        "Matrix Analysis"
+    ],
+    "concept_fields": [
+        "Business",
+        "Management",
+        "Problem Solving"
+    ],
+    "depth": 7
+}

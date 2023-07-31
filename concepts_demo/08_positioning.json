@@ -1,0 +1,16 @@
+{
+    "title": "Positioning",
+    "definition": "The act of determining the location or arrangement of something",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Global Positioning System",
+        "Geolocation",
+        "Satellite Navigation"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Navigation",
+        "Surveying"
+    ],
+    "depth": 8
+}

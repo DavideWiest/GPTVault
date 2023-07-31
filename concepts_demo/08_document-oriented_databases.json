@@ -1,0 +1,15 @@
+{
+    "title": "Document-oriented databases",
+    "definition": "Document-oriented databases are a type of NoSQL database that stores and retrieves data in a document format, such as JSON or XML. Unlike traditional relational databases, document-oriented databases do not require a predefined schema, allowing for more flexibility and scalability.",
+    "known_since": "2005",
+    "child_concepts": [
+        "Key-value stores",
+        "Column-family stores"
+    ],
+    "concept_fields": [
+        "Schemaless data model",
+        "Document storage",
+        "Query flexibility"
+    ],
+    "depth": 8
+}

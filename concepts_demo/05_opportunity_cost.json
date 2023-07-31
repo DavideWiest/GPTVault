@@ -1,0 +1,14 @@
+{
+    "title": "Opportunity Cost",
+    "definition": "The potential benefit that is given up when choosing one alternative over another.",
+    "known_since": "1914",
+    "child_concepts": [
+        "Sunk Cost",
+        "Marginal Cost"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Decision Making"
+    ],
+    "depth": 5
+}

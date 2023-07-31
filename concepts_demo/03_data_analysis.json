@@ -1,0 +1,16 @@
+{
+    "title": "Data Analysis",
+    "definition": "The process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Descriptive Statistics",
+        "Inferential Statistics",
+        "Data Visualization"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Machine Learning",
+        "Business Intelligence"
+    ],
+    "depth": 3
+}

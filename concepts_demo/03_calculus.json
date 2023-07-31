@@ -1,0 +1,15 @@
+{
+    "title": "Calculus",
+    "definition": "Calculus is a branch of mathematics that deals with the study of change and motion.",
+    "known_since": "1684",
+    "child_concepts": [
+        "Differential Calculus",
+        "Integral Calculus"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 3
+}

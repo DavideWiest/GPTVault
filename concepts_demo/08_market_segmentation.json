@@ -1,0 +1,16 @@
+{
+    "title": "Market Segmentation",
+    "definition": "Market segmentation is the process of dividing a market into distinct groups of buyers who have different needs, characteristics, or behaviors.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Demographic Segmentation",
+        "Psychographic Segmentation",
+        "Behavioral Segmentation"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Consumer Behavior",
+        "Market Research"
+    ],
+    "depth": 8
+}

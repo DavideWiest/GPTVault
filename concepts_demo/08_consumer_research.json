@@ -1,0 +1,15 @@
+{
+    "title": "Consumer Research",
+    "definition": "Consumer research is the process of gathering and analyzing information about consumers' preferences, behaviors, and needs in order to make informed business decisions.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Market Research",
+        "Consumer Behavior"
+    ],
+    "concept_fields": [
+        "Demographics",
+        "Psychographics",
+        "Market Segmentation"
+    ],
+    "depth": 8
+}

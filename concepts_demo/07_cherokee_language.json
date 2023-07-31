@@ -1,0 +1,14 @@
+{
+    "title": "Cherokee language",
+    "definition": "A Native American language spoken by the Cherokee people.",
+    "known_since": "1828",
+    "child_concepts": [
+        "Cherokee syllabary",
+        "Cherokee Nation"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Native American Studies"
+    ],
+    "depth": 7
+}

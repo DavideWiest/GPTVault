@@ -1,0 +1,16 @@
+{
+    "title": "Run",
+    "definition": "To move swiftly on foot, faster than walking",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Sprint",
+        "Jog",
+        "Marathon"
+    ],
+    "concept_fields": [
+        "Sports",
+        "Fitness",
+        "Athletics"
+    ],
+    "depth": 7
+}

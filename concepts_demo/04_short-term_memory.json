@@ -1,0 +1,13 @@
+{
+    "title": "Short-term memory",
+    "definition": "The ability to temporarily store and manipulate information for a short period of time.",
+    "known_since": "1890",
+    "child_concepts": [
+        "Working memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 4
+}

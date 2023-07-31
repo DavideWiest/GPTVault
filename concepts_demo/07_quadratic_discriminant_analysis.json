@@ -1,0 +1,14 @@
+{
+    "title": "Quadratic Discriminant Analysis",
+    "definition": "A statistical classification technique used to separate observations into multiple classes based on a quadratic decision boundary.",
+    "known_since": "1969",
+    "child_concepts": [
+        "Linear Discriminant Analysis",
+        "Naive Bayes Classifier"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

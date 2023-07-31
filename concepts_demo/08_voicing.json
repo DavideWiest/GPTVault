@@ -1,0 +1,15 @@
+{
+    "title": "Voicing",
+    "definition": "Voicing refers to the quality of sound produced by the vocal cords during speech or singing. It is determined by the vibration of the vocal cords and the resulting resonance in the vocal tract.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiceless",
+        "Voiced",
+        "Whispery voice"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

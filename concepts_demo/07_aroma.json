@@ -1,0 +1,14 @@
+{
+    "title": "Aroma",
+    "definition": "Aroma refers to the pleasant or distinctive smell of something.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Fragrance",
+        "Scent"
+    ],
+    "concept_fields": [
+        "Perfumery",
+        "Cuisine"
+    ],
+    "depth": 7
+}

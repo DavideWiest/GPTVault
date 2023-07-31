@@ -1,0 +1,15 @@
+{
+    "title": "Instance Variable",
+    "definition": "An instance variable is a variable that is declared in a class but outside of any method, constructor, or block. It is associated with objects of the class and each object has its own copy of the instance variable.",
+    "known_since": "1967",
+    "child_concepts": [
+        "Local Variable",
+        "Class Variable"
+    ],
+    "concept_fields": [
+        "Data Types",
+        "Scope",
+        "Access Modifiers"
+    ],
+    "depth": 8
+}

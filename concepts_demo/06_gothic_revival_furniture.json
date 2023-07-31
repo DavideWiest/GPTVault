@@ -1,0 +1,15 @@
+{
+    "title": "Gothic Revival Furniture",
+    "definition": "Furniture style that emerged in the 18th century, inspired by medieval Gothic architecture.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Gothic Revival Architecture",
+        "Gothic Revival Decor"
+    ],
+    "concept_fields": [
+        "Materials",
+        "Ornamentation",
+        "Furniture Types"
+    ],
+    "depth": 6
+}

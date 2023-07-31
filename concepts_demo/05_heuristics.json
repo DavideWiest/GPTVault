@@ -1,0 +1,15 @@
+{
+    "title": "Heuristics",
+    "definition": "Mental shortcuts or rules of thumb used to make decisions or solve problems.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Availability Heuristic",
+        "Representativeness Heuristic",
+        "Anchoring and Adjustment Heuristic"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 5
+}

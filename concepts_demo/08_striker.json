@@ -1,0 +1,15 @@
+{
+    "title": "Striker",
+    "definition": "In sports, a striker is a player who primarily plays in the forward position and is responsible for scoring goals.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Center Forward",
+        "Second Striker"
+    ],
+    "concept_fields": [
+        "Goal Scoring",
+        "Attacking",
+        "Finishing"
+    ],
+    "depth": 8
+}

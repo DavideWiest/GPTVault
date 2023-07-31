@@ -1,0 +1,14 @@
+{
+    "title": "Higher-order Logic",
+    "definition": "Higher-order logic is a formal system used in mathematics and logic to reason about functions and predicates. It extends first-order logic by allowing quantification over functions and predicates, as well as variables ranging over functions and predicates.",
+    "known_since": "1879",
+    "child_concepts": [
+        "First-order Logic",
+        "Predicate Logic"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 8
+}

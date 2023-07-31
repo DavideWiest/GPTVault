@@ -1,0 +1,14 @@
+{
+    "title": "Quantum Computing",
+    "definition": "Quantum computing is a field of computing that utilizes principles of quantum mechanics to perform computations.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Quantum Algorithms",
+        "Quantum Cryptography"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Computer Science"
+    ],
+    "depth": 7
+}

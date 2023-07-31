@@ -1,0 +1,16 @@
+{
+    "title": "Fruit trees",
+    "definition": "Fruit trees are plants that are cultivated for their edible fruits. They are typically grown in orchards and gardens for their nutritional value and taste.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Apple trees",
+        "Orange trees",
+        "Mango trees"
+    ],
+    "concept_fields": [
+        "Horticulture",
+        "Agriculture",
+        "Botany"
+    ],
+    "depth": 8
+}

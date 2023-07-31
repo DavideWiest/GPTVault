@@ -1,0 +1,15 @@
+{
+    "title": "Q-Learning",
+    "definition": "A reinforcement learning algorithm that aims to find the optimal action-selection policy for any given Markov decision process (MDP).",
+    "known_since": "1989",
+    "child_concepts": [
+        "Temporal Difference Learning",
+        "Deep Q-Networks"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Reinforcement Learning"
+    ],
+    "depth": 6
+}

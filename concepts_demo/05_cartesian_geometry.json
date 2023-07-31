@@ -1,0 +1,16 @@
+{
+    "title": "Cartesian Geometry",
+    "definition": "A branch of mathematics that deals with the coordinate system and the geometric representation of points, lines, and shapes in a plane or in space.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Coordinate System",
+        "Distance Formula",
+        "Midpoint Formula"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Algebra"
+    ],
+    "depth": 5
+}

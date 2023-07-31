@@ -1,0 +1,16 @@
+{
+    "title": "Machine Learning",
+    "definition": "A field of study that gives computers the ability to learn without being explicitly programmed.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Computer Science"
+    ],
+    "depth": 4
+}

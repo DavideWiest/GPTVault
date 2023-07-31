@@ -1,0 +1,18 @@
+{
+    "title": "Floating-point operations",
+    "definition": "Floating-point operations are arithmetic operations performed on floating-point numbers, which are numbers that can represent a wide range of values with fractional parts.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+    ],
+    "concept_fields": [
+        "Precision",
+        "Rounding",
+        "Overflow",
+        "Underflow"
+    ],
+    "depth": 8
+}

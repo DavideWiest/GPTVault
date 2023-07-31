@@ -1,0 +1,14 @@
+{
+    "title": "Slant",
+    "definition": "A slope or inclination away from the horizontal or vertical.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Angle",
+        "Gradient"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Physics"
+    ],
+    "depth": 7
+}

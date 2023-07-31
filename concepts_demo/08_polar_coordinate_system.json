@@ -1,0 +1,14 @@
+{
+    "title": "Polar Coordinate System",
+    "definition": "A two-dimensional coordinate system in which each point is determined by its distance from a reference point and its angle from a reference direction.",
+    "known_since": "1670",
+    "child_concepts": [
+        "Polar Coordinates",
+        "Polar Form of Complex Numbers"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Cash Flow",
+    "definition": "The net amount of cash and cash-equivalents being transferred into and out of a business.",
+    "known_since": "13th century",
+    "child_concepts": [
+        "Operating Cash Flow",
+        "Investing Cash Flow",
+        "Financing Cash Flow"
+    ],
+    "concept_fields": [
+        "Accounting",
+        "Finance"
+    ],
+    "depth": 6
+}

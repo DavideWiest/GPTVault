@@ -1,0 +1,14 @@
+{
+    "title": "Consonants",
+    "definition": "Consonants are speech sounds that are produced by obstructing airflow in the vocal tract.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Voiced Consonants",
+        "Voiceless Consonants"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Phonetics"
+    ],
+    "depth": 4
+}

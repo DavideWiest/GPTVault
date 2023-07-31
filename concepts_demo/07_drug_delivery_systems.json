@@ -1,0 +1,16 @@
+{
+    "title": "Drug delivery systems",
+    "definition": "Drug delivery systems refer to technologies and methods used to deliver therapeutic substances to specific target sites in the body.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Nanoparticle drug delivery",
+        "Implantable drug delivery",
+        "Transdermal drug delivery"
+    ],
+    "concept_fields": [
+        "Pharmacology",
+        "Biomedical engineering",
+        "Pharmaceutical sciences"
+    ],
+    "depth": 7
+}

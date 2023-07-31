@@ -1,0 +1,16 @@
+{
+    "title": "Curvature Tensor",
+    "definition": "The curvature tensor is a mathematical object that describes the curvature of a manifold.",
+    "known_since": "1915",
+    "child_concepts": [
+        "Riemann curvature tensor",
+        "Ricci curvature tensor",
+        "Scalar curvature"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "General relativity",
+        "Riemannian geometry"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Chunking",
+    "definition": "Chunking is a cognitive process that involves grouping or organizing information into smaller units or chunks to improve memory and processing efficiency.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Working Memory",
+        "Long-term Memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 4
+}

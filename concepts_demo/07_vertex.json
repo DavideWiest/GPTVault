@@ -1,0 +1,14 @@
+{
+    "title": "Vertex",
+    "definition": "A vertex is a point where two or more lines or edges meet in a geometric shape.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Edge",
+        "Face"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Graph Theory"
+    ],
+    "depth": 7
+}

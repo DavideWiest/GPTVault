@@ -1,0 +1,16 @@
+{
+    "title": "Logical Reasoning",
+    "definition": "The process of using rational thinking and logical principles to analyze and solve problems.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Deductive Reasoning",
+        "Inductive Reasoning",
+        "Abductive Reasoning"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Mathematics",
+        "Computer Science"
+    ],
+    "depth": 7
+}

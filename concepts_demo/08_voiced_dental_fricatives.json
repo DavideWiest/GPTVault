@@ -1,0 +1,14 @@
+{
+    "title": "Voiced dental fricatives",
+    "definition": "Voiced dental fricatives are consonant sounds produced by forcing air through a narrow channel formed by the tongue and upper teeth, while simultaneously vibrating the vocal cords.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Voiced alveolar fricatives",
+        "Voiced interdental fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

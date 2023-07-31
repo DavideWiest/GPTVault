@@ -1,0 +1,14 @@
+{
+    "title": "Edge-based segmentation",
+    "definition": "A computer vision technique that aims to identify and extract object boundaries based on the detection of edges in an image.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Canny edge detection",
+        "Sobel operator"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Processing"
+    ],
+    "depth": 7
+}

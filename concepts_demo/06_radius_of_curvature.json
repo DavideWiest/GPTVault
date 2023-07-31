@@ -1,0 +1,14 @@
+{
+    "title": "Radius of Curvature",
+    "definition": "The radius of curvature is the radius of the circle that best approximates a curve at a particular point.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Curvature",
+        "Circle of Curvature"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 6
+}

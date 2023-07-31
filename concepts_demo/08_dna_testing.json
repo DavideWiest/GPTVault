@@ -1,0 +1,15 @@
+{
+    "title": "DNA testing",
+    "definition": "DNA testing is a technique used to identify and analyze the genetic material, or DNA, of an individual. It involves examining specific regions of the DNA molecule to determine genetic variations or mutations that may be associated with certain traits, diseases, or ancestry.",
+    "known_since": "1985",
+    "child_concepts": [
+        "Genetic testing",
+        "Forensic DNA analysis"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensics",
+        "Ancestry"
+    ],
+    "depth": 8
+}

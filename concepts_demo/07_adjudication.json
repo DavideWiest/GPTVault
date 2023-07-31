@@ -1,0 +1,14 @@
+{
+    "title": "Adjudication",
+    "definition": "The process of resolving a dispute or settling a claim by making a judgment or decision.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Arbitration",
+        "Mediation"
+    ],
+    "concept_fields": [
+        "Law",
+        "Dispute Resolution"
+    ],
+    "depth": 7
+}

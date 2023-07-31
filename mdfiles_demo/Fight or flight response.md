@@ -1,0 +1,16 @@
+
+
+# Definition:
+The fight or flight response is a physiological reaction that occurs in response to a perceived harmful event, attack, or threat to survival. It prepares the body to either confront the threat or flee from it.
+
+# Reference:
+- [[Stress response]]
+- [[Adrenaline release]]
+
+# Fields: 
+- #Physiology
+- #Psychology
+
+# Known Since:
+1874
+

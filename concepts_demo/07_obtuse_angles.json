@@ -1,0 +1,14 @@
+{
+    "title": "Obtuse angles",
+    "definition": "An angle that measures more than 90 degrees but less than 180 degrees.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Acute angles",
+        "Right angles"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 7
+}

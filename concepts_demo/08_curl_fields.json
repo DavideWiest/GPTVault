@@ -1,0 +1,14 @@
+{
+    "title": "Curl Fields",
+    "definition": "Curl Fields refer to a concept in vector calculus that describes the rotation or circulation of a vector field.",
+    "known_since": "1871",
+    "child_concepts": [
+        "Gradient",
+        "Divergence"
+    ],
+    "concept_fields": [
+        "Vector Calculus",
+        "Fluid Dynamics"
+    ],
+    "depth": 8
+}

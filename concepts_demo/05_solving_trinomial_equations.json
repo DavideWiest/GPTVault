@@ -1,0 +1,14 @@
+{
+    "title": "Solving trinomial equations",
+    "definition": "The process of finding the values of the unknown variables in an equation with three terms.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Factoring trinomials",
+        "Quadratic equations"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 5
+}

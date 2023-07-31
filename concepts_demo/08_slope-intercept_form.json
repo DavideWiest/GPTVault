@@ -1,0 +1,14 @@
+{
+    "title": "Slope-Intercept Form",
+    "definition": "The slope-intercept form is a way to represent a linear equation in the form y = mx + b, where m is the slope of the line and b is the y-intercept.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Point-Slope Form",
+        "Standard Form"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Algebra"
+    ],
+    "depth": 8
+}

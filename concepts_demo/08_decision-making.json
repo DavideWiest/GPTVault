@@ -1,0 +1,15 @@
+{
+    "title": "Decision-making",
+    "definition": "The process of selecting the best course of action among multiple alternatives.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Rational decision-making",
+        "Intuitive decision-making"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Management",
+        "Economics"
+    ],
+    "depth": 8
+}

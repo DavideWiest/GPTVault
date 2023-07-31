@@ -1,0 +1,15 @@
+{
+    "title": "Pythagorean Theorem",
+    "definition": "In mathematics, the Pythagorean theorem is a fundamental relation in Euclidean geometry among the three sides of a right triangle.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Right Triangle",
+        "Hypotenuse",
+        "Legs"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 7
+}

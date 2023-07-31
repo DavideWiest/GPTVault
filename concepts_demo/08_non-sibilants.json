@@ -1,0 +1,15 @@
+{
+    "title": "Non-sibilants",
+    "definition": "Non-sibilants are a group of speech sounds that are not sibilant consonants. They are produced without a hissing or buzzing sound.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Vowels",
+        "Plosives",
+        "Fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

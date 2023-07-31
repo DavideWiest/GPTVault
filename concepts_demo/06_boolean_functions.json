@@ -1,0 +1,15 @@
+{
+    "title": "Boolean functions",
+    "definition": "Boolean functions are mathematical functions that operate on one or more Boolean inputs and produce a Boolean output.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Logic gates",
+        "Truth tables"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 6
+}

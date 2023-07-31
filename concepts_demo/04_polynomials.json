@@ -1,0 +1,15 @@
+{
+    "title": "Polynomials",
+    "definition": "Polynomials are mathematical expressions that consist of variables and coefficients, combined using addition, subtraction, and multiplication operations.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Monomials",
+        "Binomials",
+        "Trinomials"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 4
+}

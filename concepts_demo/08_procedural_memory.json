@@ -1,0 +1,14 @@
+{
+    "title": "Procedural Memory",
+    "definition": "Procedural memory is a type of long-term memory that involves the process of acquiring, storing, and recalling skills and procedures. It is responsible for the unconscious learning and execution of motor skills, habits, and actions.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Motor Learning",
+        "Skill Acquisition"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 8
+}

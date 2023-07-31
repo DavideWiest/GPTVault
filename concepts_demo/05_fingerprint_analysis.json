@@ -1,0 +1,14 @@
+{
+    "title": "Fingerprint analysis",
+    "definition": "The scientific study and comparison of fingerprints for identification purposes.",
+    "known_since": "1892",
+    "child_concepts": [
+        "Fingerprint classification",
+        "Fingerprint identification"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Biometrics"
+    ],
+    "depth": 5
+}

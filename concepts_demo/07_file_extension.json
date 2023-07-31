@@ -1,0 +1,14 @@
+{
+    "title": "File Extension",
+    "definition": "A file extension is a suffix at the end of a filename that indicates the format or type of the file.",
+    "known_since": "1971",
+    "child_concepts": [
+        "File Format",
+        "MIME Type"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Information Technology"
+    ],
+    "depth": 7
+}

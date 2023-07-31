@@ -1,0 +1,15 @@
+{
+    "title": "Expanded Form",
+    "definition": "Expanded form is a way of writing a number as the sum of its place values. It involves breaking down a number into its individual digits and multiplying each digit by its corresponding place value.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Place Value",
+        "Addition",
+        "Multiplication"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Number System"
+    ],
+    "depth": 8
+}

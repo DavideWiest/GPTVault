@@ -1,0 +1,16 @@
+{
+    "title": "mtDNA testing",
+    "definition": "mtDNA testing is a type of genetic testing that examines the DNA in the mitochondria, which is inherited maternally. It is used to trace maternal ancestry and study genetic variations related to mitochondrial diseases.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Mitochondrial DNA",
+        "Maternal Ancestry",
+        "Mitochondrial Diseases"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Ancestry",
+        "Medical Research"
+    ],
+    "depth": 8
+}

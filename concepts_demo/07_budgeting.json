@@ -1,0 +1,14 @@
+{
+    "title": "Budgeting",
+    "definition": "The process of creating a plan to manage and allocate financial resources.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Personal Budgeting",
+        "Business Budgeting"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Accounting"
+    ],
+    "depth": 7
+}

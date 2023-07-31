@@ -1,0 +1,14 @@
+{
+    "title": "Future Value",
+    "definition": "The value of an asset or investment at a specified date in the future, based on the assumption of compound interest.",
+    "known_since": "300",
+    "child_concepts": [
+        "Present Value",
+        "Compound Interest"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 7
+}

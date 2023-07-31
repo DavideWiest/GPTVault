@@ -1,0 +1,14 @@
+{
+    "title": "Covariance Matrix",
+    "definition": "A covariance matrix is a square matrix that summarizes the covariance between multiple variables.",
+    "known_since": "1901",
+    "child_concepts": [
+        "Covariance",
+        "Matrix"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Linear Algebra"
+    ],
+    "depth": 7
+}

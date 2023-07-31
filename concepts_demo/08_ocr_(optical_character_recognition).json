@@ -1,0 +1,14 @@
+{
+    "title": "OCR (Optical Character Recognition)",
+    "definition": "OCR (Optical Character Recognition) is a technology that enables the recognition and extraction of text from images or scanned documents. It involves the use of algorithms and machine learning techniques to convert the visual representation of characters into machine-readable text.",
+    "known_since": "1951",
+    "child_concepts": [
+        "Document Analysis",
+        "Text Extraction"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

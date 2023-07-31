@@ -1,0 +1,14 @@
+{
+    "title": "Rational Decision Making",
+    "definition": "The process of making choices based on logical reasoning and objective analysis.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Decision Matrix",
+        "Cost-Benefit Analysis"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Psychology"
+    ],
+    "depth": 4
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Spherical Coordinates",
+    "definition": "A system of coordinates used to locate points in three-dimensional space using two angles and a distance from a reference point.",
+    "known_since": "3rd century BC",
+    "child_concepts": [
+        "Cartesian Coordinates",
+        "Cylindrical Coordinates"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 8
+}

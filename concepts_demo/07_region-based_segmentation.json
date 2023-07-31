@@ -1,0 +1,14 @@
+{
+    "title": "Region-based segmentation",
+    "definition": "A technique used in image processing to divide an image into regions based on certain characteristics or criteria.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Region growing",
+        "Watershed segmentation"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Image Processing"
+    ],
+    "depth": 7
+}

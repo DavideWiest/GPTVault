@@ -1,0 +1,15 @@
+{
+    "title": "Coordinates",
+    "definition": "Coordinates are sets of numbers used to determine the position or location of a point in a space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Latitude",
+        "Longitude"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography",
+        "Navigation"
+    ],
+    "depth": 7
+}

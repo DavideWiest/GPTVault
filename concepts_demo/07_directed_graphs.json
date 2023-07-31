@@ -1,0 +1,14 @@
+{
+    "title": "Directed Graphs",
+    "definition": "A directed graph is a graph that is made up of a set of vertices connected by directed edges.",
+    "known_since": "1736",
+    "child_concepts": [
+        "Directed Acyclic Graphs",
+        "Weighted Directed Graphs"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics"
+    ],
+    "depth": 7
+}

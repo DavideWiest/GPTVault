@@ -1,0 +1,14 @@
+{
+    "title": "Acoustic Phonetics",
+    "definition": "The study of the physical properties of sounds in human language.",
+    "known_since": "1877",
+    "child_concepts": [
+        "Phonemes",
+        "Spectrograms"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Speech Science"
+    ],
+    "depth": 7
+}

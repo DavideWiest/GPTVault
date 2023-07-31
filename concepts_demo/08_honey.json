@@ -1,0 +1,16 @@
+{
+    "title": "Honey",
+    "definition": "A sweet, viscous food substance produced by bees and some related insects.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Honeycomb",
+        "Honey bee",
+        "Beekeeping"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Food",
+        "Agriculture"
+    ],
+    "depth": 8
+}

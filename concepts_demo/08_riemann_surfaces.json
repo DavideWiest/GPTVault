@@ -1,0 +1,14 @@
+{
+    "title": "Riemann surfaces",
+    "definition": "In mathematics, a Riemann surface is a one-dimensional complex manifold. These surfaces were first studied by Bernhard Riemann, a German mathematician, in the mid-19th century. They are named after him in recognition of his pioneering work in the field.",
+    "known_since": "1851",
+    "child_concepts": [
+        "Analytic functions",
+        "Complex analysis"
+    ],
+    "concept_fields": [
+        "Complex geometry",
+        "Topology"
+    ],
+    "depth": 8
+}

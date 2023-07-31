@@ -1,0 +1,14 @@
+{
+    "title": "Infinity symbol",
+    "definition": "The infinity symbol (\u221e) represents a concept of endlessness or limitless value.",
+    "known_since": "1655",
+    "child_concepts": [
+        "Infinity",
+        "Infinity loop"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Philosophy"
+    ],
+    "depth": 8
+}

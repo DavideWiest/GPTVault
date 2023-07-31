@@ -1,0 +1,15 @@
+{
+    "title": "Capital punishment",
+    "definition": "The legal process of executing a person as a punishment for a crime.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Death penalty",
+        "Execution methods"
+    ],
+    "concept_fields": [
+        "Law",
+        "Justice",
+        "Crime"
+    ],
+    "depth": 7
+}

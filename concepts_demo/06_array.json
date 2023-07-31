@@ -1,0 +1,14 @@
+{
+    "title": "Array",
+    "definition": "An array is a data structure that stores a collection of elements, each identified by an index or key.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Element",
+        "Index"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures"
+    ],
+    "depth": 6
+}

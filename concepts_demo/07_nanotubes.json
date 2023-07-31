@@ -1,0 +1,16 @@
+{
+    "title": "Nanotubes",
+    "definition": "Cylindrical nanostructures with a diameter on the order of nanometers.",
+    "known_since": "1991",
+    "child_concepts": [
+        "Carbon nanotubes",
+        "Metal nanotubes",
+        "Semiconductor nanotubes"
+    ],
+    "concept_fields": [
+        "Nanotechnology",
+        "Materials Science",
+        "Electronics"
+    ],
+    "depth": 7
+}

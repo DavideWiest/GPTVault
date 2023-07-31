@@ -1,0 +1,14 @@
+{
+    "title": "Standard Deviation",
+    "definition": "A measure of the amount of variation or dispersion of a set of values.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Variance",
+        "Normal Distribution"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability Theory"
+    ],
+    "depth": 7
+}

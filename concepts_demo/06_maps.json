@@ -1,0 +1,15 @@
+{
+    "title": "Maps",
+    "definition": "A representation of an area, typically on a flat surface, showing various features such as roads, buildings, and geographical boundaries.",
+    "known_since": "2500 BC",
+    "child_concepts": [
+        "Topographic maps",
+        "Political maps",
+        "Physical maps"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography"
+    ],
+    "depth": 6
+}

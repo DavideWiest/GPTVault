@@ -1,0 +1,14 @@
+{
+    "title": "Mode",
+    "definition": "The mode is the value that appears most frequently in a dataset.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Mean",
+        "Median"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 6
+}

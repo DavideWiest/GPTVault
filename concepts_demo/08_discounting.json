@@ -1,0 +1,14 @@
+{
+    "title": "Discounting",
+    "definition": "The process of determining the present value of future cash flows by applying a discount rate.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Net Present Value",
+        "Internal Rate of Return"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Economics"
+    ],
+    "depth": 8
+}

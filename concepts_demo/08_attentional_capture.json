@@ -1,0 +1,14 @@
+{
+    "title": "Attentional capture",
+    "definition": "Attentional capture refers to the phenomenon in which attention is involuntarily drawn to a specific stimulus in the environment, often due to its salience or relevance.",
+    "known_since": "1998",
+    "child_concepts": [
+        "Selective attention",
+        "Visual search"
+    ],
+    "concept_fields": [
+        "Cognitive psychology",
+        "Perception"
+    ],
+    "depth": 8
+}

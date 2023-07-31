@@ -1,0 +1,16 @@
+{
+    "title": "Analytic Hierarchy Process",
+    "definition": "The Analytic Hierarchy Process (AHP) is a decision-making framework developed by Thomas L. Saaty in the 1970s. It is a structured technique for organizing and analyzing complex decisions, based on mathematics and psychology.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Criteria weighting",
+        "Pairwise comparison",
+        "Consistency ratio"
+    ],
+    "concept_fields": [
+        "Decision-making",
+        "Mathematics",
+        "Psychology"
+    ],
+    "depth": 8
+}

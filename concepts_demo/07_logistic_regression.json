@@ -1,0 +1,14 @@
+{
+    "title": "Logistic Regression",
+    "definition": "A statistical model used to predict the probability of a binary outcome based on one or more predictor variables.",
+    "known_since": "1958",
+    "child_concepts": [
+        "Binary Logistic Regression",
+        "Multinomial Logistic Regression"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

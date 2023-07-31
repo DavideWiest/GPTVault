@@ -1,0 +1,14 @@
+{
+    "title": "Short Vowels",
+    "definition": "Short vowels are vowel sounds that are pronounced briefly and without any change in quality.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Long Vowels",
+        "Vowel Sounds"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

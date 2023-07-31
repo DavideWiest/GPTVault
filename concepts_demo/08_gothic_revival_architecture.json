@@ -1,0 +1,14 @@
+{
+    "title": "Gothic Revival Architecture",
+    "definition": "Gothic Revival Architecture is a style of architecture that emerged in the late 18th century and was popularized in the 19th century. It is characterized by the use of Gothic elements such as pointed arches, ribbed vaults, and flying buttresses, often combined with modern construction techniques and materials.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Neo-Gothic Architecture",
+        "Victorian Gothic Architecture"
+    ],
+    "concept_fields": [
+        "Architectural History",
+        "Architectural Styles"
+    ],
+    "depth": 8
+}

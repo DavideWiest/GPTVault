@@ -1,0 +1,14 @@
+{
+    "title": "Mediation",
+    "definition": "A process in which a neutral third party helps facilitate communication and negotiation between parties to resolve a dispute.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Arbitration",
+        "Negotiation"
+    ],
+    "concept_fields": [
+        "Law",
+        "Conflict Resolution"
+    ],
+    "depth": 6
+}

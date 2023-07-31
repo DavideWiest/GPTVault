@@ -1,0 +1,14 @@
+{
+    "title": "Routine",
+    "definition": "A sequence of actions regularly followed.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Habit",
+        "Schedule"
+    ],
+    "concept_fields": [
+        "Time management",
+        "Productivity"
+    ],
+    "depth": 8
+}

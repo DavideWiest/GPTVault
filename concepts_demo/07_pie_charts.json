@@ -1,0 +1,14 @@
+{
+    "title": "Pie Charts",
+    "definition": "A pie chart is a circular statistical graphic that is divided into slices to illustrate numerical proportion.",
+    "known_since": "1801",
+    "child_concepts": [
+        "Data Visualization",
+        "Charts"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Oblique",
+    "definition": "Not straightforward or direct; indirect or evasive",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Slope",
+        "Inclined"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Linguistics"
+    ],
+    "depth": 5
+}

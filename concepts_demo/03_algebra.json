@@ -1,0 +1,16 @@
+{
+    "title": "Algebra",
+    "definition": "Algebra is a branch of mathematics that deals with symbols and the rules for manipulating those symbols to solve equations and analyze mathematical relationships.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Equations",
+        "Inequalities",
+        "Polynomials"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Computer Science"
+    ],
+    "depth": 3
+}

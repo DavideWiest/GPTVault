@@ -1,0 +1,14 @@
+{
+    "title": "Solving Linear Inequalities",
+    "definition": "Solving linear inequalities involves finding the set of values that satisfy the inequality statement. It is similar to solving linear equations, but instead of finding a single solution, we find a range of values that make the inequality true.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Graphing Linear Inequalities",
+        "Solving Systems of Linear Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

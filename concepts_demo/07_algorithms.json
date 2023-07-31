@@ -1,0 +1,15 @@
+{
+    "title": "Algorithms",
+    "definition": "Algorithms are step-by-step procedures or instructions for solving a problem or completing a task.",
+    "known_since": "9th century AD",
+    "child_concepts": [
+        "Sorting algorithms",
+        "Search algorithms",
+        "Graph algorithms"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Differential Equations",
+    "definition": "Differential equations are mathematical equations that describe how a function changes over time or space, involving its derivatives.",
+    "known_since": "1676",
+    "child_concepts": [
+        "Ordinary Differential Equations",
+        "Partial Differential Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Engineering"
+    ],
+    "depth": 5
+}

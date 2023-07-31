@@ -1,0 +1,14 @@
+{
+    "title": "Thresholding",
+    "definition": "A technique used in image processing to separate objects from the background based on pixel intensity.",
+    "known_since": "1965",
+    "child_concepts": [
+        "Global Thresholding",
+        "Adaptive Thresholding"
+    ],
+    "concept_fields": [
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "depth": 7
+}

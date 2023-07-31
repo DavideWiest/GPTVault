@@ -1,0 +1,16 @@
+{
+    "title": "Topographic maps",
+    "definition": "Topographic maps are detailed and accurate representations of natural and man-made features on the Earth's surface. They provide information about the shape, elevation, and relief of the land, as well as other features such as rivers, lakes, roads, and buildings.",
+    "known_since": "1877",
+    "child_concepts": [
+        "Contour lines",
+        "Scale",
+        "Symbols"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography",
+        "Surveying"
+    ],
+    "depth": 8
+}

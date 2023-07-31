@@ -1,0 +1,14 @@
+{
+    "title": "Square",
+    "definition": "A four-sided polygon with equal sides and right angles.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Rectangle",
+        "Rhombus"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 6
+}

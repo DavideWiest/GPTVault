@@ -1,0 +1,16 @@
+{
+    "title": "Technology",
+    "definition": "The application of scientific knowledge for practical purposes, especially in industry.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Information Technology",
+        "Biotechnology",
+        "Nanotechnology"
+    ],
+    "concept_fields": [
+        "Engineering",
+        "Computer Science",
+        "Electronics"
+    ],
+    "depth": 4
+}

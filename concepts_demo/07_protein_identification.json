@@ -1,0 +1,14 @@
+{
+    "title": "Protein identification",
+    "definition": "The process of determining the identity of a protein or proteins in a sample.",
+    "known_since": "1951",
+    "child_concepts": [
+        "Protein sequencing",
+        "Protein fingerprinting"
+    ],
+    "concept_fields": [
+        "Biochemistry",
+        "Proteomics"
+    ],
+    "depth": 7
+}

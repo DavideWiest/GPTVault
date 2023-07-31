@@ -1,0 +1,14 @@
+{
+    "title": "Average Product",
+    "definition": "The average product is a measure of the average output produced by each unit of input in the production process.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Total Product",
+        "Marginal Product"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Production Theory"
+    ],
+    "depth": 8
+}

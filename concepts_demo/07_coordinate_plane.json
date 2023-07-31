@@ -1,0 +1,14 @@
+{
+    "title": "Coordinate Plane",
+    "definition": "A two-dimensional plane formed by the intersection of two perpendicular number lines, called the x-axis and y-axis.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Quadrants",
+        "Ordered Pairs"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Algebra"
+    ],
+    "depth": 7
+}

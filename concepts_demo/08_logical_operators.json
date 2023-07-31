@@ -1,0 +1,16 @@
+{
+    "title": "Logical operators",
+    "definition": "Logical operators are symbols or words used to connect two or more conditions in a logical statement.",
+    "known_since": "The concept of logical operators has been known since the early development of formal logic, which dates back to ancient Greece.",
+    "child_concepts": [
+        "AND operator",
+        "OR operator",
+        "NOT operator"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 8
+}

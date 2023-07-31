@@ -1,0 +1,15 @@
+{
+    "title": "Contextual intelligence",
+    "definition": "Contextual intelligence refers to the ability to understand and interpret information within its specific context, taking into account the surrounding circumstances, environment, and relevant factors.",
+    "known_since": "1987",
+    "child_concepts": [
+        "Situational awareness",
+        "Cultural intelligence"
+    ],
+    "concept_fields": [
+        "Artificial intelligence",
+        "Data analysis",
+        "Decision-making"
+    ],
+    "depth": 8
+}

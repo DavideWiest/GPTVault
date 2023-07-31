@@ -1,0 +1,14 @@
+{
+    "title": "Affricates",
+    "definition": "A type of consonant sound that begins as a stop and releases as a fricative",
+    "known_since": "1800",
+    "child_concepts": [
+        "Stop consonants",
+        "Fricative consonants"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 6
+}

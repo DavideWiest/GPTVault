@@ -1,0 +1,13 @@
+{
+    "title": "Maternity testing",
+    "definition": "A process used to determine the biological mother of a child.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Paternity testing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Forensics"
+    ],
+    "depth": 7
+}

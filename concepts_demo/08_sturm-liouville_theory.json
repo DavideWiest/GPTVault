@@ -1,0 +1,14 @@
+{
+    "title": "Sturm-Liouville Theory",
+    "definition": "Sturm-Liouville theory is a mathematical theory that deals with second-order linear ordinary differential equations. It provides a framework for solving these equations by transforming them into a standard form and finding the eigenvalues and eigenfunctions of the associated Sturm-Liouville operator.",
+    "known_since": "1837",
+    "child_concepts": [
+        "Eigenvalue Problems",
+        "Orthogonal Functions"
+    ],
+    "concept_fields": [
+        "Differential Equations",
+        "Functional Analysis"
+    ],
+    "depth": 8
+}

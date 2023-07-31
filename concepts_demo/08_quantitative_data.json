@@ -1,0 +1,14 @@
+{
+    "title": "Quantitative data",
+    "definition": "Quantitative data refers to information that can be measured and expressed numerically. It is based on quantities and can be analyzed using mathematical and statistical methods.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Descriptive statistics",
+        "Inferential statistics"
+    ],
+    "concept_fields": [
+        "Data analysis",
+        "Statistics"
+    ],
+    "depth": 8
+}

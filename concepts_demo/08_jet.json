@@ -1,0 +1,15 @@
+{
+    "title": "Jet",
+    "definition": "A jet is a type of aircraft that uses jet engines to generate thrust, allowing it to fly at high speeds.",
+    "known_since": "1939",
+    "child_concepts": [
+        "Jet engine",
+        "Supersonic jet",
+        "Business jet"
+    ],
+    "concept_fields": [
+        "Aerospace engineering",
+        "Aviation"
+    ],
+    "depth": 8
+}

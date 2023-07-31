@@ -1,0 +1,14 @@
+{
+    "title": "Stop consonants",
+    "definition": "Stop consonants are a type of consonant sound produced by completely blocking the airflow in the vocal tract.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Plosives",
+        "Affricates"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

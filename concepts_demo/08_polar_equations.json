@@ -1,0 +1,15 @@
+{
+    "title": "Polar Equations",
+    "definition": "Polar equations are mathematical equations expressed in terms of polar coordinates, which represent points in a plane using a distance from the origin and an angle from a reference direction.",
+    "known_since": "17",
+    "child_concepts": [
+        "Polar Coordinates",
+        "Polar Graphs"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry",
+        "Trigonometry"
+    ],
+    "depth": 8
+}

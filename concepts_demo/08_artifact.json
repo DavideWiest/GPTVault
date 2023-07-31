@@ -1,0 +1,17 @@
+{
+    "title": "Artifact",
+    "definition": "An object made or modified by humans that has cultural, historical, or scientific significance.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Archaeological artifact",
+        "Artificial artifact",
+        "Natural artifact"
+    ],
+    "concept_fields": [
+        "Archaeology",
+        "Anthropology",
+        "History",
+        "Museum studies"
+    ],
+    "depth": 8
+}

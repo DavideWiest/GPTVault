@@ -1,0 +1,15 @@
+{
+    "title": "Change blindness",
+    "definition": "Change blindness is a perceptual phenomenon that occurs when a person fails to notice changes in their visual environment.",
+    "known_since": "1997",
+    "child_concepts": [
+        "Inattentional blindness",
+        "Visual attention",
+        "Perception"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive science"
+    ],
+    "depth": 7
+}

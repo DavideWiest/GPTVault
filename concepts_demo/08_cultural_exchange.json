@@ -1,0 +1,16 @@
+{
+    "title": "Cultural Exchange",
+    "definition": "Cultural exchange refers to the process of sharing and exchanging ideas, beliefs, customs, traditions, and practices between different cultures.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Language Exchange",
+        "Food Exchange",
+        "Art Exchange"
+    ],
+    "concept_fields": [
+        "Anthropology",
+        "Sociology",
+        "International Relations"
+    ],
+    "depth": 8
+}

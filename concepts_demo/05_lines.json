@@ -1,0 +1,16 @@
+{
+    "title": "Lines",
+    "definition": "A line is a straight path that extends infinitely in both directions.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Line segment",
+        "Ray",
+        "Parallel lines"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 5
+}

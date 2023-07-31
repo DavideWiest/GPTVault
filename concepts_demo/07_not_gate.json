@@ -1,0 +1,14 @@
+{
+    "title": "NOT gate",
+    "definition": "A logic gate that outputs the opposite of its input",
+    "known_since": "1956",
+    "child_concepts": [
+        "AND gate",
+        "OR gate"
+    ],
+    "concept_fields": [
+        "Digital logic",
+        "Computer science"
+    ],
+    "depth": 7
+}

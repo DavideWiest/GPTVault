@@ -1,0 +1,15 @@
+{
+    "title": "Blending",
+    "definition": "The process of combining two or more substances or elements to create a homogeneous mixture.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Mixing",
+        "Fusion"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Cooking",
+        "Art"
+    ],
+    "depth": 4
+}

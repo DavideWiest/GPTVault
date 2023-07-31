@@ -1,0 +1,15 @@
+{
+    "title": "Vertex Form",
+    "definition": "A form of a quadratic equation that represents a parabola in the form y = a(x-h)^2 + k, where (h, k) is the vertex of the parabola.",
+    "known_since": "9th century",
+    "child_concepts": [
+        "Quadratic Equations",
+        "Parabola",
+        "Vertex"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 7
+}

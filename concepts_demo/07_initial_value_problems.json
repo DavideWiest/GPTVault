@@ -1,0 +1,14 @@
+{
+    "title": "Initial Value Problems",
+    "definition": "Initial Value Problems refer to a type of differential equation where the solution is determined by specifying the initial conditions.",
+    "known_since": "17",
+    "child_concepts": [
+        "Boundary Value Problems",
+        "Partial Differential Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 7
+}

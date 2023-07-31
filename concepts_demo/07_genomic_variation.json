@@ -1,0 +1,16 @@
+{
+    "title": "Genomic Variation",
+    "definition": "Genomic variation refers to the differences in the DNA sequence among individuals of the same species.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Single Nucleotide Polymorphism (SNP)",
+        "Insertion/Deletion (Indel)",
+        "Copy Number Variation (CNV)"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Molecular Biology",
+        "Bioinformatics"
+    ],
+    "depth": 7
+}

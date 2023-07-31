@@ -1,0 +1,15 @@
+{
+    "title": "Null pointer",
+    "definition": "A null pointer is a value that points to no object or address in memory.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Dangling pointer",
+        "Null reference",
+        "Null object pattern"
+    ],
+    "concept_fields": [
+        "Computer programming",
+        "Software engineering"
+    ],
+    "depth": 7
+}

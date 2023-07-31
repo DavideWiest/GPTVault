@@ -1,0 +1,14 @@
+{
+    "title": "Curvature",
+    "definition": "The measure of how much a curve deviates from being a straight line.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Radius of Curvature",
+        "Curvature Tensor"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 5
+}

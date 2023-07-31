@@ -1,0 +1,14 @@
+{
+    "title": "Strategic Planning",
+    "definition": "A systematic process of envisioning a desired future and translating this vision into defined goals, objectives, and action plans.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Goal Setting",
+        "SWOT Analysis"
+    ],
+    "concept_fields": [
+        "Business Management",
+        "Project Management"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Long-term memory",
+    "definition": "Long-term memory is the stage of the memory system that stores a large amount of information for a long period of time. It is responsible for the storage and retrieval of information that is not currently in the conscious mind.",
+    "known_since": "1890",
+    "child_concepts": [
+        "Episodic memory",
+        "Semantic memory"
+    ],
+    "concept_fields": [
+        "Neuroscience",
+        "Psychology"
+    ],
+    "depth": 8
+}

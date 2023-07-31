@@ -1,0 +1,16 @@
+{
+    "title": "Fragrance",
+    "definition": "Fragrance refers to a pleasant or sweet smell, typically resulting from the presence of aromatic compounds.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Perfume",
+        "Aroma",
+        "Scent"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Perception",
+        "Cosmetics"
+    ],
+    "depth": 8
+}

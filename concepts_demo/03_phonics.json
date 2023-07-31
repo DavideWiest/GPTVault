@@ -1,0 +1,16 @@
+{
+    "title": "Phonics",
+    "definition": "The method of teaching reading and writing by developing phonemic awareness and the understanding that letters represent sounds.",
+    "known_since": "1875",
+    "child_concepts": [
+        "Phonemes",
+        "Graphemes",
+        "Blending",
+        "Segmenting"
+    ],
+    "concept_fields": [
+        "Education",
+        "Linguistics"
+    ],
+    "depth": 3
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Trinomials",
+    "definition": "Trinomials are algebraic expressions that consist of three terms.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Factoring trinomials",
+        "Solving trinomial equations"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Polynomials"
+    ],
+    "depth": 5
+}

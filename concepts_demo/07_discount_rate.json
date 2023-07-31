@@ -1,0 +1,14 @@
+{
+    "title": "Discount Rate",
+    "definition": "The discount rate is the interest rate used to determine the present value of future cash flows.",
+    "known_since": "1930",
+    "child_concepts": [
+        "Net Present Value",
+        "Internal Rate of Return"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Economics"
+    ],
+    "depth": 7
+}

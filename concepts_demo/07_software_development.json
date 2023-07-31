@@ -1,0 +1,15 @@
+{
+    "title": "Software Development",
+    "definition": "The process of designing, coding, testing, and maintaining software applications.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Agile Development",
+        "Waterfall Model",
+        "Object-Oriented Programming"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Software Engineering"
+    ],
+    "depth": 7
+}

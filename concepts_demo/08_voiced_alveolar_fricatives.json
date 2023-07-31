@@ -1,0 +1,14 @@
+{
+    "title": "Voiced alveolar fricatives",
+    "definition": "Voiced alveolar fricatives are consonant sounds produced by forcing air through a narrow channel formed by the tongue and the alveolar ridge, while simultaneously vibrating the vocal cords.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiced dental fricatives",
+        "Voiced postalveolar fricatives"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

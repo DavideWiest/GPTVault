@@ -1,0 +1,16 @@
+{
+    "title": "Social Security",
+    "definition": "A government program that provides financial support to individuals who are retired, disabled, or unemployed.",
+    "known_since": "1935",
+    "child_concepts": [
+        "Retirement benefits",
+        "Disability benefits",
+        "Unemployment benefits"
+    ],
+    "concept_fields": [
+        "Government",
+        "Finance",
+        "Insurance"
+    ],
+    "depth": 8
+}

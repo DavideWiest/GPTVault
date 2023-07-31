@@ -1,0 +1,14 @@
+{
+    "title": "Fingerprint identification",
+    "definition": "The process of analyzing and comparing fingerprints to determine the identity of an individual.",
+    "known_since": "1892",
+    "child_concepts": [
+        "Fingerprint classification",
+        "Fingerprint matching"
+    ],
+    "concept_fields": [
+        "Forensic science",
+        "Biometrics"
+    ],
+    "depth": 6
+}

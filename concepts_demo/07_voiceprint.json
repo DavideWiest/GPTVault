@@ -1,0 +1,14 @@
+{
+    "title": "Voiceprint",
+    "definition": "A unique representation of an individual's voice, based on vocal characteristics such as pitch, tone, and timbre.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Speaker Recognition",
+        "Voice Biometrics"
+    ],
+    "concept_fields": [
+        "Speech Analysis",
+        "Forensic Science"
+    ],
+    "depth": 7
+}

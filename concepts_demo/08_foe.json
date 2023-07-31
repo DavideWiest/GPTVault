@@ -1,0 +1,14 @@
+{
+    "title": "Foe",
+    "definition": "A foe is an enemy or adversary.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Rival",
+        "Opponent"
+    ],
+    "concept_fields": [
+        "Conflict",
+        "Competition"
+    ],
+    "depth": 8
+}

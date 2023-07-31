@@ -1,0 +1,14 @@
+{
+    "title": "Arbitration",
+    "definition": "Arbitration is a method of resolving disputes outside of the court system, where a neutral third party, called an arbitrator, listens to both sides and makes a binding decision.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Mediation",
+        "Adjudication"
+    ],
+    "concept_fields": [
+        "Law",
+        "Conflict Resolution"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Somatic Cell Nuclear Transfer",
+    "definition": "Somatic Cell Nuclear Transfer (SCNT) is a laboratory technique used to create an embryo by transferring the nucleus of a somatic cell into an enucleated egg cell.",
+    "known_since": "1996",
+    "child_concepts": [
+        "Cloning",
+        "Embryonic Stem Cells"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Reproductive Biology"
+    ],
+    "depth": 8
+}

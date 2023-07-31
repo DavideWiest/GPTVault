@@ -1,0 +1,16 @@
+{
+    "title": "User Interface Design",
+    "definition": "User Interface Design is the process of designing the visual layout and interaction of a software application or website, with the goal of enhancing user experience and usability.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Information Architecture",
+        "Interaction Design",
+        "Visual Design"
+    ],
+    "concept_fields": [
+        "Usability",
+        "User Experience",
+        "Human-Computer Interaction"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Memory",
+    "definition": "The ability to encode, store, and retrieve information.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Short-term memory",
+        "Long-term memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 3
+}

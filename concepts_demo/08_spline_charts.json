@@ -1,0 +1,14 @@
+{
+    "title": "Spline charts",
+    "definition": "Spline charts are a type of line chart that uses smooth curves to connect data points.",
+    "known_since": "1962",
+    "child_concepts": [
+        "Interpolation",
+        "Curve fitting"
+    ],
+    "concept_fields": [
+        "Data visualization",
+        "Mathematics"
+    ],
+    "depth": 8
+}

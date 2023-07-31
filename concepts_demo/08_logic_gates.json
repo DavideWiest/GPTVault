@@ -1,0 +1,15 @@
+{
+    "title": "Logic gates",
+    "definition": "Logic gates are electronic devices that perform basic logical functions, such as AND, OR, and NOT, on one or more binary inputs to produce a binary output.",
+    "known_since": "1847",
+    "child_concepts": [
+        "AND gate",
+        "OR gate",
+        "NOT gate"
+    ],
+    "concept_fields": [
+        "Digital electronics",
+        "Boolean algebra"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Voiced palato-alveolar affricate",
+    "definition": "A speech sound that begins as a stop consonant and releases as a fricative, produced by narrowing the space between the tongue and the roof of the mouth.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Alveolar affricate",
+        "Palatal affricate"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 7
+}

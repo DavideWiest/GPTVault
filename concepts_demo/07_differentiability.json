@@ -1,0 +1,14 @@
+{
+    "title": "Differentiability",
+    "definition": "The property of a function that allows it to have a derivative at a certain point.",
+    "known_since": "17",
+    "child_concepts": [
+        "Derivative",
+        "Continuity"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Mathematics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Marketing Planning",
+    "definition": "The process of creating a strategic plan to guide marketing activities and achieve marketing objectives.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Market Research",
+        "Marketing Strategy",
+        "Marketing Mix"
+    ],
+    "concept_fields": [
+        "Market Analysis",
+        "Target Audience",
+        "Marketing Budget"
+    ],
+    "depth": 6
+}

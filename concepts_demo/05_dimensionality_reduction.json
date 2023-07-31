@@ -1,0 +1,14 @@
+{
+    "title": "Dimensionality Reduction",
+    "definition": "Dimensionality reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables.",
+    "known_since": "1933",
+    "child_concepts": [
+        "Principal Component Analysis",
+        "Linear Discriminant Analysis"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Data Analysis"
+    ],
+    "depth": 5
+}

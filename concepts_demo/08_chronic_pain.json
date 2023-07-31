@@ -1,0 +1,16 @@
+{
+    "title": "Chronic pain",
+    "definition": "Chronic pain is persistent or recurrent pain that lasts for more than three months. It can result from an injury, illness, or an underlying medical condition.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Neuropathic pain",
+        "Inflammatory pain",
+        "Nociceptive pain"
+    ],
+    "concept_fields": [
+        "Anatomy",
+        "Physiology",
+        "Psychology"
+    ],
+    "depth": 8
+}

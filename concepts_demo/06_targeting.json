@@ -1,0 +1,14 @@
+{
+    "title": "Targeting",
+    "definition": "The process of selecting a specific audience or group of individuals to focus marketing efforts on.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Demographic targeting",
+        "Behavioral targeting"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Advertising"
+    ],
+    "depth": 6
+}

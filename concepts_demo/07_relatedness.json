@@ -1,0 +1,16 @@
+{
+    "title": "Relatedness",
+    "definition": "The state or condition of being related or connected to something or someone else.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Family",
+        "Kinship",
+        "Friendship"
+    ],
+    "concept_fields": [
+        "Anthropology",
+        "Sociology",
+        "Psychology"
+    ],
+    "depth": 7
+}

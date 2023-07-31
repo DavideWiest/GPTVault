@@ -1,0 +1,14 @@
+{
+    "title": "Significant Figures",
+    "definition": "Significant figures, also known as significant digits, are the digits in a number that carry meaningful information about its precision. They include all the digits that are known with certainty plus one uncertain or estimated digit.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Rounding",
+        "Scientific Notation"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Measurement"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Ordered Pairs",
+    "definition": "In mathematics, an ordered pair is a pair of mathematical objects (such as numbers) for which the order of the elements is significant. The ordered pair (a, b) is different from the ordered pair (b, a) unless a = b.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Cartesian Coordinates",
+        "Coordinate Plane"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 8
+}

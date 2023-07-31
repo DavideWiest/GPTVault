@@ -1,0 +1,15 @@
+{
+    "title": "Speech Recognition",
+    "definition": "Speech recognition is the technology that allows a computer to convert spoken language into written text or commands. It involves the analysis of audio signals to identify and interpret the words spoken by a person.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Automatic Speech Recognition",
+        "Natural Language Processing"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Signal Processing",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

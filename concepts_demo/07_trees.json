@@ -1,0 +1,16 @@
+{
+    "title": "Trees",
+    "definition": "Tall, perennial plants with a trunk and branches made of wood",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Deciduous trees",
+        "Evergreen trees",
+        "Fruit trees"
+    ],
+    "concept_fields": [
+        "Botany",
+        "Forestry",
+        "Ecology"
+    ],
+    "depth": 7
+}

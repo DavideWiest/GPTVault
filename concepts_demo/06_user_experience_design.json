@@ -1,0 +1,16 @@
+{
+    "title": "User experience design",
+    "definition": "User experience design (UX design) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Information architecture",
+        "Interaction design",
+        "Visual design"
+    ],
+    "concept_fields": [
+        "Human-computer interaction",
+        "Psychology",
+        "Usability testing"
+    ],
+    "depth": 6
+}

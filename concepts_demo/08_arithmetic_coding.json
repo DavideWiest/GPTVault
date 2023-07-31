@@ -1,0 +1,14 @@
+{
+    "title": "Arithmetic Coding",
+    "definition": "Arithmetic coding is a form of entropy encoding used in lossless data compression. It is a variable-length code that assigns a fractional number to each symbol or sequence of symbols to be encoded.",
+    "known_since": "1976",
+    "child_concepts": [
+        "Adaptive Arithmetic Coding",
+        "Range Encoding"
+    ],
+    "concept_fields": [
+        "Information Theory",
+        "Data Compression"
+    ],
+    "depth": 8
+}

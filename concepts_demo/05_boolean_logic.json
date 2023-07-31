@@ -1,0 +1,15 @@
+{
+    "title": "Boolean logic",
+    "definition": "Boolean logic is a branch of mathematics and logic that deals with variables and logical operations, such as AND, OR, and NOT.",
+    "known_since": "1847",
+    "child_concepts": [
+        "Boolean algebra",
+        "Propositional logic"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Mathematics",
+        "Logic"
+    ],
+    "depth": 5
+}

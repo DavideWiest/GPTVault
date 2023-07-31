@@ -1,0 +1,14 @@
+{
+    "title": "Gradient",
+    "definition": "The rate of change of a quantity with respect to another quantity.",
+    "known_since": "1669",
+    "child_concepts": [
+        "Slope",
+        "Derivative"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 7
+}

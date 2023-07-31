@@ -1,0 +1,14 @@
+{
+    "title": "Inverted Index",
+    "definition": "An index data structure that maps content to its locations in a document or a set of documents.",
+    "known_since": "1956",
+    "child_concepts": [
+        "Posting List",
+        "Term Frequency-Inverse Document Frequency (TF-IDF)"
+    ],
+    "concept_fields": [
+        "Information Retrieval",
+        "Search Engines"
+    ],
+    "depth": 7
+}

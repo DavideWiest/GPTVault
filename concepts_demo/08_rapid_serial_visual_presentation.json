@@ -1,0 +1,15 @@
+{
+    "title": "Rapid Serial Visual Presentation",
+    "definition": "Rapid Serial Visual Presentation (RSVP) is a method of displaying information rapidly in a sequential manner, typically using a computer or electronic device. In RSVP, individual elements such as words or images are presented one after another at a high speed, allowing the viewer to process the information quickly.",
+    "known_since": "1967",
+    "child_concepts": [
+        "Attentional Blink",
+        "Tachistoscope"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Information Processing",
+        "Cognitive Science"
+    ],
+    "depth": 8
+}

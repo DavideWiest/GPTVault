@@ -1,0 +1,14 @@
+{
+    "title": "Descriptive Statistics",
+    "definition": "Descriptive statistics is a branch of statistics that focuses on summarizing and describing the main features of a dataset.",
+    "known_since": "1663",
+    "child_concepts": [
+        "Measures of Central Tendency",
+        "Measures of Dispersion"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data Analysis"
+    ],
+    "depth": 4
+}

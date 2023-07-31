@@ -1,0 +1,14 @@
+{
+    "title": "Multidimensional Arrays",
+    "definition": "Arrays that contain other arrays as elements.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Two-dimensional Arrays",
+        "Three-dimensional Arrays"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Data Structures"
+    ],
+    "depth": 6
+}

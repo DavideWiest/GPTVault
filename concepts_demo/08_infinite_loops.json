@@ -1,0 +1,14 @@
+{
+    "title": "Infinite loops",
+    "definition": "An infinite loop is a sequence of instructions in a computer program that loops endlessly, either due to a coding error or intentionally.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Nested loops",
+        "Recursion"
+    ],
+    "concept_fields": [
+        "Computer programming",
+        "Software development"
+    ],
+    "depth": 8
+}

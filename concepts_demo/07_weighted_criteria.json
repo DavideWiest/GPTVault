@@ -1,0 +1,14 @@
+{
+    "title": "Weighted Criteria",
+    "definition": "A method of evaluating options or alternatives by assigning weights to different criteria based on their relative importance.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Decision Matrix",
+        "Analytic Hierarchy Process"
+    ],
+    "concept_fields": [
+        "Decision Making",
+        "Evaluation"
+    ],
+    "depth": 7
+}

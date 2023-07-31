@@ -1,0 +1,14 @@
+{
+    "title": "Concentration",
+    "definition": "The ability to focus one's attention on a specific task or object.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Attention",
+        "Focus"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Education"
+    ],
+    "depth": 7
+}

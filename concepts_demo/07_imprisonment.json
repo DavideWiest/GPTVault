@@ -1,0 +1,15 @@
+{
+    "title": "Imprisonment",
+    "definition": "The state of being confined in a prison or jail as a punishment or while awaiting trial.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Solitary Confinement",
+        "Parole",
+        "Recidivism"
+    ],
+    "concept_fields": [
+        "Criminal Justice",
+        "Law Enforcement"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Embryonic Stem Cells",
+    "definition": "Embryonic stem cells are pluripotent cells derived from the inner cell mass of a blastocyst, an early-stage embryo.",
+    "known_since": "1981",
+    "child_concepts": [
+        "Differentiation potential",
+        "Pluripotency",
+        "Blastocyst"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Developmental Biology",
+        "Regenerative Medicine"
+    ],
+    "depth": 8
+}

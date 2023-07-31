@@ -1,0 +1,16 @@
+{
+    "title": "Pressure",
+    "definition": "The force applied perpendicular to the surface of an object per unit area.",
+    "known_since": "1643",
+    "child_concepts": [
+        "Atmospheric pressure",
+        "Hydrostatic pressure",
+        "Pascal's law"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Engineering",
+        "Fluid mechanics"
+    ],
+    "depth": 7
+}

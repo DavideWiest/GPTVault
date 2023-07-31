@@ -1,0 +1,16 @@
+{
+    "title": "Convolutional Neural Networks",
+    "definition": "Convolutional Neural Networks (CNNs) are a type of deep learning algorithm that are particularly effective for image recognition and processing tasks. They are inspired by the visual cortex of the human brain and are designed to automatically learn and extract features from input images.",
+    "known_since": "1980",
+    "child_concepts": [
+        "Pooling",
+        "Convolution",
+        "Activation Functions"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Deep Learning"
+    ],
+    "depth": 8
+}

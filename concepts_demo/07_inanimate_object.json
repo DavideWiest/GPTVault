@@ -1,0 +1,14 @@
+{
+    "title": "Inanimate Object",
+    "definition": "An object that lacks consciousness or life.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Tool",
+        "Artifact"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Material Science"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Variable",
+    "definition": "A variable is a named storage location in a computer program that holds a value that can be changed during the execution of the program.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Global Variable",
+        "Local Variable"
+    ],
+    "concept_fields": [
+        "Computer Science",
+        "Programming"
+    ],
+    "depth": 6
+}

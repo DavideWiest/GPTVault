@@ -1,0 +1,14 @@
+{
+    "title": "Focus of a Parabola",
+    "definition": "The focus of a parabola is a fixed point inside the parabola that is equidistant from the directrix and the vertex.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Vertex of a Parabola",
+        "Directrix of a Parabola"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Algebra"
+    ],
+    "depth": 8
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Southern Renaissance",
+    "definition": "The Southern Renaissance was a period of cultural and artistic revival that took place in Italy during the 14th to 16th centuries. It was characterized by a renewed interest in the classical arts, humanism, and a focus on individualism and secularism.",
+    "known_since": "14th century",
+    "child_concepts": [
+        "Italian Renaissance",
+        "Humanism",
+        "Secularism"
+    ],
+    "concept_fields": [
+        "Art",
+        "Literature",
+        "Philosophy"
+    ],
+    "depth": 8
+}

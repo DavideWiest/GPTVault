@@ -1,0 +1,15 @@
+{
+    "title": "Charts",
+    "definition": "Visual representations of data",
+    "known_since": "1765",
+    "child_concepts": [
+        "Bar charts",
+        "Line charts",
+        "Pie charts"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data analysis"
+    ],
+    "depth": 6
+}

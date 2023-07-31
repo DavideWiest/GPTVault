@@ -1,0 +1,16 @@
+{
+    "title": "Interval",
+    "definition": "An interval is a set of real numbers that includes all numbers between any two given numbers.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Open Interval",
+        "Closed Interval",
+        "Half-Open Interval"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Music",
+        "Physics"
+    ],
+    "depth": 7
+}

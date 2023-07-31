@@ -1,0 +1,14 @@
+{
+    "title": "Genome Sequencing",
+    "definition": "The process of determining the complete DNA sequence of an organism's genome.",
+    "known_since": "1977",
+    "child_concepts": [
+        "DNA Sequencing",
+        "Next-Generation Sequencing"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Bioinformatics"
+    ],
+    "depth": 7
+}

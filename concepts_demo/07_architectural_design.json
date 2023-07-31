@@ -1,0 +1,14 @@
+{
+    "title": "Architectural Design",
+    "definition": "Architectural design refers to the process of creating a blueprint or plan for the construction of a building or structure.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Building Materials",
+        "Structural Engineering"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Construction"
+    ],
+    "depth": 7
+}

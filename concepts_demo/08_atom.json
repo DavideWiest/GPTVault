@@ -1,0 +1,16 @@
+{
+    "title": "Atom",
+    "definition": "An atom is the smallest unit of a chemical element that retains the chemical properties of that element.",
+    "known_since": "400 BC",
+    "child_concepts": [
+        "Electron",
+        "Proton",
+        "Neutron"
+    ],
+    "concept_fields": [
+        "Atomic Structure",
+        "Chemistry",
+        "Physics"
+    ],
+    "depth": 8
+}

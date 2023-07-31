@@ -1,0 +1,15 @@
+{
+    "title": "Geodesics",
+    "definition": "Geodesics are the shortest paths between two points on a curved surface, such as a sphere or a curved space.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Great Circles",
+        "Riemannian Geometry"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics",
+        "Geography"
+    ],
+    "depth": 7
+}

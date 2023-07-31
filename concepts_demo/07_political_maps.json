@@ -1,0 +1,15 @@
+{
+    "title": "Political maps",
+    "definition": "Visual representation of territorial boundaries and political divisions",
+    "known_since": "250 BC",
+    "child_concepts": [
+        "Topographic maps",
+        "Thematic maps"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography",
+        "Political science"
+    ],
+    "depth": 7
+}

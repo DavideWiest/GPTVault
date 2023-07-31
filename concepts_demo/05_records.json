@@ -1,0 +1,16 @@
+{
+    "title": "Records",
+    "definition": "A collection of information or data stored in a structured format.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Database",
+        "File",
+        "Document"
+    ],
+    "concept_fields": [
+        "Name",
+        "Date",
+        "Description"
+    ],
+    "depth": 5
+}

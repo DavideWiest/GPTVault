@@ -1,0 +1,14 @@
+{
+    "title": "Pascal's law",
+    "definition": "Pascal's law states that when there is an increase in pressure at any point in a confined fluid, there is an equal increase at every other point in the container.",
+    "known_since": "1647",
+    "child_concepts": [
+        "Hydraulic systems",
+        "Hydrostatic pressure"
+    ],
+    "concept_fields": [
+        "Fluid mechanics",
+        "Hydraulics"
+    ],
+    "depth": 8
+}

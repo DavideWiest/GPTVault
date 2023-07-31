@@ -1,0 +1,17 @@
+{
+    "title": "NoSQL Database",
+    "definition": "A NoSQL database is a type of database that provides a flexible and scalable approach to storing and retrieving data. Unlike traditional relational databases, NoSQL databases do not use a fixed schema and are designed to handle large amounts of unstructured or semi-structured data.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Document-oriented databases",
+        "Key-value stores",
+        "Column-family databases",
+        "Graph databases"
+    ],
+    "concept_fields": [
+        "Data modeling",
+        "Data storage",
+        "Data retrieval"
+    ],
+    "depth": 7
+}

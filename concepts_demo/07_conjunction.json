@@ -1,0 +1,14 @@
+{
+    "title": "Conjunction",
+    "definition": "A word used to connect words, phrases, or clauses.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Coordinating Conjunction",
+        "Subordinating Conjunction"
+    ],
+    "concept_fields": [
+        "Grammar",
+        "Linguistics"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Sentiment Classification",
+    "definition": "Sentiment classification is a natural language processing task that involves determining the sentiment expressed in a piece of text, such as positive, negative, or neutral.",
+    "known_since": "2002",
+    "child_concepts": [
+        "Sentiment Analysis",
+        "Opinion Mining"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Text Classification"
+    ],
+    "depth": 8
+}

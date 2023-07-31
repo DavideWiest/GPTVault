@@ -1,0 +1,14 @@
+{
+    "title": "Quantitative data",
+    "definition": "Numerical data that can be measured and expressed using numbers",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Descriptive statistics",
+        "Inferential statistics"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Data analysis"
+    ],
+    "depth": 7
+}

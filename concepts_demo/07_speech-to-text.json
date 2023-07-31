@@ -1,0 +1,15 @@
+{
+    "title": "Speech-to-Text",
+    "definition": "The conversion of spoken language into written text.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Automatic Speech Recognition",
+        "Natural Language Processing"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Signal Processing"
+    ],
+    "depth": 7
+}

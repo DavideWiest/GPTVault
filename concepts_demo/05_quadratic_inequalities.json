@@ -1,0 +1,14 @@
+{
+    "title": "Quadratic Inequalities",
+    "definition": "Quadratic inequalities are inequalities that involve quadratic expressions, which are polynomial expressions of degree 2.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Quadratic Equations",
+        "Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 5
+}

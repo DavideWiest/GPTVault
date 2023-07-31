@@ -1,0 +1,14 @@
+{
+    "title": "Differential Geometry",
+    "definition": "A branch of mathematics that studies the properties and behavior of curves and surfaces in space.",
+    "known_since": "1679",
+    "child_concepts": [
+        "Curvature",
+        "Manifolds"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 4
+}

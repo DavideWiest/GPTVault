@@ -1,0 +1,16 @@
+{
+    "title": "Latitude",
+    "definition": "Latitude is a geographic coordinate that specifies the north-south position of a point on the Earth's surface.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Equator",
+        "Tropic of Cancer",
+        "Tropic of Capricorn"
+    ],
+    "concept_fields": [
+        "Longitude",
+        "Geography",
+        "Navigation"
+    ],
+    "depth": 8
+}

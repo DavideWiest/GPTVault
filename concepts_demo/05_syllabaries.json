@@ -1,0 +1,15 @@
+{
+    "title": "Syllabaries",
+    "definition": "A syllabary is a writing system that uses a set of symbols to represent syllables, rather than individual sounds or whole words.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Katakana",
+        "Hiragana",
+        "Cherokee syllabary"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing Systems"
+    ],
+    "depth": 5
+}

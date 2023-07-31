@@ -1,0 +1,14 @@
+{
+    "title": "Bitterness",
+    "definition": "The taste sensation that is characterized by a sharp, acrid, or unpleasant flavor.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Astringency",
+        "Sourness"
+    ],
+    "concept_fields": [
+        "Food",
+        "Beverages"
+    ],
+    "depth": 7
+}

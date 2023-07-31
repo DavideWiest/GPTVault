@@ -1,0 +1,15 @@
+{
+    "title": "Voiceless Consonants",
+    "definition": "Voiceless consonants are sounds produced without vocal cord vibration.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Plosives",
+        "Fricatives",
+        "Affricates"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Color theory",
+    "definition": "Color theory is a field of study that examines how colors interact with each other and how they can be combined to create visually appealing compositions.",
+    "known_since": "1666",
+    "child_concepts": [
+        "Color harmony",
+        "Color psychology"
+    ],
+    "concept_fields": [
+        "Art",
+        "Design",
+        "Psychology"
+    ],
+    "depth": 8
+}

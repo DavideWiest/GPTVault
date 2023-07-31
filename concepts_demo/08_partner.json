@@ -1,0 +1,15 @@
+{
+    "title": "Partner",
+    "definition": "A person who is associated with another in a joint venture, business, or marriage.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Business Partner",
+        "Life Partner"
+    ],
+    "concept_fields": [
+        "Name",
+        "Contact Information",
+        "Role"
+    ],
+    "depth": 8
+}

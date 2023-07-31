@@ -1,0 +1,14 @@
+{
+    "title": "Compound",
+    "definition": "A compound is a substance formed when two or more chemical elements are chemically bonded together.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Molecule",
+        "Ionic Compound"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Chemical Bonding"
+    ],
+    "depth": 8
+}

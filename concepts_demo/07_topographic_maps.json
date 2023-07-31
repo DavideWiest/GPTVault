@@ -1,0 +1,16 @@
+{
+    "title": "Topographic maps",
+    "definition": "Topographic maps are detailed and accurate representations of natural and man-made features on the Earth's surface.",
+    "known_since": "1877",
+    "child_concepts": [
+        "Contour lines",
+        "Elevation",
+        "Relief"
+    ],
+    "concept_fields": [
+        "Geography",
+        "Cartography",
+        "Surveying"
+    ],
+    "depth": 7
+}

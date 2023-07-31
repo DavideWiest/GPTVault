@@ -1,0 +1,16 @@
+{
+    "title": "Neural Networks",
+    "definition": "Neural networks are a type of machine learning model inspired by the structure and function of the human brain. They consist of interconnected nodes, called neurons, which process and transmit information. Neural networks are capable of learning from data and making predictions or decisions based on that learning.",
+    "known_since": "1943",
+    "child_concepts": [
+        "Deep Learning",
+        "Recurrent Neural Networks",
+        "Convolutional Neural Networks"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Pattern Recognition"
+    ],
+    "depth": 8
+}

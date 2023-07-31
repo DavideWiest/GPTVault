@@ -1,0 +1,16 @@
+{
+    "title": "Left Join",
+    "definition": "A left join is a type of join operation in relational databases that returns all the records from the left table (table1) and the matching records from the right table (table2). The result set will contain all the records from table1 and the matching records from table2. If there is no match, NULL values are returned for the columns of table2.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Inner Join",
+        "Right Join",
+        "Full Outer Join"
+    ],
+    "concept_fields": [
+        "Table1",
+        "Table2",
+        "Join Condition"
+    ],
+    "depth": 8
+}

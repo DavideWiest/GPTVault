@@ -1,0 +1,13 @@
+{
+    "title": "Prime Factorization",
+    "definition": "Prime factorization is the process of finding the prime numbers that multiply together to create a given number.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Prime Numbers",
+        "Factorization"
+    ],
+    "concept_fields": [
+        "Mathematics"
+    ],
+    "depth": 8
+}

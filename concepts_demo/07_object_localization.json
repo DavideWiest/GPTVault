@@ -1,0 +1,14 @@
+{
+    "title": "Object Localization",
+    "definition": "Object localization is the task of identifying the location of objects within an image or a video.",
+    "known_since": "2005",
+    "child_concepts": [
+        "Object Detection",
+        "Object Recognition"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Logographic systems",
+    "definition": "A writing system in which each character represents a word or a morpheme.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Chinese characters",
+        "Egyptian hieroglyphs"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Writing systems"
+    ],
+    "depth": 7
+}

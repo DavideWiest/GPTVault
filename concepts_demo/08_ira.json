@@ -1,0 +1,14 @@
+{
+    "title": "IRA",
+    "definition": "Individual Retirement Account",
+    "known_since": "1974",
+    "child_concepts": [
+        "Roth IRA",
+        "Traditional IRA"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Retirement Planning"
+    ],
+    "depth": 8
+}

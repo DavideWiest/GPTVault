@@ -1,0 +1,16 @@
+{
+    "title": "Cultural Diversity",
+    "definition": "Cultural diversity refers to the existence of a variety of cultural or ethnic groups within a society or region. It encompasses differences in language, traditions, beliefs, values, customs, and behaviors.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Multiculturalism",
+        "Ethnicity",
+        "Inclusion"
+    ],
+    "concept_fields": [
+        "Anthropology",
+        "Sociology",
+        "Intercultural Communication"
+    ],
+    "depth": 8
+}

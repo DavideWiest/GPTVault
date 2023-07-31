@@ -1,0 +1,15 @@
+{
+    "title": "AND gate",
+    "definition": "An AND gate is a digital logic gate that outputs true (1) only when all of its inputs are true (1).",
+    "known_since": "1956",
+    "child_concepts": [
+        "NAND gate",
+        "OR gate",
+        "NOT gate"
+    ],
+    "concept_fields": [
+        "Logic gates",
+        "Digital logic"
+    ],
+    "depth": 8
+}

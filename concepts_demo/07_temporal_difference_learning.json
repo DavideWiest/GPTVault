@@ -1,0 +1,14 @@
+{
+    "title": "Temporal Difference Learning",
+    "definition": "Temporal Difference Learning is a reinforcement learning technique that updates the value function based on the difference between predicted and actual rewards.",
+    "known_since": "1988",
+    "child_concepts": [
+        "Q-Learning",
+        "SARSA"
+    ],
+    "concept_fields": [
+        "Machine Learning",
+        "Reinforcement Learning"
+    ],
+    "depth": 7
+}

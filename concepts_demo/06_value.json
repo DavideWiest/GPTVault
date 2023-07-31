@@ -1,0 +1,14 @@
+{
+    "title": "Value",
+    "definition": "The worth or importance of something",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Intrinsic Value",
+        "Extrinsic Value"
+    ],
+    "concept_fields": [
+        "Economics",
+        "Philosophy"
+    ],
+    "depth": 6
+}

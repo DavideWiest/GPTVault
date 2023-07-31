@@ -1,0 +1,14 @@
+{
+    "title": "Object Recognition",
+    "definition": "Object recognition is a computer vision task that involves identifying and classifying objects in digital images or videos.",
+    "known_since": "1960",
+    "child_concepts": [
+        "Object Detection",
+        "Object Segmentation"
+    ],
+    "concept_fields": [
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

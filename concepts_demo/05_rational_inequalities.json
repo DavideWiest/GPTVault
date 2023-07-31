@@ -1,0 +1,14 @@
+{
+    "title": "Rational Inequalities",
+    "definition": "Inequalities involving rational expressions.",
+    "known_since": "17th century",
+    "child_concepts": [
+        "Linear Inequalities",
+        "Quadratic Inequalities"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Calculus"
+    ],
+    "depth": 5
+}

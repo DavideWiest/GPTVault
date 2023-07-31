@@ -1,0 +1,14 @@
+{
+    "title": "Rhombus",
+    "definition": "A quadrilateral with all sides of equal length.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Square",
+        "Rectangle"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Mathematics"
+    ],
+    "depth": 7
+}

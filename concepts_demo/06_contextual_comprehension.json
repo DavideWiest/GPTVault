@@ -1,0 +1,15 @@
+{
+    "title": "Contextual comprehension",
+    "definition": "The ability to understand and interpret information within a specific context.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Contextual understanding",
+        "Contextual interpretation"
+    ],
+    "concept_fields": [
+        "Cognitive science",
+        "Psychology",
+        "Artificial intelligence"
+    ],
+    "depth": 6
+}

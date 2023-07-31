@@ -1,0 +1,14 @@
+{
+    "title": "Sampling Distribution",
+    "definition": "In statistics, a sampling distribution is the probability distribution of a given statistic based on a random sample. It describes the variability of the statistic when repeatedly sampling from the same population.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Central Limit Theorem",
+        "Standard Error"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability"
+    ],
+    "depth": 8
+}

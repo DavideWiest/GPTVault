@@ -1,0 +1,15 @@
+{
+    "title": "Integral Calculus",
+    "definition": "A branch of mathematics that deals with the calculation of integrals and the determination of their properties.",
+    "known_since": "1675",
+    "child_concepts": [
+        "Definite Integral",
+        "Indefinite Integral",
+        "Integration by Parts"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Calculus"
+    ],
+    "depth": 4
+}

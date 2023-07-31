@@ -1,0 +1,14 @@
+{
+    "title": "Partial Differential Equations",
+    "definition": "Partial differential equations (PDEs) are equations that involve partial derivatives of an unknown function of multiple variables. They are used to describe a wide range of physical phenomena, such as heat conduction, fluid flow, and electromagnetic fields.",
+    "known_since": "BC 200",
+    "child_concepts": [
+        "Ordinary Differential Equations",
+        "Boundary Value Problems"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 8
+}

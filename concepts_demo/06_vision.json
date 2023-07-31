@@ -1,0 +1,14 @@
+{
+    "title": "Vision",
+    "definition": "The ability to perceive and interpret visual information through the eyes.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Color vision",
+        "Peripheral vision"
+    ],
+    "concept_fields": [
+        "Optics",
+        "Neuroscience"
+    ],
+    "depth": 6
+}

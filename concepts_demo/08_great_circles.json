@@ -1,0 +1,14 @@
+{
+    "title": "Great Circles",
+    "definition": "A great circle is the intersection of a sphere and a plane that passes through the center of the sphere. It divides the sphere into two equal hemispheres.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Latitude",
+        "Longitude"
+    ],
+    "concept_fields": [
+        "Geometry",
+        "Navigation"
+    ],
+    "depth": 8
+}

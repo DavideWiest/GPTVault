@@ -1,0 +1,14 @@
+{
+    "title": "Southern Gothic",
+    "definition": "A subgenre of Gothic fiction in American literature that takes place in the American South and explores themes of decay, violence, and the grotesque.",
+    "known_since": "19th century",
+    "child_concepts": [
+        "Southern literature",
+        "Gothic fiction"
+    ],
+    "concept_fields": [
+        "Literature",
+        "American Studies"
+    ],
+    "depth": 6
+}

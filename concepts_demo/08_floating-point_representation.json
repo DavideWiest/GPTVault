@@ -1,0 +1,14 @@
+{
+    "title": "Floating-point representation",
+    "definition": "Floating-point representation is a method of representing real numbers in a computer system. It allows for the representation of a wide range of values, including both very large and very small numbers, by using a fixed number of bits to represent the significand and the exponent.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Single-precision floating-point format",
+        "Double-precision floating-point format"
+    ],
+    "concept_fields": [
+        "Computer science",
+        "Numerical analysis"
+    ],
+    "depth": 8
+}

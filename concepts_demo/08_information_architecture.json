@@ -1,0 +1,16 @@
+{
+    "title": "Information Architecture",
+    "definition": "Information Architecture is the practice of organizing, structuring, and labeling content in an effective and meaningful way for users to navigate and find information easily.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Navigation Design",
+        "Content Organization",
+        "User Experience Design"
+    ],
+    "concept_fields": [
+        "User Interface Design",
+        "Content Strategy",
+        "Usability Testing"
+    ],
+    "depth": 8
+}

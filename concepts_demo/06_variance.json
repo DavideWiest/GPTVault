@@ -1,0 +1,14 @@
+{
+    "title": "Variance",
+    "definition": "Variance is a statistical measure that quantifies the dispersion between numbers in a dataset.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Standard Deviation",
+        "Covariance"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability"
+    ],
+    "depth": 6
+}

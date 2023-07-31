@@ -1,0 +1,15 @@
+{
+    "title": "Business Budgeting",
+    "definition": "Business budgeting is the process of creating a detailed plan for the financial activities of a business, including estimating income and expenses, setting financial goals, and allocating resources.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Budgeting methods",
+        "Budget variance analysis"
+    ],
+    "concept_fields": [
+        "Revenue",
+        "Expenses",
+        "Profit margin"
+    ],
+    "depth": 8
+}

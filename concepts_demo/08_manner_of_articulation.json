@@ -1,0 +1,14 @@
+{
+    "title": "Manner of Articulation",
+    "definition": "Manner of articulation refers to the different ways in which speech sounds can be produced by modifying the airflow through the vocal tract.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Place of Articulation",
+        "Voicing"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 8
+}

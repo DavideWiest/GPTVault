@@ -1,0 +1,15 @@
+{
+    "title": "Monomials",
+    "definition": "Monomials are algebraic expressions that consist of a single term.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Polynomials",
+        "Binomials",
+        "Trinomials"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 5
+}

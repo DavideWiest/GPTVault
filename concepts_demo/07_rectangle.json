@@ -1,0 +1,16 @@
+{
+    "title": "Rectangle",
+    "definition": "A quadrilateral with four right angles.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Square",
+        "Parallelogram"
+    ],
+    "concept_fields": [
+        "Length",
+        "Width",
+        "Area",
+        "Perimeter"
+    ],
+    "depth": 7
+}

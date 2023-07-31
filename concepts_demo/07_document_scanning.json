@@ -1,0 +1,14 @@
+{
+    "title": "Document scanning",
+    "definition": "The process of converting physical documents into digital format.",
+    "known_since": "1980",
+    "child_concepts": [
+        "OCR (Optical Character Recognition)",
+        "Image processing"
+    ],
+    "concept_fields": [
+        "Information technology",
+        "Digital imaging"
+    ],
+    "depth": 7
+}

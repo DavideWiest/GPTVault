@@ -1,0 +1,14 @@
+{
+    "title": "Rise",
+    "definition": "The act of moving upward or becoming higher.",
+    "known_since": "3000 BC",
+    "child_concepts": [
+        "Sunrise",
+        "Elevation"
+    ],
+    "concept_fields": [
+        "Physics",
+        "Geography"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Speaker Recognition",
+    "definition": "The process of identifying or verifying the identity of an individual based on their unique voice characteristics.",
+    "known_since": "1952",
+    "child_concepts": [
+        "Voiceprint",
+        "Speaker identification",
+        "Speaker verification"
+    ],
+    "concept_fields": [
+        "Biometrics",
+        "Signal processing",
+        "Machine learning"
+    ],
+    "depth": 6
+}

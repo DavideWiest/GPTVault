@@ -1,0 +1,14 @@
+{
+    "title": "Genetic testing",
+    "definition": "The analysis of DNA, RNA, chromosomes, proteins, or metabolites to detect genetic abnormalities or variations.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Genetic counseling",
+        "Genetic screening"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Medicine"
+    ],
+    "depth": 7
+}

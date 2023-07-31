@@ -1,0 +1,19 @@
+{
+    "title": "Coordinating Conjunction",
+    "definition": "A coordinating conjunction is a word that connects words, phrases, or clauses of equal importance in a sentence. It is used to join words or groups of words that have equal grammatical weight.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "And",
+        "But",
+        "Or",
+        "Nor",
+        "For",
+        "So",
+        "Yet"
+    ],
+    "concept_fields": [
+        "Grammar",
+        "Linguistics"
+    ],
+    "depth": 8
+}

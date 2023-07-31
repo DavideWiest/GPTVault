@@ -1,0 +1,15 @@
+{
+    "title": "Smell",
+    "definition": "The perception of odors or scents through the nose.",
+    "known_since": "Prehistoric times",
+    "child_concepts": [
+        "Odor",
+        "Aroma"
+    ],
+    "concept_fields": [
+        "Biology",
+        "Psychology",
+        "Perception"
+    ],
+    "depth": 6
+}

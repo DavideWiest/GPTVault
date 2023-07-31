@@ -1,0 +1,16 @@
+{
+    "title": "Y-DNA testing",
+    "definition": "Y-DNA testing is a type of genetic testing that focuses on the Y chromosome, which is passed down from father to son. It is used to trace paternal ancestry and determine genetic relationships among males.",
+    "known_since": "2000",
+    "child_concepts": [
+        "Y chromosome",
+        "Paternal ancestry",
+        "Genetic relationships"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Ancestry",
+        "Genealogy"
+    ],
+    "depth": 8
+}

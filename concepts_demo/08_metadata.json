@@ -1,0 +1,17 @@
+{
+    "title": "Metadata",
+    "definition": "Metadata is data that provides information about other data.",
+    "known_since": "1970",
+    "child_concepts": [
+        "Descriptive Metadata",
+        "Structural Metadata",
+        "Administrative Metadata"
+    ],
+    "concept_fields": [
+        "Title",
+        "Author",
+        "Date Created",
+        "Keywords"
+    ],
+    "depth": 8
+}

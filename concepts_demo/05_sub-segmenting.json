@@ -1,0 +1,14 @@
+{
+    "title": "Sub-segmenting",
+    "definition": "The process of dividing a larger segment into smaller, more specific segments.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Segmentation",
+        "Targeting"
+    ],
+    "concept_fields": [
+        "Marketing",
+        "Market Research"
+    ],
+    "depth": 5
+}

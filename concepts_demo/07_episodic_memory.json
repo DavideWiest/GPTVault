@@ -1,0 +1,14 @@
+{
+    "title": "Episodic memory",
+    "definition": "The ability to recall specific events and experiences from the past.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Semantic memory",
+        "Procedural memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Neuroscience"
+    ],
+    "depth": 7
+}

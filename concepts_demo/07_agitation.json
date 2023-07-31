@@ -1,0 +1,14 @@
+{
+    "title": "Agitation",
+    "definition": "A state of extreme emotional or mental disturbance.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Anxiety",
+        "Restlessness"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Emotion"
+    ],
+    "depth": 7
+}

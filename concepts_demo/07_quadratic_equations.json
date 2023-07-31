@@ -1,0 +1,15 @@
+{
+    "title": "Quadratic equations",
+    "definition": "A quadratic equation is a polynomial equation of the second degree, meaning it contains at least one term that is squared.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Roots of quadratic equations",
+        "Discriminant",
+        "Quadratic formula"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 7
+}

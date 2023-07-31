@@ -1,0 +1,14 @@
+{
+    "title": "Inferential statistics",
+    "definition": "Inferential statistics involves making inferences or predictions about a population based on sample data.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Hypothesis testing",
+        "Confidence intervals"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability theory"
+    ],
+    "depth": 7
+}

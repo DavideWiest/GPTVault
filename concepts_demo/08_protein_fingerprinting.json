@@ -1,0 +1,15 @@
+{
+    "title": "Protein fingerprinting",
+    "definition": "Protein fingerprinting is a technique used to identify and analyze proteins based on their unique patterns of fragments or peptides.",
+    "known_since": "1984",
+    "child_concepts": [
+        "Protein sequencing",
+        "Protein identification"
+    ],
+    "concept_fields": [
+        "Mass spectrometry",
+        "Peptide mapping",
+        "Protein databases"
+    ],
+    "depth": 8
+}

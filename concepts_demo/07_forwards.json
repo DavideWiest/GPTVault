@@ -1,0 +1,16 @@
+{
+    "title": "Forwards",
+    "definition": "In sports, forwards are players positioned in the front line of the team, typically responsible for scoring goals or creating scoring opportunities.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Striker",
+        "Winger",
+        "Center forward"
+    ],
+    "concept_fields": [
+        "Football",
+        "Hockey",
+        "Basketball"
+    ],
+    "depth": 7
+}

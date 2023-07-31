@@ -1,0 +1,14 @@
+{
+    "title": "OR gate",
+    "definition": "An OR gate is a digital logic gate that performs the logical OR operation. It takes two or more input signals and produces an output signal if any of the input signals are high.",
+    "known_since": "1938",
+    "child_concepts": [
+        "AND gate",
+        "NOT gate"
+    ],
+    "concept_fields": [
+        "Logic gates",
+        "Digital electronics"
+    ],
+    "depth": 8
+}

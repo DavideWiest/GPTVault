@@ -1,0 +1,15 @@
+{
+    "title": "Measures of Dispersion",
+    "definition": "Measures of dispersion are statistical measures that describe the spread or variability of a dataset.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Range",
+        "Variance",
+        "Standard Deviation"
+    ],
+    "concept_fields": [
+        "Statistics",
+        "Probability"
+    ],
+    "depth": 5
+}

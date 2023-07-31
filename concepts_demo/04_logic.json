@@ -1,0 +1,14 @@
+{
+    "title": "Logic",
+    "definition": "The study of reasoning and inference",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Propositional Logic",
+        "Predicate Logic"
+    ],
+    "concept_fields": [
+        "Philosophy",
+        "Mathematics"
+    ],
+    "depth": 4
+}

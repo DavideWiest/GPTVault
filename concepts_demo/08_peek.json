@@ -1,0 +1,14 @@
+{
+    "title": "Peek",
+    "definition": "To take a quick or furtive look at something",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Glance",
+        "Glimpse"
+    ],
+    "concept_fields": [
+        "Observation",
+        "Sight"
+    ],
+    "depth": 8
+}

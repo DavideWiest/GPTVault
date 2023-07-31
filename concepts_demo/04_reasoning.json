@@ -1,0 +1,16 @@
+{
+    "title": "Reasoning",
+    "definition": "The mental process of thinking, understanding, and making logical connections.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Inductive Reasoning",
+        "Deductive Reasoning",
+        "Abductive Reasoning"
+    ],
+    "concept_fields": [
+        "Logic",
+        "Philosophy",
+        "Cognitive Science"
+    ],
+    "depth": 4
+}

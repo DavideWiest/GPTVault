@@ -1,0 +1,14 @@
+{
+    "title": "Availability Heuristic",
+    "definition": "A mental shortcut that relies on immediate examples that come to mind when evaluating a specific topic or making a decision.",
+    "known_since": "1973",
+    "child_concepts": [
+        "Representativeness Heuristic",
+        "Anchoring and Adjustment Heuristic"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 6
+}

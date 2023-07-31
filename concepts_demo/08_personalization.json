@@ -1,0 +1,15 @@
+{
+    "title": "Personalization",
+    "definition": "Personalization is the process of tailoring a product, service, or experience to individual users based on their preferences, behaviors, and characteristics.",
+    "known_since": "1990",
+    "child_concepts": [
+        "Recommendation Engine",
+        "User Segmentation"
+    ],
+    "concept_fields": [
+        "User Preferences",
+        "Behavioral Data",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

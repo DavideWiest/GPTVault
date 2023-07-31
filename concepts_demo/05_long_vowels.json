@@ -1,0 +1,14 @@
+{
+    "title": "Long Vowels",
+    "definition": "Long vowels are vowel sounds that are pronounced for a longer duration than short vowels.",
+    "known_since": "500 BC",
+    "child_concepts": [
+        "Short Vowels",
+        "Diphthongs"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 5
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Trigonometric substitution",
+    "definition": "Trigonometric substitution is a technique used in calculus to simplify integrals involving algebraic expressions with trigonometric functions. It involves substituting trigonometric identities to transform the integral into a form that can be easily evaluated.",
+    "known_since": "17",
+    "child_concepts": [
+        "Integration by parts",
+        "Partial fraction decomposition"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Trigonometry"
+    ],
+    "depth": 8
+}

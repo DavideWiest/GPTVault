@@ -1,0 +1,16 @@
+{
+    "title": "Inductive Inference",
+    "definition": "A form of reasoning that involves making generalizations or predictions based on specific observations or examples.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Inductive reasoning",
+        "Inductive learning",
+        "Inductive logic"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Philosophy"
+    ],
+    "depth": 7
+}

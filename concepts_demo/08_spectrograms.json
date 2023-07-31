@@ -1,0 +1,15 @@
+{
+    "title": "Spectrograms",
+    "definition": "Spectrograms are visual representations of the spectrum of frequencies of a signal as it varies with time. They are commonly used in signal processing, acoustics, and speech analysis.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Frequency analysis",
+        "Time-frequency analysis"
+    ],
+    "concept_fields": [
+        "Signal processing",
+        "Acoustics",
+        "Speech analysis"
+    ],
+    "depth": 8
+}

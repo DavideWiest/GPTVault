@@ -1,0 +1,14 @@
+{
+    "title": "Point-Slope Form",
+    "definition": "Point-slope form is a method used to write the equation of a straight line. It is expressed as y - y1 = m(x - x1), where (x1, y1) is a point on the line and m is the slope of the line.",
+    "known_since": "1637",
+    "child_concepts": [
+        "Slope-Intercept Form",
+        "Standard Form"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Geometry"
+    ],
+    "depth": 8
+}

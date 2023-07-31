@@ -1,0 +1,16 @@
+{
+    "title": "Speed reading",
+    "definition": "A technique used to increase reading speed without sacrificing comprehension.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Rapid reading",
+        "Skimming",
+        "Scanning"
+    ],
+    "concept_fields": [
+        "Education",
+        "Psychology",
+        "Productivity"
+    ],
+    "depth": 5
+}

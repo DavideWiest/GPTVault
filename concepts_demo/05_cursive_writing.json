@@ -1,0 +1,14 @@
+{
+    "title": "Cursive Writing",
+    "definition": "A style of handwriting in which the letters are joined together in a flowing manner.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Calligraphy",
+        "Penmanship"
+    ],
+    "concept_fields": [
+        "Education",
+        "Art"
+    ],
+    "depth": 5
+}

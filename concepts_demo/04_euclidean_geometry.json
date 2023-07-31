@@ -1,0 +1,16 @@
+{
+    "title": "Euclidean Geometry",
+    "definition": "A branch of mathematics that deals with the properties and relationships of points, lines, angles, and shapes in a plane.",
+    "known_since": -300,
+    "child_concepts": [
+        "Points",
+        "Lines",
+        "Angles",
+        "Shapes"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Geometry"
+    ],
+    "depth": 4
+}

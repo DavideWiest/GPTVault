@@ -1,0 +1,17 @@
+{
+    "title": "Document",
+    "definition": "A written, printed, or electronic record that provides information or evidence.",
+    "known_since": "3000",
+    "child_concepts": [
+        "Text",
+        "File",
+        "Record"
+    ],
+    "concept_fields": [
+        "Title",
+        "Author",
+        "Date",
+        "Content"
+    ],
+    "depth": 6
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Derivatives",
+    "definition": "A derivative is a financial instrument whose value is derived from an underlying asset or group of assets.",
+    "known_since": "1700",
+    "child_concepts": [
+        "Options",
+        "Futures"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Mathematics"
+    ],
+    "depth": 5
+}

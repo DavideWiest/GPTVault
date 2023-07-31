@@ -1,0 +1,15 @@
+{
+    "title": "First-order Logic",
+    "definition": "First-order logic is a formal system used in mathematics, philosophy, and computer science to express statements about objects and their relationships.",
+    "known_since": "300 BC",
+    "child_concepts": [
+        "Propositional Logic",
+        "Predicate Logic"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Philosophy",
+        "Computer Science"
+    ],
+    "depth": 7
+}

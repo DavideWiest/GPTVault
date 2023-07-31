@@ -1,0 +1,16 @@
+{
+    "title": "Gene Editing",
+    "definition": "The process of making changes to an organism's DNA",
+    "known_since": "1970",
+    "child_concepts": [
+        "CRISPR-Cas9",
+        "Zinc Finger Nucleases",
+        "TALENs"
+    ],
+    "concept_fields": [
+        "Genetics",
+        "Biotechnology",
+        "Medicine"
+    ],
+    "depth": 6
+}

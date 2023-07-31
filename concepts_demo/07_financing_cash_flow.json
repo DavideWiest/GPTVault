@@ -1,0 +1,14 @@
+{
+    "title": "Financing Cash Flow",
+    "definition": "The movement of money into and out of a business that is used to finance its operations, investments, and activities.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Equity Financing",
+        "Debt Financing"
+    ],
+    "concept_fields": [
+        "Cash Inflows",
+        "Cash Outflows"
+    ],
+    "depth": 7
+}

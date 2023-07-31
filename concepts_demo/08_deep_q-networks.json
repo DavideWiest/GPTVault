@@ -1,0 +1,15 @@
+{
+    "title": "Deep Q-Networks",
+    "definition": "Deep Q-Networks (DQN) is a type of reinforcement learning algorithm that combines deep learning with Q-learning. It uses a neural network to approximate the Q-value function, which represents the expected future rewards for each action in a given state.",
+    "known_since": "2013",
+    "child_concepts": [
+        "Q-learning",
+        "Reinforcement Learning",
+        "Neural Networks"
+    ],
+    "concept_fields": [
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+    "depth": 8
+}

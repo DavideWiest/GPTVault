@@ -1,0 +1,14 @@
+{
+    "title": "Semantic Memory",
+    "definition": "The part of long-term memory that deals with the meanings of words, concepts, and general knowledge about the world.",
+    "known_since": "1950",
+    "child_concepts": [
+        "Episodic Memory",
+        "Procedural Memory"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Cognitive Science"
+    ],
+    "depth": 5
+}

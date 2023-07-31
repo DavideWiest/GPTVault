@@ -1,0 +1,14 @@
+{
+    "title": "Lie Groups",
+    "definition": "Lie groups are mathematical objects that combine the concepts of a group and a smooth manifold.",
+    "known_since": "1872",
+    "child_concepts": [
+        "Lie algebra",
+        "Lie group representation"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Physics"
+    ],
+    "depth": 7
+}

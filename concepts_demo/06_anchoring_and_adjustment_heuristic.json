@@ -1,0 +1,14 @@
+{
+    "title": "Anchoring and Adjustment Heuristic",
+    "definition": "A cognitive bias where individuals rely heavily on the first piece of information encountered (the anchor) when making decisions or judgments, and then adjust their subsequent judgments based on that initial anchor.",
+    "known_since": "1974",
+    "child_concepts": [
+        "Confirmation Bias",
+        "Availability Heuristic"
+    ],
+    "concept_fields": [
+        "Psychology",
+        "Behavioral Economics"
+    ],
+    "depth": 6
+}

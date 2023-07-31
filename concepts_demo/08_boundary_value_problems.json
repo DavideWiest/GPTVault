@@ -1,0 +1,14 @@
+{
+    "title": "Boundary Value Problems",
+    "definition": "Boundary value problems are a type of mathematical problem that involves finding a solution to a differential equation subject to specified boundary conditions.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Initial Value Problems",
+        "Partial Differential Equations"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Differential Equations"
+    ],
+    "depth": 8
+}

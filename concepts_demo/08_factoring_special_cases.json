@@ -1,0 +1,15 @@
+{
+    "title": "Factoring special cases",
+    "definition": "Factoring special cases refers to specific scenarios in mathematics where factoring can be simplified or solved using specific techniques or patterns.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Difference of squares",
+        "Perfect square trinomials",
+        "Sum and difference of cubes"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Mathematics"
+    ],
+    "depth": 8
+}

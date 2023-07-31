@@ -1,0 +1,14 @@
+{
+    "title": "Graphical Method",
+    "definition": "The graphical method is a mathematical technique used to solve optimization problems graphically by visually representing the constraints and objective function on a graph.",
+    "known_since": "1800",
+    "child_concepts": [
+        "Linear Programming",
+        "Geometric Programming"
+    ],
+    "concept_fields": [
+        "Mathematics",
+        "Optimization"
+    ],
+    "depth": 8
+}

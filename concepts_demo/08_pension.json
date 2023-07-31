@@ -1,0 +1,15 @@
+{
+    "title": "Pension",
+    "definition": "A sum of money paid regularly to a person who has retired from work.",
+    "known_since": "1889",
+    "child_concepts": [
+        "Defined Benefit Plan",
+        "Defined Contribution Plan"
+    ],
+    "concept_fields": [
+        "Retirement Age",
+        "Contribution Rate",
+        "Benefit Calculation"
+    ],
+    "depth": 8
+}

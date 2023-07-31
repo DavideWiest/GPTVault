@@ -1,0 +1,15 @@
+{
+    "title": "Quadratic Function",
+    "definition": "A quadratic function is a polynomial function of degree 2, where the highest power of the variable is 2.",
+    "known_since": "200 BC",
+    "child_concepts": [
+        "Vertex Form",
+        "Standard Form",
+        "Factored Form"
+    ],
+    "concept_fields": [
+        "Algebra",
+        "Calculus"
+    ],
+    "depth": 7
+}

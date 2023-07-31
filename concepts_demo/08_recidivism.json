@@ -1,0 +1,15 @@
+{
+    "title": "Recidivism",
+    "definition": "Recidivism refers to the tendency of a convicted individual to reoffend or engage in criminal behavior after being released from prison or completing a sentence.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Criminal Justice System",
+        "Rehabilitation Programs"
+    ],
+    "concept_fields": [
+        "Criminal Justice",
+        "Corrections",
+        "Rehabilitation"
+    ],
+    "depth": 8
+}

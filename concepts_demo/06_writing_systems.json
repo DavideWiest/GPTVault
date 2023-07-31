@@ -1,0 +1,16 @@
+{
+    "title": "Writing Systems",
+    "definition": "A writing system is a method of visually representing verbal communication.",
+    "known_since": "3200 BC",
+    "child_concepts": [
+        "Alphabets",
+        "Syllabaries",
+        "Logographic systems"
+    ],
+    "concept_fields": [
+        "Linguistics",
+        "Anthropology",
+        "History"
+    ],
+    "depth": 6
+}

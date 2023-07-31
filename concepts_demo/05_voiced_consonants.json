@@ -1,0 +1,15 @@
+{
+    "title": "Voiced Consonants",
+    "definition": "Voiced consonants are sounds produced with vocal cord vibration.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Voiced stops",
+        "Voiced fricatives",
+        "Voiced affricates"
+    ],
+    "concept_fields": [
+        "Phonetics",
+        "Linguistics"
+    ],
+    "depth": 5
+}

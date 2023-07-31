@@ -1,0 +1,16 @@
+{
+    "title": "Competence",
+    "definition": "The ability to perform a task or activity successfully.",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Skill",
+        "Expertise",
+        "Proficiency"
+    ],
+    "concept_fields": [
+        "Education",
+        "Work Experience",
+        "Training"
+    ],
+    "depth": 7
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Business Planning",
+    "definition": "The process of setting goals, creating strategies, and outlining actions to achieve those goals in a business.",
+    "known_since": "Year when this concept has been known",
+    "child_concepts": [
+        "Financial Planning",
+        "Marketing Planning",
+        "Operational Planning"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Marketing",
+        "Operations"
+    ],
+    "depth": 5
+}

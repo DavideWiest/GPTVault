@@ -1,0 +1,14 @@
+{
+    "title": "Options",
+    "definition": "A choice or alternative that is available",
+    "known_since": "Unknown",
+    "child_concepts": [
+        "Call options",
+        "Put options"
+    ],
+    "concept_fields": [
+        "Finance",
+        "Investment"
+    ],
+    "depth": 6
+}

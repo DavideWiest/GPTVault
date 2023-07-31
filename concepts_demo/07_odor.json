@@ -1,0 +1,14 @@
+{
+    "title": "Odor",
+    "definition": "The perception of a smell or scent.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Fragrance",
+        "Stench"
+    ],
+    "concept_fields": [
+        "Chemistry",
+        "Biology"
+    ],
+    "depth": 7
+}

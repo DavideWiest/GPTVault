@@ -1,0 +1,13 @@
+{
+    "title": "Primary data",
+    "definition": "Raw data that has not been processed or analyzed.",
+    "known_since": "Ancient times",
+    "child_concepts": [
+        "Secondary data"
+    ],
+    "concept_fields": [
+        "Data analysis",
+        "Data processing"
+    ],
+    "depth": 7
+}

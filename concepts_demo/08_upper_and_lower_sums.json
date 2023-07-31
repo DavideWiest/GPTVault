@@ -1,0 +1,14 @@
+{
+    "title": "Upper and Lower Sums",
+    "definition": "In calculus, upper and lower sums are used to approximate the area under a curve. They are obtained by dividing the area into smaller rectangles and calculating the sum of the areas of these rectangles.",
+    "known_since": "17",
+    "child_concepts": [
+        "Riemann Sums",
+        "Definite Integral"
+    ],
+    "concept_fields": [
+        "Calculus",
+        "Integration"
+    ],
+    "depth": 8
+}

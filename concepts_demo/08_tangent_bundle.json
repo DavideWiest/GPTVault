@@ -1,0 +1,14 @@
+{
+    "title": "Tangent bundle",
+    "definition": "In differential geometry, the tangent bundle of a differentiable manifold is a manifold that assembles all the tangent vectors in the manifold into a new manifold. It is a way of 'attaching' a tangent space to each point in the manifold.",
+    "known_since": "1855",
+    "child_concepts": [
+        "Cotangent bundle",
+        "Vector bundle"
+    ],
+    "concept_fields": [
+        "Differential geometry",
+        "Manifold theory"
+    ],
+    "depth": 8
+}

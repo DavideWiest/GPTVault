@@ -1,0 +1,14 @@
+{
+    "title": "Neo-Gothic",
+    "definition": "A revival of the Gothic architectural style that emerged in the 19th century.",
+    "known_since": "1830",
+    "child_concepts": [
+        "Gothic Revival",
+        "Victorian Gothic"
+    ],
+    "concept_fields": [
+        "Architecture",
+        "Art"
+    ],
+    "depth": 6
+}

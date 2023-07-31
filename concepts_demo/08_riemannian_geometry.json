@@ -1,0 +1,16 @@
+{
+    "title": "Riemannian Geometry",
+    "definition": "Riemannian geometry is a branch of mathematics that studies curved spaces using the tools of differential calculus and analysis. It provides a framework for understanding the geometry of surfaces and higher-dimensional manifolds, where the concept of distance is generalized to allow for curvature.",
+    "known_since": "1854",
+    "child_concepts": [
+        "Curvature",
+        "Metric Tensor",
+        "Geodesics"
+    ],
+    "concept_fields": [
+        "Differential Geometry",
+        "Topology",
+        "Mathematical Physics"
+    ],
+    "depth": 8
+}

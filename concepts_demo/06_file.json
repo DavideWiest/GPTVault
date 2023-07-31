@@ -1,0 +1,16 @@
+{
+    "title": "File",
+    "definition": "A file is a collection of data stored in a computer system. It is used to store and organize information in a structured manner.",
+    "known_since": "1940",
+    "child_concepts": [
+        "Directory",
+        "File Extension"
+    ],
+    "concept_fields": [
+        "Name",
+        "Size",
+        "Type",
+        "Location"
+    ],
+    "depth": 6
+}
