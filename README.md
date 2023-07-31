@@ -2,14 +2,19 @@
 # What is GPTVault?
 A program that iteratively builds a knowledge base using GPT-3.5.
 
-# Demo
-
-Using the obsidian graph view:
-
-
 ### Why is this useful?
 You can build a usable vault from scratch by giving the program just the topic name(s).
 You can also modify the program to fit your needs. (See the section below)
+
+# Demo
+Using the Obsidian Graph view
+
+![Graph view of Demo Vault](demo/demoimg1.png "Demo Vault")
+![Graph view of Demo Vault that increased in size](demo/demoimg2.png "After leting the program run a bit more")
+
+- In total 1000+ Files
+- Total Cost: Ca. 1€
+- Starting concept: "Knowledge"
 
 ### Why is this interesting?
 You can see how concepts are arranged, what hierarchy exists, and use Obsidian-Plugins like [Graph Analysis](obsidian://show-plugin?id=graph-analysis) to gain further info.
