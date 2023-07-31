@@ -2,6 +2,8 @@
 # What is GPTVault?
 A program that iteratively builds a knowledge base using GPT-3.5.
 
+> Read more about GPTVault through its [Article](https://davidewiest.medium.com/gptvault-building-a-knowledge-base-with-gpt-3-5-bd91fb806260)
+
 ### Why is this useful?
 You can build a usable vault from scratch by giving the program just the topic name(s).
 You can also modify the program to fit your needs. (See the section below)

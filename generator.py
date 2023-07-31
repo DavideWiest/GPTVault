@@ -160,10 +160,10 @@ if __name__ == "__main__":
             f.strip() for f in input("Starting topic(s) (separated by comma): ").split(",")
         ]
 
-        gatherKnowledgeBF(startingFields, depthLimit=12, convertToMd=True)
+        gatherKnowledgeBF(startingFields, depthLimit=int(input("Depth Limit (up to 12 is recommended): ")), convertToMd=True)
 
     elif command == "fromlayer":
-        startBFProcessFromLayer(depthLimit=12, depthTarget=int(input("Depth target (-1 for auto eval): ")), convertToMd=True)
+        startBFProcessFromLayer(depthLimit=int(input("Depth Limit (up to 12 is recommended): ")), depthTarget=int(input("Depth target (-1 for auto eval): ")), convertToMd=True)
     
     else:
         print(Fore.RED + "Invalid option, try again by restarting the program." + Fore.RESET)
